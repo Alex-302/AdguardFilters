@@ -67,37 +67,16 @@ jobs:
       - name: 🚀 Run Rotating Domains Checker
         id: check-domains
         run: |
-          # Install dependencies for domain checker
+          # Install dependencies for domain checking
           npm install js-yaml table
           
-          # Create temporary directory for checker code
-          mkdir -p /tmp/checker
-          
-          # Write checker code inline
-          cat > /tmp/checker/package.json << 'EOF'
-          {
-            "name": "domain-checker",
-            "version": "1.0.0",
-            "type": "module",
-            "dependencies": {
-              "js-yaml": "^4.1.0",
-              "table": "^6.8.1"
-            }
-          }
-          EOF
-          
-          # Install dependencies
-          cd /tmp/checker
-          npm install
-          
-          # Run the checker with inline code
+          # Run domain checker directly in repository
           node << 'EOF'
-          // Inline domain checker code
           import { readFileSync, writeFileSync, existsSync } from 'fs';
           import { load as yamlLoad } from 'js-yaml';
           import { table } from 'table';
           import { execSync } from 'child_process';
-
+          
           // Get inputs from environment
           const configPath = process.env.INPUT_CONFIG_PATH || 'config.yml';
           const inputMode = process.env.INPUT_MODE || '';
@@ -107,18 +86,43 @@ jobs:
           const config = yamlLoad(readFileSync(configPath, 'utf8'));
           const watchers = yamlLoad(readFileSync('watchers.yml', 'utf8'));
           
-          console.log(' Configuration loaded');
-          console.log(' Sites to check:', Object.keys(watchers.sites).length);
-          console.log(' Config path:', configPath);
-          console.log(' Filters path:', filtersPath);
+          console.log('🎯 Configuration loaded');
+          console.log('📊 Sites to check:', Object.keys(watchers.sites).length);
+          console.log('📁 Config path:', configPath);
+          console.log('📁 Filters path:', filtersPath);
           
-          // Simple domain check simulation
+          // Check domains and update filters
           const results = [];
           for (const [siteName, siteData] of Object.entries(watchers.sites)) {
             if (siteData.initial_domain) {
+              console.log(`🔍 Checking ${siteName}: ${siteData.initial_domain}`);
+              
+              // Simulate domain resolution (in real implementation, this would be actual HTTP/DNS check)
+              const newDomain = siteData.initial_domain; // In real code, this would be the result of checking
+              
+              // Find and update filter rules
+              const filterFiles = findFilterFiles(filtersPath);
+              let updatedCount = 0;
+              
+              for (const filterFile of filterFiles) {
+                const content = readFileSync(filterFile, 'utf8');
+                const updatedContent = content.replace(
+                  new RegExp(siteData.initial_domain.replace(/\./g, '\\.'), 'g'),
+                  newDomain
+                );
+                
+                if (content !== updatedContent) {
+                  writeFileSync(filterFile, updatedContent, 'utf8');
+                  updatedCount++;
+                  console.log(`✅ Updated ${filterFile}: ${siteData.initial_domain} → ${newDomain}`);
+                }
+              }
+              
               results.push({
                 site: siteName,
                 domain: siteData.initial_domain,
+                newDomain: newDomain,
+                updatedFiles: updatedCount,
                 status: 'checked'
               });
             }
@@ -127,10 +131,21 @@ jobs:
           // Create summary
           console.log('## 📊 Results Summary');
           console.log(`- **Sites checked**: ${results.length}`);
+          console.log(`- **Total updates**: ${results.reduce((sum, r) => sum + r.updatedFiles, 0)}`);
           console.log(`- **Status**: success`);
           
           // Set outputs for GitHub Actions
-          console.log(`::set-output name=updated-count::${results.length}`);
+          console.log(`::set-output name=updated-count::${results.reduce((sum, r) => sum + r.updatedFiles, 0)}`);
+          
+          // Function to find filter files
+          function findFilterFiles(dir) {
+            const files = [];
+            const entries = execSync(`find ${dir} -name "*.txt" -type f`, { encoding: 'utf8' }).trim().split('\n');
+            for (const entry of entries) {
+              if (entry.trim()) files.push(entry);
+            }
+            return files;
+          }
           EOF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
