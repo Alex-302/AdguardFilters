@@ -92,7 +92,7 @@ jobs:
           
           echo "✅ Domain checker completed"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           INPUT_CONFIG_PATH: ${{ github.event.inputs.config-path || 'config.yml' }}
           INPUT_MODE: ${{ github.event.inputs.mode || '' }}
           INPUT_FILTERS_PATH: ${{ github.event.inputs.filters-path || './' }}
