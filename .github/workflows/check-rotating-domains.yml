@@ -66,13 +66,30 @@ jobs:
 
       - name: 🚀 Run Rotating Domains Checker
         id: check-domains
-        uses: Alex-302/RotatingDomainsChecker@v1.0.1
-        with:
-          config-path: ${{ github.event.inputs.config-path || 'config.yml' }}
-          mode: ${{ github.event.inputs.mode || '' }}
-          filters-path: ${{ github.event.inputs.filters-path || './' }}
+        run: |
+          # Clone checker repository to temporary directory
+          echo "📥 Cloning RotatingDomainsChecker..."
+          git clone https://${{ secrets.PAT_TOKEN }}@github.com/Alex-302/RotatingDomainsChecker.git /tmp/checker
+          
+          # Install dependencies and build
+          echo "📦 Installing dependencies..."
+          cd /tmp/checker
+          npm install
+          npm run build
+          
+          # Return to AdguardFilters directory
+          cd $GITHUB_WORKSPACE
+          
+          # Run checker in AdguardFilters context
+          echo "🔍 Running domain checker..."
+          node /tmp/checker/dist/index.js
+          
+          echo "✅ Domain checker completed"
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_CONFIG_PATH: ${{ github.event.inputs.config-path || 'config.yml' }}
+          INPUT_MODE: ${{ github.event.inputs.mode || '' }}
+          INPUT_FILTERS_PATH: ${{ github.event.inputs.filters-path || './' }}
 
       - name: 📊 Display Results
         if: always()
