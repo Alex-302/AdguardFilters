@@ -1,4 +1,4 @@
-name: Check Rotating Domains
+name: Check Rotating Domains v2
 
 on:
   # Automatic run every day at 20:00 UTC
@@ -62,12 +62,10 @@ jobs:
           echo "- **Mode**: ${{ github.event.inputs.mode || 'from config.yml' }}" >> $GITHUB_STEP_SUMMARY
           echo "- **Config path**: ${{ github.event.inputs.config-path || 'config.yml' }}" >> $GITHUB_STEP_SUMMARY
           echo "- **Filters path**: ${{ github.event.inputs.filters-path || './' }}" >> $GITHUB_STEP_SUMMARY
-          echo "- **Trigger**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
-          echo "- **Repository**: ${{ github.repository }}" >> $GITHUB_STEP_SUMMARY
 
-      - name: 🚀 Run Rotating Domains Checker
+      - name: Run Rotating Domains Checker
         id: check-domains
-        uses: Alex-302/rotatingdomainschecker@v1
+        uses: Alex-302/RotatingDomainsChecker@main
         with:
           config-path: ${{ github.event.inputs.config-path || 'config.yml' }}
           mode: ${{ github.event.inputs.mode || '' }}
