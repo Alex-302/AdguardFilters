@@ -98,12 +98,19 @@ jobs:
           import { table } from 'table';
           import { execSync } from 'child_process';
 
+          // Get inputs from environment
+          const configPath = process.env.INPUT_CONFIG_PATH || 'config.yml';
+          const inputMode = process.env.INPUT_MODE || '';
+          const filtersPath = process.env.INPUT_FILTERS_PATH || './';
+          
           // Load configuration
-          const config = yamlLoad(readFileSync('config.yml', 'utf8'));
+          const config = yamlLoad(readFileSync(configPath, 'utf8'));
           const watchers = yamlLoad(readFileSync('watchers.yml', 'utf8'));
           
-          console.log('🎯 Configuration loaded');
-          console.log('📊 Sites to check:', Object.keys(watchers.sites).length);
+          console.log(' Configuration loaded');
+          console.log(' Sites to check:', Object.keys(watchers.sites).length);
+          console.log(' Config path:', configPath);
+          console.log(' Filters path:', filtersPath);
           
           // Simple domain check simulation
           const results = [];
