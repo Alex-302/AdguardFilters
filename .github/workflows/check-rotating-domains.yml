@@ -65,7 +65,7 @@ jobs:
 
       - name: Run Rotating Domains Checker
         id: check-domains
-        uses: Alex-302/RotatingDomainsChecker@main
+        uses: Alex-302/RotatingDomainsChecker@87a45f23b46de26bdd13e5f413f60037a0698f7c
         with:
           config-path: ${{ github.event.inputs.config-path || 'config.yml' }}
           mode: ${{ github.event.inputs.mode || '' }}
