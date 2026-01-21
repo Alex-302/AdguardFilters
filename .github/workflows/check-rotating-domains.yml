@@ -1,4 +1,4 @@
-name: Check Rotating Domains
+name: Check Rotating Domains v2
 
 on:
   # Automatic run every day at 20:00 UTC
