@@ -67,6 +67,10 @@ jobs:
       - name: 🚀 Run Rotating Domains Checker
         id: check-domains
         run: |
+          # Configure git user for commits
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          
           # Clone checker repository to temporary directory (specific commit)
           echo "📥 Cloning RotatingDomainsChecker..."
           git clone --depth 1 https://${{ secrets.PAT_TOKEN }}@github.com/Alex-302/RotatingDomainsChecker.git /tmp/checker
