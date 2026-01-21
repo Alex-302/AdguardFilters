@@ -67,7 +67,7 @@ jobs:
 
       - name: 🚀 Run Rotating Domains Checker
         id: check-domains
-        uses: Alex-302/rotating-domains-checker@v1
+        uses: Alex-302/rotatingdomainschecker@v1
         with:
           config-path: ${{ github.event.inputs.config-path || 'config.yml' }}
           mode: ${{ github.event.inputs.mode || '' }}
@@ -141,3 +141,4 @@ jobs:
           echo "❌ Rotating domains check failed!" >> $GITHUB_STEP_SUMMARY
           echo "Please check the logs above for details." >> $GITHUB_STEP_SUMMARY
           echo "🔗 [View workflow run](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})" >> $GITHUB_STEP_SUMMARY
+
