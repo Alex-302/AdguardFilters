@@ -67,13 +67,15 @@ jobs:
       - name: 🚀 Run Rotating Domains Checker
         id: check-domains
         run: |
-          # Clone checker repository to temporary directory
+          # Clone checker repository to temporary directory (specific commit)
           echo "📥 Cloning RotatingDomainsChecker..."
-          git clone https://${{ secrets.PAT_TOKEN }}@github.com/Alex-302/RotatingDomainsChecker.git /tmp/checker
+          git clone --depth 1 https://${{ secrets.PAT_TOKEN }}@github.com/Alex-302/RotatingDomainsChecker.git /tmp/checker
+          cd /tmp/checker
+          git fetch origin 169741a033d04ffa5d59a86cfa1b9c42978529e2
+          git checkout 169741a033d04ffa5d59a86cfa1b9c42978529e2
           
           # Install dependencies and build
           echo "📦 Installing dependencies..."
-          cd /tmp/checker
           npm install
           npm run build
           
