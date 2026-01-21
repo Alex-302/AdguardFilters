@@ -1,0 +1,143 @@
+name: Check Rotating Domains
+
+on:
+  # Automatic run every day at 20:00 UTC
+  schedule:
+    - cron: '0 4 * * *'
+
+  # Manual run with mode selection
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Run mode (overrides config.yml setting)'
+        required: false
+        default: ''
+        type: choice
+        options:
+          - ''              # Use config.yml setting
+          - 'prod'          # Direct commits to master
+          - 'debug'         # Create pull request
+          - 'prod-dry'      # Dry run with prod mode simulation
+          - 'debug-dry'     # Dry run with debug mode simulation
+
+      config-path:
+        description: 'Path to configuration file'
+        required: false
+        default: 'config.yml'
+        type: string
+
+      filters-path:
+        description: 'Path to filters directory'
+        required: false
+        default: './'
+        type: string
+
+jobs:
+  check-domains:
+    name: Check and Update Rotating Domains
+    runs-on: ubuntu-latest
+
+    # Permissions for git operations
+    permissions:
+      contents: write          # Required for commits
+      pull-requests: write     # Required for PR creation
+      actions: read           # Required for reading workflow info
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0       # Full git history for PR operations
+
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Display configuration
+        run: |
+          echo "## 🎯 Configuration" >> $GITHUB_STEP_SUMMARY
+          echo "- **Mode**: ${{ github.event.inputs.mode || 'from config.yml' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Config path**: ${{ github.event.inputs.config-path || 'config.yml' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Filters path**: ${{ github.event.inputs.filters-path || './' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Trigger**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Repository**: ${{ github.repository }}" >> $GITHUB_STEP_SUMMARY
+
+      - name: 🚀 Run Rotating Domains Checker
+        id: check-domains
+        uses: Alex-302/rotating-domains-checker@v1
+        with:
+          config-path: ${{ github.event.inputs.config-path || 'config.yml' }}
+          mode: ${{ github.event.inputs.mode || '' }}
+          filters-path: ${{ github.event.inputs.filters-path || './' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: Add custom environment variables
+          LOG_LEVEL: info
+          CUSTOM_HEADER: "AdguardFilters - Rotating Domains Check"
+
+      - name: 📊 Display Results
+        if: always()
+        run: |
+          echo "## 📊 Results Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- **Status**: ${{ steps.check-domains.outcome }}" >> $GITHUB_STEP_SUMMARY
+
+          # Display outputs if available
+          if [ "${{ steps.check-domains.outputs.updated-count }}" != "" ]; then
+            echo "- **Domains updated**: ${{ steps.check-domains.outputs.updated-count }}" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          if [ "${{ steps.check-domains.outputs.commit-sha }}" != "" ]; then
+            echo "- **Commit SHA**: ${{ steps.check-domains.outputs.commit-sha }}" >> $GITHUB_STEP_SUMMARY
+            echo "- **Commit link**: [View commit](https://github.com/${{ github.repository }}/commit/${{ steps.check-domains.outputs.commit-sha }})" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          if [ "${{ steps.check-domains.outputs.pr-number }}" != "" ]; then
+            echo "- **PR Number**: #${{ steps.check-domains.outputs.pr-number }}" >> $GITHUB_STEP_SUMMARY
+            echo "- **PR link**: [View PR](https://github.com/${{ github.repository }}/pull/${{ steps.check-domains.outputs.pr-number }})" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: 🔍 Check for changes
+        id: verify-changes
+        if: always()
+        run: |
+          if [ -f "logs/rotating-domains-checker.log" ]; then
+            echo "📋 Log file found" >> $GITHUB_STEP_SUMMARY
+            echo "## 📋 Recent Log Entries" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            tail -20 logs/rotating-domains-checker.log >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ No log file found" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: 📋 Show affected filters
+        if: always()
+        run: |
+          echo "## 📋 Filter Directory Status" >> $GITHUB_STEP_SUMMARY
+          echo "- **TurkishFilter sections**: $(find TurkishFilter/sections -name "*.txt" | wc -l) files" >> $GITHUB_STEP_SUMMARY
+          echo "- **BaseFilter sections**: $(find BaseFilter/sections -name "*.txt" | wc -l) files" >> $GITHUB_STEP_SUMMARY
+          echo "- **ExperimentalFilter sections**: $(find ExperimentalFilter/sections -name "*.txt" | wc -l) files" >> $GITHUB_STEP_SUMMARY
+
+          # Show recent changes if any
+          if git diff --name-only HEAD~1 HEAD 2>/dev/null | grep -q "\.txt$"; then
+            echo "### Recently changed filter files:" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            git diff --name-only HEAD~1 HEAD | grep "\.txt$" | head -10 >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: 🎉 Success Notification
+        if: success()
+        run: |
+          echo "✅ Rotating domains check completed successfully!" >> $GITHUB_STEP_SUMMARY
+          echo "🔗 [View workflow run](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})" >> $GITHUB_STEP_SUMMARY
+
+      - name: ❌ Failure Notification
+        if: failure()
+        run: |
+          echo "❌ Rotating domains check failed!" >> $GITHUB_STEP_SUMMARY
+          echo "Please check the logs above for details." >> $GITHUB_STEP_SUMMARY
+          echo "🔗 [View workflow run](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})" >> $GITHUB_STEP_SUMMARY
