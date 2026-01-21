@@ -1,0 +1,66 @@
+Run: 2026-01-21 22:41:45.764
+================================================================================
+
+2026-01-21 22:41:41.543 Rotating Domains Checker v1.0.1 - WRITE mode
+2026-01-21 22:41:41.545 Test filters dir: NO
+2026-01-21 22:41:41.545 Target repo path: ./
+2026-01-21 22:41:41.545 Sites to check: 25
+
+2026-01-21 22:41:44.156 
+                      Redirected domains 
+╔════════════════════════════════════════════════════╤════════════════════╤════════════════════╤═══════╗
+║ Site                                               │ From               │ To                 │ Time  ║
+╟────────────────────────────────────────────────────┼────────────────────┼────────────────────┼───────╢
+║ Dynamic mirrors (CN) — dd.*                        │ dd.yvhoyh.com      │ dd.xigphc.cn       │ 2.23s ║
+║ Frequently changed domains — sahatv*.top — Saha TV │ sahatv2.top        │ sahatv5.top        │ 2.43s ║
+║ Turkish streaming — turkifsaclub*.sbs              │ turkifsaclub28.sbs │ turkifsaclub29.sbs │ 1.61s ║
+╚════════════════════════════════════════════════════╧════════════════════╧════════════════════╧═══════╝
+
+2026-01-21 22:41:45.657 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-01-21 22:41:45.657   Total sites: 25
+2026-01-21 22:41:45.657   ├─ Checked sites: 25
+2026-01-21 22:41:45.657   ├─ Updated sites: 3
+2026-01-21 22:41:45.657   └─ Unchanged sites: 17
+2026-01-21 22:41:45.657  🚨  Failed: 5
+2026-01-21 22:41:45.657   ├─ including antibot blocked: 1
+2026-01-21 22:41:45.657   └─ Network problems or dead: 4
+2026-01-21 22:41:45.658 
+2026-01-21 22:41:45.658 Problems:
+2026-01-21 22:41:45.658  🚨 Errors (no replacements made):
+2026-01-21 22:41:45.658      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.08s)
+2026-01-21 22:41:45.658      - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.15s)
+2026-01-21 22:41:45.658      - Turkish streaming — inattvizle*.top [https://www.inattvizle358.top/]: Antibot detected: 403 or __cf_chl_tk in URL (1.34s)
+2026-01-21 22:41:45.658      - Justin TV streaming — justintv*.com [https://justintv987.com]: DNS resolution failed (0.03s)
+2026-01-21 22:41:45.658      - Justin TV streaming — justintvizle*.com [https://justintvizle45.com]: DNS resolution failed (0.03s)
+2026-01-21 22:41:45.658  ⚠️  Warnings:
+2026-01-21 22:41:45.658      - Dead site test - deadexample24.com: Failed for 21 days - consider removing from filters
+2026-01-21 22:41:45.658 
+2026-01-21 22:41:45.658 Total phase time: 2.602s
+2026-01-21 22:41:45.658 
+2026-01-21 22:41:45.658 Unchanged sites:
+                        example.org, example.de, yavasgir40.com, trgooltv54.top, netsportv236.top, zeusdizi8.com, gobtv3.com, seyirspor10.com, kodtimetv9.com, acartv82.live, betmatiktv108.com, lorabettvhd80.shop, otobettv18.com, askimyavas73.com, www.portobettv55.com, betivotv156.com, vegatv83.shop, dizipal1961.com, www.inattvizle358.top
+
+2026-01-21 22:41:45.658 === Domains replacement summary ===
+2026-01-21 22:41:45.658 Files scanned: 160
+2026-01-21 22:41:45.658 Files modified: 1
+2026-01-21 22:41:45.658 Total line edits: 51
+2026-01-21 22:41:45.658 Total phase time: 1.508s
+2026-01-21 22:41:45.658 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-01-21 22:41:45.764 ⌛ Total execution time: 4.226s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Pull Request Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Branch: domain-rotate/2026-01-21
+Commit message:
+Updating domains after redirect check
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.08s)
+     - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.15s)
+     - Turkish streaming — inattvizle*.top [https://www.inattvizle358.top/]: Antibot detected: 403 or __cf_chl_tk in URL (1.34s)
+     - Justin TV streaming — justintv*.com [https://justintv987.com]: DNS resolution failed (0.03s)
+     - Justin TV streaming — justintvizle*.com [https://justintvizle45.com]: DNS resolution failed (0.03s)
+⚠️  Warnings:
+     - Dead site test - deadexample24.com: Failed for 21 days - consider removing from filters
+⬆️ ⬆️ ⬆️  💡 💡 💡  Pull Request Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
