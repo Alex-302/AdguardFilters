@@ -37,11 +37,12 @@ jobs:
     name: Check and Update Rotating Domains
     runs-on: ubuntu-latest
 
-    # Permissions for git operations
+    # Permissions for git operations and private repository access
     permissions:
       contents: write          # Required for commits
       pull-requests: write     # Required for PR creation
       actions: read           # Required for reading workflow info
+      packages: read          # Required for private Actions
 
     steps:
       - name: 📥 Checkout repository
@@ -63,16 +64,24 @@ jobs:
           echo "- **Config path**: ${{ github.event.inputs.config-path || 'config.yml' }}" >> $GITHUB_STEP_SUMMARY
           echo "- **Filters path**: ${{ github.event.inputs.filters-path || './' }}" >> $GITHUB_STEP_SUMMARY
 
-      - name: Run Rotating Domains Checker
+      - name: 🚀 Run Rotating Domains Checker
         id: check-domains
-        uses: Alex-302/RotatingDomainsChecker@87a45f23b46de26bdd13e5f413f60037a0698f7c
-        with:
-          config-path: ${{ github.event.inputs.config-path || 'config.yml' }}
-          mode: ${{ github.event.inputs.mode || '' }}
-          filters-path: ${{ github.event.inputs.filters-path || './' }}
+        run: |
+          # Clone private repository
+          git clone https://${{ secrets.PAT_TOKEN }}@github.com/Alex-302/RotatingDomainsChecker.git /tmp/action
+          cd /tmp/action
+          
+          # Install dependencies
+          npm install
+          npm run build
+          
+          # Run the checker
+          node dist/index.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Optional: Add custom environment variables
+          INPUT_CONFIG_PATH: ${{ github.event.inputs.config-path || 'config.yml' }}
+          INPUT_MODE: ${{ github.event.inputs.mode || '' }}
+          INPUT_FILTERS_PATH: ${{ github.event.inputs.filters-path || './' }}
           LOG_LEVEL: info
           CUSTOM_HEADER: "AdguardFilters - Rotating Domains Check"
 
