@@ -5,18 +5,16 @@ sites:
     path: ''
     probe_text: []
     last_failed: 2026-01-01 16:45
-    failed_days: 20
+    failed_days: 21
     potentially_dead: true
-
   Dynamic mirrors (CN) — dd.*:
     initial_domain: dd.yvhoyh.com/download/2278_0.html
-    last_known_mirror: https://dd.xjcwmx.com/download/2278_0.html
+    last_known_mirror: https://dd.xgdpjd.cn/download/2278_0.html
     path: /download/2278_0.html
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Test Probe Fail - example.org:
     initial_domain: null
     last_known_mirror: example.org
@@ -25,204 +23,185 @@ sites:
       - not existing text
     last_seen: ''
     last_failed: 2026-01-20 01:08
-    failed_days: 1
+    failed_days: 3
     potentially_dead: true
-
   Test Probe Success - example.de:
     initial_domain: null
     last_known_mirror: example.de
     path: ''
     probe_text:
       - Malerei der Gruppe 3erlei
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Frequently changed domains — sahatv*.top — Saha TV:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Frequently changed domains — YavasGir*.com — YavasGir:
     initial_domain: null
     last_known_mirror: yavasgir40.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Turkish streaming — turkifsaclub*.sbs:
     initial_domain: turkifsaclub28.sbs
-    last_known_mirror: ''
+    last_known_mirror: turkifsaclub29.sbs
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Sports streaming — trgooltv*.top:
     initial_domain: trgooltv54.top
-    last_known_mirror: ''
+    last_known_mirror: trgooltv54.top
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Sports streaming — netsportv*.top:
     initial_domain: netsportv236.top
-    last_known_mirror: ''
+    last_known_mirror: netsportv236.top
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Movie streaming — zeusdizi*.com:
     initial_domain: zeusdizi8.com
-    last_known_mirror: ''
+    last_known_mirror: zeusdizi8.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Live streaming — gobtv*.com:
     initial_domain: gobtv3.com
-    last_known_mirror: ''
+    last_known_mirror: gobtv4.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Sports channels — seyirspor*.com:
     initial_domain: seyirspor10.com
-    last_known_mirror: ''
+    last_known_mirror: seyirspor11.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Kodi streaming — kodtimetv*.com:
     initial_domain: kodtimetv9.com
-    last_known_mirror: ''
+    last_known_mirror: kodtimetv10.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Turkish TV streaming — acartv*.live:
     initial_domain: acartv82.live
-    last_known_mirror: ''
+    last_known_mirror: acartv83.live
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Betting/streaming hybrid — betmatiktv*.com:
     initial_domain: betmatiktv108.com
-    last_known_mirror: ''
+    last_known_mirror: betmatiktv109.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Live TV streaming — lorabettvhd*.shop:
     initial_domain: lorabettvhd80.shop
-    last_known_mirror: ''
+    last_known_mirror: lorabettvhd80.shop
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Sports betting streaming — otobettv*.com:
     initial_domain: otobettv18.com
-    last_known_mirror: ''
+    last_known_mirror: otobettv18.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Turkish streaming — askimyavas*.com:
     initial_domain: askimyavas73.com
-    last_known_mirror: ''
+    last_known_mirror: askimyavas73.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Portobet streaming — portobettv*.com:
     initial_domain: www.portobettv55.com
-    last_known_mirror: ''
+    last_known_mirror: www.portobettv55.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Betting streaming — betivotv*.com:
     initial_domain: betivotv156.com
-    last_known_mirror: ''
+    last_known_mirror: betivotv156.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Movie streaming — vegatv*.shop:
     initial_domain: vegatv83.shop
-    last_known_mirror: ''
+    last_known_mirror: vegatv83.shop
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Sports streaming — dizipal*.com:
     initial_domain: dizipal1961.com
-    last_known_mirror: ''
+    last_known_mirror: dizipal1962.com
     path: ''
     probe_text: []
-    last_seen: 2026-01-20 21:09
+    last_seen: 2026-01-22 04:44
     last_failed: ''
     failed_days: 0
-
   Turkish streaming — inattvizle*.top:
     initial_domain: www.inattvizle355.top
     last_known_mirror: ''
     path: ''
     probe_text: []
     last_seen: 2026-01-20 21:09
-    last_failed: ''
+    last_failed: 2026-01-22 04:44
     failed_days: 0
-
+    potentially_dead: true
   Justin TV streaming — justintv*.com:
     initial_domain: justintv987.com
     last_known_mirror: ''
     path: ''
     probe_text: []
     last_seen: 2026-01-20 21:09
-    last_failed: ''
+    last_failed: 2026-01-22 04:44
     failed_days: 0
-
+    potentially_dead: true
   Justin TV streaming — justintvizle*.com:
     initial_domain: justintvizle45.com
     last_known_mirror: ''
     path: ''
     probe_text: []
     last_seen: 2026-01-20 21:09
-    last_failed: ''
+    last_failed: 2026-01-22 04:44
     failed_days: 0
+    potentially_dead: true
