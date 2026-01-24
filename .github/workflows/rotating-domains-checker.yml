@@ -47,9 +47,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           # For public repository: use default token
-          token: ${{ secrets.GITHUB_TOKEN }}
+          #token: ${{ secrets.GITHUB_TOKEN }}
           # For private repository or PR creation: use PAT token
-          # token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
           fetch-depth: 1
 
       - name: 🔧 Setup Node.js
@@ -66,9 +66,9 @@ jobs:
 
           # Clone Rotating Domains Checker repository
           # For public repository: use simple clone without token
-          git clone https://github.com/Alex-302/RotatingDomainsChecker.git /tmp/checker
+          # git clone https://github.com/Alex-302/RotatingDomainsChecker.git /tmp/checker
           # For private repository: use PAT token
-          # git clone https://${{ secrets.PAT_TOKEN }}@github.com/Alex-302/RotatingDomainsChecker.git /tmp/checker
+          git clone https://${{ secrets.PAT_TOKEN }}@github.com/Alex-302/RotatingDomainsChecker.git /tmp/checker
 
           cd /tmp/checker
           npm install
@@ -79,9 +79,9 @@ jobs:
           node /tmp/checker/dist/index.js
         env:
           # For public repository: use default token
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # For private repository or PR creation: use PAT token
-          # GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           INPUT_CONFIG_PATH: ${{ github.event.inputs.config-path || 'config.yml' }}
           INPUT_MODE: ${{ github.event.inputs.mode || '' }}
           INPUT_FILTERS_PATH: ${{ github.event.inputs.filters-path || './' }}
