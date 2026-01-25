@@ -71,3 +71,61 @@ Updating domains after redirect check
      - Dead site test - deadexample24.com: Failed for 24 days - consider removing from filters
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Pull Request Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-01-25 12:04:34.300
+================================================================================
+
+2026-01-25 12:04:25.022 Rotating Domains Checker v1.0.1 - WRITE mode
+2026-01-25 12:04:25.024 Test filters dir: NO
+2026-01-25 12:04:25.024 Target repo path: ./
+2026-01-25 12:04:25.024 Sites to check: 25
+
+2026-01-25 12:04:34.194 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-01-25 12:04:34.195   Total sites: 25
+2026-01-25 12:04:34.195   ├─ Checked sites: 25
+2026-01-25 12:04:34.195   ├─ Updated sites: 0
+2026-01-25 12:04:34.195   └─ Unchanged sites: 25
+2026-01-25 12:04:34.195  🚨  Failed: 5
+2026-01-25 12:04:34.195   ├─ including antibot blocked: 1
+2026-01-25 12:04:34.195   └─ Network problems or dead: 4
+2026-01-25 12:04:34.195 
+2026-01-25 12:04:34.195 Problems:
+2026-01-25 12:04:34.195  🚨 Errors (no replacements made):
+2026-01-25 12:04:34.195      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.26s)
+2026-01-25 12:04:34.195      - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.41s)
+2026-01-25 12:04:34.195      - Turkish streaming — inattvizle*.top [https://www.inattvizle364.top/]: Antibot detected: 403 or __cf_chl_tk in URL (1.48s)
+2026-01-25 12:04:34.195      - Justin TV streaming — justintv*.com [https://justintv987.com]: DNS resolution failed (0.02s)
+2026-01-25 12:04:34.195      - Justin TV streaming — justintvizle*.com [https://justintvizle45.com]: DNS resolution failed (0.02s)
+2026-01-25 12:04:34.195  ⚠️  Warnings:
+2026-01-25 12:04:34.195      - Dead site test - deadexample24.com: Failed for 24 days - consider removing from filters
+2026-01-25 12:04:34.195 
+2026-01-25 12:04:34.195 Total phase time: 6.927s
+2026-01-25 12:04:34.195 
+2026-01-25 12:04:34.195 Unchanged sites:
+                        dd.tiokbg.com, example.org, example.de, sahatv5.top, yavasgir41.com, turkifsaclub28.sbs, trgooltv54.top, netsportv236.top, zeusdizi9.com, gobtv4.com, seyirspor11.com, kodtimetv10.com, acartv84.live, betmatiktv109.com, lorabettvhd80.shop, otobettv18.com, askimyavas75.com, www.portobettv55.com, betivotv156.com, vegatv83.shop, dizipal1964.com, www.inattvizle364.top
+
+2026-01-25 12:04:34.195 === Domains replacement summary ===
+2026-01-25 12:04:34.195 Files scanned: 160
+2026-01-25 12:04:34.195 Files modified: 0
+2026-01-25 12:04:34.195 Total line edits: 0
+2026-01-25 12:04:34.195 Total phase time: 2.242s
+2026-01-25 12:04:34.195 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-01-25 12:04:34.299 ⌛ Total execution time: 9.283s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Pull Request Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Branch: domain-rotate/2026-01-25
+Commit message:
+Rotating Domains Checker: Updating domains
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.26s)
+     - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.41s)
+     - Turkish streaming — inattvizle*.top [https://www.inattvizle364.top/]: Antibot detected: 403 or __cf_chl_tk in URL (1.48s)
+     - Justin TV streaming — justintv*.com [https://justintv987.com]: DNS resolution failed (0.02s)
+     - Justin TV streaming — justintvizle*.com [https://justintvizle45.com]: DNS resolution failed (0.02s)
+⚠️  Warnings:
+     - Dead site test - deadexample24.com: Failed for 24 days - consider removing from filters
+⬆️ ⬆️ ⬆️  💡 💡 💡  Pull Request Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
