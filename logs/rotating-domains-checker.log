@@ -1,0 +1,73 @@
+Run: 2026-01-25 11:24:43.327
+================================================================================
+
+2026-01-25 11:24:14.456 Rotating Domains Checker v1.0.1 - WRITE mode
+2026-01-25 11:24:14.458 Test filters dir: NO
+2026-01-25 11:24:14.458 Target repo path: ./
+2026-01-25 11:24:14.458 Sites to check: 25
+
+2026-01-25 11:24:40.709 
+                      Redirected domains 
+╔════════════════════════════════════════════════════╤═══════════════════╤═══════════════════╤═══════╗
+║ Site                                               │ From              │ To                │ Time  ║
+╟────────────────────────────────────────────────────┼───────────────────┼───────────────────┼───────╢
+║ Dynamic mirrors (CN) — dd.*                        │ dd.yvhoyh.com     │ dd.tiokbg.com     │ 2.59s ║
+║ Frequently changed domains — sahatv*.top — Saha TV │ sahatv2.top       │ sahatv5.top       │ 2.20s ║
+║ Movie streaming — zeusdizi*.com                    │ zeusdizi8.com     │ zeusdizi9.com     │ 2.16s ║
+║ Live streaming — gobtv*.com                        │ gobtv3.com        │ gobtv4.com        │ 5.31s ║
+║ Sports channels — seyirspor*.com                   │ seyirspor10.com   │ seyirspor11.com   │ 5.36s ║
+║ Kodi streaming — kodtimetv*.com                    │ kodtimetv9.com    │ kodtimetv10.com   │ 5.46s ║
+║ Turkish TV streaming — acartv*.live                │ acartv82.live     │ acartv84.live     │ 5.50s ║
+║ Betting/streaming hybrid — betmatiktv*.com         │ betmatiktv108.com │ betmatiktv109.com │ 0.76s ║
+║ Turkish streaming — askimyavas*.com                │ askimyavas73.com  │ askimyavas75.com  │ 1.46s ║
+║ Sports streaming — dizipal*.com                    │ dizipal1961.com   │ dizipal1964.com   │ 1.60s ║
+╚════════════════════════════════════════════════════╧═══════════════════╧═══════════════════╧═══════╝
+
+2026-01-25 11:24:43.222 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-01-25 11:24:43.222   Total sites: 25
+2026-01-25 11:24:43.222   ├─ Checked sites: 25
+2026-01-25 11:24:43.222   ├─ Updated sites: 10
+2026-01-25 11:24:43.222   └─ Unchanged sites: 10
+2026-01-25 11:24:43.222  🚨  Failed: 5
+2026-01-25 11:24:43.222   ├─ including antibot blocked: 1
+2026-01-25 11:24:43.222   └─ Network problems or dead: 4
+2026-01-25 11:24:43.222 
+2026-01-25 11:24:43.222 Problems:
+2026-01-25 11:24:43.222  🚨 Errors (no replacements made):
+2026-01-25 11:24:43.222      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.06s)
+2026-01-25 11:24:43.222      - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.10s)
+2026-01-25 11:24:43.222      - Turkish streaming — inattvizle*.top [https://www.inattvizle364.top/]: Antibot detected: 403 or __cf_chl_tk in URL (1.17s)
+2026-01-25 11:24:43.222      - Justin TV streaming — justintv*.com [https://justintv987.com]: DNS resolution failed (0.02s)
+2026-01-25 11:24:43.222      - Justin TV streaming — justintvizle*.com [https://justintvizle45.com]: DNS resolution failed (0.01s)
+2026-01-25 11:24:43.222  ⚠️  Warnings:
+2026-01-25 11:24:43.222      - Dead site test - deadexample24.com: Failed for 24 days - consider removing from filters
+2026-01-25 11:24:43.222 
+2026-01-25 11:24:43.222 Total phase time: 26.241s
+2026-01-25 11:24:43.222 
+2026-01-25 11:24:43.222 Unchanged sites:
+                        example.org, example.de, yavasgir41.com, turkifsaclub28.sbs, trgooltv54.top, netsportv236.top, lorabettvhd80.shop, otobettv18.com, www.portobettv55.com, betivotv156.com, vegatv83.shop, www.inattvizle364.top
+
+2026-01-25 11:24:43.222 === Domains replacement summary ===
+2026-01-25 11:24:43.222 Files scanned: 160
+2026-01-25 11:24:43.222 Files modified: 1
+2026-01-25 11:24:43.222 Total line edits: 17
+2026-01-25 11:24:43.222 Total phase time: 2.522s
+2026-01-25 11:24:43.222 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-01-25 11:24:43.326 ⌛ Total execution time: 28.875s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Pull Request Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Branch: domain-rotate/2026-01-25
+Commit message:
+Updating domains after redirect check
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.06s)
+     - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.10s)
+     - Turkish streaming — inattvizle*.top [https://www.inattvizle364.top/]: Antibot detected: 403 or __cf_chl_tk in URL (1.17s)
+     - Justin TV streaming — justintv*.com [https://justintv987.com]: DNS resolution failed (0.02s)
+     - Justin TV streaming — justintvizle*.com [https://justintvizle45.com]: DNS resolution failed (0.01s)
+⚠️  Warnings:
+     - Dead site test - deadexample24.com: Failed for 24 days - consider removing from filters
+⬆️ ⬆️ ⬆️  💡 💡 💡  Pull Request Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
