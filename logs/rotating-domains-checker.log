@@ -1,0 +1,93 @@
+Run: 2026-01-25 13:22:39.925
+================================================================================
+
+2026-01-25 13:21:39.120 Rotating Domains Checker v1.0.1 - WRITE mode
+2026-01-25 13:21:39.122 Test filters dir: NO
+2026-01-25 13:21:39.122 Target repo path: ./
+2026-01-25 13:21:39.122 Sites to check: 31
+
+2026-01-25 13:22:35.374 
+                      Redirected domains 
+╔════════════════════════════════════════════════════════╤═════════════════════╤═════════════════════════════╤════════╗
+║ Site                                                   │ From                │ To                          │ Time   ║
+╟────────────────────────────────────────────────────────┼─────────────────────┼─────────────────────────────┼────────╢
+║ Dynamic mirrors (CN) — dd.*                            │ dd.yvhoyh.com       │ dd.tiokbg.com               │ 4.46s  ║
+║ Frequently changed domains — sahatv*.top — Saha TV     │ sahatv2.top         │ sahatv5.top                 │ 2.81s  ║
+║ Frequently changed domains — YavasGir*.com — YavasGir  │ yavasgir31.com      │ yavasgir41.com              │ 1.52s  ║
+║ Frequently changed domains — sporcafe*.xyz — Spor Cafe │ sporcafe15.xyz      │ www.sporcafe-6459a6f4c4.xyz │ 0.59s  ║
+║ Frequently changed domains — dizipal*.com — Dizipal    │ dizipal1952.com     │ dizipal1964.com             │ 3.47s  ║
+║ Frequently changed domains — zeusdizi*.com             │ zeusdizi1.com       │ zeusdizi9.com               │ 1.85s  ║
+║ Frequently changed domains — turkifsaclub*.sbs         │ turkifsaclub001.sbs │ turkifsaclub31.sbs          │ 1.65s  ║
+║ Frequently changed domains — askimyavas*.com           │ askimyavas54.com    │ askimyavas75.com            │ 5.04s  ║
+║ Frequently changed domains — gobtv*.com                │ gobtv1.com          │ gobtv4.com                  │ 33.07s ║
+║ Frequently changed domains — trgooltv*.top             │ trgooltv51.top      │ trgooltv54.top              │ 2.75s  ║
+║ Frequently changed domains — netsportv*.top            │ netsportv215.top    │ netsportv236.top            │ 33.90s ║
+║ Frequently changed domains — xsportv*.xyz              │ xsportv45.xyz       │ www.xsportv47.xyz           │ 35.20s ║
+║ Frequently changed domains — vegatv*.shop              │ vegatv94.shop       │ vegatv83.shop               │ 35.46s ║
+║ Frequently changed domains — betmatiktv*.com           │ betmatiktv95.com    │ betmatiktv109.com           │ 34.16s ║
+║ Frequently changed domains — seyirspor*.com            │ seyirspor7.com      │ seyirspor11.com             │ 34.30s ║
+║ Frequently changed domains — lorabettvhd*.shop         │ lorabettvhd65.shop  │ lorabettvhd80.shop          │ 34.89s ║
+║ Frequently changed domains — kodtimetv*.com            │ kodtimetv1.com      │ kodtimetv10.com             │ 34.52s ║
+║ Frequently changed domains — acartv*.live              │ acartv77.live       │ acartv84.live               │ 34.67s ║
+║ Frequently changed domains — bosssports*.com           │ bosssports214.com   │ bosssports322.com           │ 3.92s  ║
+║ Frequently changed domains — inattvizle*.top           │ inattvizle301.top   │ www.inattvizle364.top       │ 1.69s  ║
+║ Frequently changed domains — otobettv*.com             │ otobettv12.com      │ otobettv18.com              │ 34.18s ║
+║ Frequently changed domains — betist*tv.live            │ betist126tv.live    │ betist131tv.live            │ 33.75s ║
+║ Frequently changed domains — portobettv*.com           │ portobettv54.com    │ www.portobettv55.com        │ 34.32s ║
+║ Frequently changed domains — betivotv*.com             │ betivotv146.com     │ betivotv156.com             │ 34.69s ║
+╚════════════════════════════════════════════════════════╧═════════════════════╧═════════════════════════════╧════════╝
+
+2026-01-25 13:22:39.818 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-01-25 13:22:39.819   Total sites: 31
+2026-01-25 13:22:39.819   ├─ Checked sites: 31
+2026-01-25 13:22:39.819   ├─ Updated sites: 24
+2026-01-25 13:22:39.819   ├─ Antibot accepted: 1 (not in failed count)
+2026-01-25 13:22:39.819   └─ Unchanged sites: 1
+2026-01-25 13:22:39.819  🚨  Failed: 6
+2026-01-25 13:22:39.819   ├─ including antibot blocked: 3
+2026-01-25 13:22:39.819   └─ Network problems or dead: 3
+2026-01-25 13:22:39.819 
+2026-01-25 13:22:39.819 Problems:
+2026-01-25 13:22:39.819  🚨 Errors (no replacements made):
+2026-01-25 13:22:39.819      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.05s)
+2026-01-25 13:22:39.819      - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.12s)
+2026-01-25 13:22:39.819      - Frequently changed domains — belestepe*.sbs — Belestepe [https://belestepe304.sbs/]: Antibot detected: 403 or __cf_chl_tk in URL (33.03s)
+2026-01-25 13:22:39.819      - Frequently changed domains — zeustv*.com [https://zeustv109.com]: Antibot detected: 403 or __cf_chl_tk in URL (0.26s)
+2026-01-25 13:22:39.819      - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+2026-01-25 13:22:39.819      - Frequently changed domains — rotabettv*.com [https://rotabettv370.com]: Antibot detected: 403 or __cf_chl_tk in URL (0.37s)
+2026-01-25 13:22:39.819  ⚠️  Warnings:
+2026-01-25 13:22:39.819      - Dead site test - deadexample24.com: Failed for 24 days - consider removing from filters
+2026-01-25 13:22:39.819 
+2026-01-25 13:22:39.819 Total phase time: 56.238s
+2026-01-25 13:22:39.819 
+2026-01-25 13:22:39.819 Unchanged sites:
+                        example.org, example.de, belestepe304.sbs, zeustv109.com, rotabettv370.com
+
+2026-01-25 13:22:39.819 === Domains replacement summary ===
+2026-01-25 13:22:39.819 Files scanned: 160
+2026-01-25 13:22:39.819 Files modified: 1
+2026-01-25 13:22:39.819 Total line edits: 69
+2026-01-25 13:22:39.819 Total phase time: 4.457s
+2026-01-25 13:22:39.819 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-01-25 13:22:39.924 ⌛ Total execution time: 60.810s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Target branch: master
+Commit message:
+Rotating Domains Checker: Updating domains
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.05s)
+     - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.12s)
+     - Frequently changed domains — belestepe*.sbs — Belestepe [https://belestepe304.sbs/]: Antibot detected: 403 or __cf_chl_tk in URL (33.03s)
+     - Frequently changed domains — zeustv*.com [https://zeustv109.com]: Antibot detected: 403 or __cf_chl_tk in URL (0.26s)
+     - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+     - Frequently changed domains — rotabettv*.com [https://rotabettv370.com]: Antibot detected: 403 or __cf_chl_tk in URL (0.37s)
+⚠️  Warnings:
+     - Dead site test - deadexample24.com: Failed for 24 days - consider removing from filters
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/21333282199#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
