@@ -91,3 +91,89 @@ Rotating Domains Checker: Updating domains
 📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/21333282199#artifacts
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-01-25 18:36:57.293
+================================================================================
+
+2026-01-25 18:36:44.308 Rotating Domains Checker v1.0.0 - WRITE mode
+2026-01-25 18:36:44.309 Test filters dir: NO
+2026-01-25 18:36:44.309 Target repo path: ./
+2026-01-25 18:36:44.309 Sites to check: 31
+
+2026-01-25 18:36:55.957 
+                      Redirected domains 
+╔══════════════════════════════════════════════╤═══════════════════════╤═══════════════════════╤═══════╗
+║ Site                                         │ From                  │ To                    │ Time  ║
+╟──────────────────────────────────────────────┼───────────────────────┼───────────────────────┼───────╢
+║ Frequently changed domains — bosssports*.com │ bosssports322.com     │ bosssports324.com     │ 5.60s ║
+║ Frequently changed domains — inattvizle*.top │ www.inattvizle364.top │ www.inattvizle367.top │ 1.36s ║
+╚══════════════════════════════════════════════╧═══════════════════════╧═══════════════════════╧═══════╝
+
+2026-01-25 18:36:57.188 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-01-25 18:36:57.188   Total sites: 31
+2026-01-25 18:36:57.188   ├─ Checked sites: 31
+2026-01-25 18:36:57.188   ├─ Updated sites: 2
+2026-01-25 18:36:57.188   ├─ Antibot accepted: 1 (not in failed count)
+2026-01-25 18:36:57.188   └─ Unchanged sites: 23
+2026-01-25 18:36:57.188  🚨  Failed: 6
+2026-01-25 18:36:57.188   ├─ including antibot blocked: 3
+2026-01-25 18:36:57.188   └─ Network problems or dead: 3
+2026-01-25 18:36:57.188 
+2026-01-25 18:36:57.188 Problems:
+2026-01-25 18:36:57.188  🚨 Errors (no replacements made):
+2026-01-25 18:36:57.188      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.08s)
+2026-01-25 18:36:57.188      - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.17s)
+2026-01-25 18:36:57.188      - Frequently changed domains — belestepe*.sbs — Belestepe [https://belestepe304.sbs/]: Antibot detected: 403 or __cf_chl_tk in URL (11.64s)
+2026-01-25 18:36:57.188      - Frequently changed domains — zeustv*.com [https://zeustv109.com]: Antibot detected: 403 or __cf_chl_tk in URL (0.20s)
+2026-01-25 18:36:57.189      - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+2026-01-25 18:36:57.189      - Frequently changed domains — rotabettv*.com [https://rotabettv370.com]: Antibot detected: 403 or __cf_chl_tk in URL (0.64s)
+2026-01-25 18:36:57.189  ⚠️  Warnings:
+2026-01-25 18:36:57.189      - Dead site test - deadexample24.com: Failed for 25 days - consider removing from filters
+2026-01-25 18:36:57.189      - Frequently changed domains — inattvizle*.top: Domain redirected (www.inattvizle364.top → www.inattvizle367.top) but protected by antibot - old domain may remain in filter rules
+2026-01-25 18:36:57.189 
+2026-01-25 18:36:57.189 Total phase time: 11.639s
+2026-01-25 18:36:57.189 
+2026-01-25 18:36:57.189 Unchanged sites:
+                        dd.tiokbg.com, example.org, example.de, sahatv5.top, yavasgir41.com, www.sporcafe-6459a6f4c4.xyz, belestepe304.sbs, dizipal1964.com, zeusdizi9.com, turkifsaclub31.sbs, askimyavas75.com, gobtv4.com, trgooltv54.top, netsportv236.top, zeustv109.com, www.xsportv47.xyz, vegatv83.shop, betmatiktv109.com, seyirspor11.com, lorabettvhd80.shop, kodtimetv10.com, acartv84.live, otobettv18.com, rotabettv370.com, betist131tv.live, www.portobettv55.com, betivotv156.com
+
+2026-01-25 18:36:57.189 === Domains replacement summary ===
+2026-01-25 18:36:57.189 Files scanned: 160
+2026-01-25 18:36:57.189 Files modified: 1
+2026-01-25 18:36:57.189 Total line edits: 8
+2026-01-25 18:36:57.189 Total phase time: 1.238s
+2026-01-25 18:36:57.189 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-01-25 18:36:57.292 ⌛ Total execution time: 12.991s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Target branch: master
+Commit message:
+Rotating Domains Checker: Updating domains
+
+🔄  Updated domains:
+
+Frequently changed domains — bosssports*.com   bosssports322.com     → bosssports324.com    
+Frequently changed domains — inattvizle*.top   www.inattvizle364.top → www.inattvizle367.top
+
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.08s)
+     - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.17s)
+     - Frequently changed domains — belestepe*.sbs — Belestepe [https://belestepe304.sbs/]: Antibot detected: 403 or __cf_chl_tk in URL (11.64s)
+     - Frequently changed domains — zeustv*.com [https://zeustv109.com]: Antibot detected: 403 or __cf_chl_tk in URL (0.20s)
+     - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+     - Frequently changed domains — rotabettv*.com [https://rotabettv370.com]: Antibot detected: 403 or __cf_chl_tk in URL (0.64s)
+
+
+⚠️  Warnings:
+     - Dead site test - deadexample24.com: Failed for 25 days - consider removing from filters
+     - Frequently changed domains — inattvizle*.top: Domain redirected (www.inattvizle364.top → www.inattvizle367.top) but protected by antibot - old domain may remain in filter rules
+
+⚠️  Antibot accepted (ignored by config):
+     - Frequently changed domains — inattvizle*.top [https://www.inattvizle367.top/]: Antibot detected, but accepted by config (1.36s)
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/21337545275#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+

@@ -4417,10 +4417,10 @@ acartv84.live##a[href="https://acr.li/tvgiris"]
 ! aglint-disable-next-line no-invalid-modifiers
 ||video.twimg.com/amplify_video/*/vid/*.mp4$domain=/^bosssports\d+\.com/,redirect=noopmp4-1s
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-||video.twimg.com/amplify_video/*/vid/*.mp4$domain=bosssports322.com
-bosssports322.com#%#//scriptlet('set-constant', 'config.adv.enabled', 'false')
-bosssports322.com##.iframe-buttons
-bosssports322.com##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
+||video.twimg.com/amplify_video/*/vid/*.mp4$domain=bosssports324.com
+bosssports324.com#%#//scriptlet('set-constant', 'config.adv.enabled', 'false')
+bosssports324.com##.iframe-buttons
+bosssports324.com##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
 !#endif
 !
 ! inattvizle*.top - frequently changed domains
@@ -4428,8 +4428,8 @@ bosssports322.com##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
 [$domain=/inattvizle\d+\.top/]##.dbad
 [$domain=/inattvizle\d+\.top/]##.under-vid-banner
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-www.inattvizle364.top##.dbad
-www.inattvizle364.top##.under-vid-banner
+www.inattvizle367.top##.dbad
+www.inattvizle367.top##.under-vid-banner
 !#endif
 !
 ! kralsportshd*.com - frequently changed domains
@@ -5467,8 +5467,8 @@ sportradar25.com,sportradar26.com,sportradar27.com,sportradar28.com,sportradar29
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! inattvizle*.top
-www.inattvizle364.top#%#//scriptlet('set-constant', 'puShown', 'true')
-www.inattvizle364.top##.header-banner
+www.inattvizle367.top#%#//scriptlet('set-constant', 'puShown', 'true')
+www.inattvizle367.top##.header-banner
 ! papazsports*.pro
 papazsports842.pro,papazsports843.pro,papazsports844.pro,papazsports845.pro,papazsports846.pro,papazsports847.pro,papazsports848.pro,papazsports849.pro,papazsports850.pro,papazsports851.pro,papazsports852.pro,papazsports853.pro,papazsports854.pro,papazsports855.pro,papazsports856.pro,papazsports857.pro,papazsports858.pro,papazsports859.pro,papazsports860.pro,papazsports861.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
 papazsports842.pro,papazsports843.pro,papazsports844.pro,papazsports845.pro,papazsports846.pro,papazsports847.pro,papazsports848.pro,papazsports849.pro,papazsports850.pro,papazsports851.pro,papazsports852.pro,papazsports853.pro,papazsports854.pro,papazsports855.pro,papazsports856.pro,papazsports857.pro,papazsports858.pro,papazsports859.pro,papazsports860.pro,papazsports861.pro#%#//scriptlet('set-constant', 'puShown', 'true')
