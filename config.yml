@@ -48,7 +48,7 @@ git:
 
 # Filters directory settings
 filtersdir:
-  repoPath: "ProdFilters"         # path to filters directory (for debugging, will be changed to ".." for production)
+  repoPath: ".."         # path to filters directory (for debugging, will be changed to ".." for production)
   filterDirPattern: "*Filter"     # directories ending with "Filter"
   filePattern: "*.txt"
 
