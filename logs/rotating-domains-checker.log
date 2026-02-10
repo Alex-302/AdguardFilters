@@ -177,3 +177,127 @@ Frequently changed domains — inattvizle*.top   www.inattvizle364.top → www.i
 📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/21337545275#artifacts
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-02-10 21:57:12.661
+================================================================================
+
+2026-02-10 21:56:01.240 Rotating Domains Checker v1.0.2 - WRITE mode
+2026-02-10 21:56:01.242 Test filters dir: NO
+2026-02-10 21:56:01.242 Target repo path: ./
+2026-02-10 21:56:01.242 Sites to check: 31
+
+2026-02-10 21:57:11.168 
+                      Redirected domains 
+╔═════════════════════════════════════════════════════════╤═══════════════════════╤════════════════════════════╤════════╗
+║ Site                                                    │ From                  │ To                         │ Time   ║
+╟─────────────────────────────────────────────────────────┼───────────────────────┼────────────────────────────┼────────╢
+║ Frequently changed domains — sahatv*.top — Saha TV      │ sahatv2.top           │ sahatv5.top                │ 3.01s  ║
+║ Frequently changed domains — YavasGir*.com — YavasGir   │ yavasgir41.com        │ yavasgir50.com             │ 1.48s  ║
+║ Frequently changed domains — belestepe*.sbs — Belestepe │ belestepe260.sbs      │ belestepe242.sbs           │ 28.55s ║
+║ Frequently changed domains — zeusdizi*.com              │ zeusdizi9.com         │ zeusdizi18.com             │ 28.06s ║
+║ Frequently changed domains — turkifsaclub*.sbs          │ turkifsaclub31.sbs    │ turkifsaclub45.sbs         │ 1.40s  ║
+║ Frequently changed domains — askimyavas*.com            │ askimyavas75.com      │ askimyavas86.com           │ 1.75s  ║
+║ Frequently changed domains — gobtv*.com                 │ gobtv4.com            │ gobtv6.com                 │ 27.63s ║
+║ Frequently changed domains — xsportv*.xyz               │ www.xsportv47.xyz     │ www.xsportv-1b5668f3f9.xyz │ 1.27s  ║
+║ Frequently changed domains — vegatv*.shop               │ vegatv83.shop         │ vegatv33.shop              │ 2.52s  ║
+║ Frequently changed domains — betmatiktv*.com            │ betmatiktv109.com     │ betmatiktv115.com          │ 27.89s ║
+║ Frequently changed domains — seyirspor*.com             │ seyirspor11.com       │ seyirspor13.com            │ 27.95s ║
+║ Frequently changed domains — kodtimetv*.com             │ kodtimetv10.com       │ kodtimetv15.com            │ 27.89s ║
+║ Frequently changed domains — acartv*.live               │ acartv84.live         │ acartv85.live              │ 27.54s ║
+║ Frequently changed domains — bosssports*.com            │ bosssports324.com     │ bosssports360.com          │ 3.35s  ║
+║ Frequently changed domains — inattvizle*.top            │ www.inattvizle367.top │ www.inattvizle380.top      │ 1.92s  ║
+║ Frequently changed domains — otobettv*.com              │ otobettv18.com        │ otobettv20.com             │ 26.72s ║
+║ Frequently changed domains — rotabettv*.com             │ rotabettv370.com      │ rotabettv383.com           │ 2.85s  ║
+╚═════════════════════════════════════════════════════════╧═══════════════════════╧════════════════════════════╧════════╝
+
+2026-02-10 21:57:12.540 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-02-10 21:57:12.540   Total sites: 31
+2026-02-10 21:57:12.540   ├─ Checked sites: 31
+2026-02-10 21:57:12.540   ├─ Updated sites: 17
+2026-02-10 21:57:12.540   ├─ Antibot accepted: 1 (not in failed count)
+2026-02-10 21:57:12.540   └─ Unchanged sites: 7
+2026-02-10 21:57:12.540  🚨  Failed: 7
+2026-02-10 21:57:12.540   ├─ including antibot blocked: 1
+2026-02-10 21:57:12.540   └─ Network problems or dead: 6
+2026-02-10 21:57:12.540 
+2026-02-10 21:57:12.540 Problems:
+2026-02-10 21:57:12.540  🚨 Errors (no replacements made):
+2026-02-10 21:57:12.540      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.04s)
+2026-02-10 21:57:12.540      - Dynamic mirrors (CN) — dd.* [https://dd.yvhoyh.com/download/2278_0.html]: DNS resolution failed (5.50s)
+2026-02-10 21:57:12.540      - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.58s)
+2026-02-10 21:57:12.540      - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.82s)
+2026-02-10 21:57:12.540      - Frequently changed domains — zeustv*.com [https://zeustv197.com/]: Timeout (10000ms) [code=23]: The operation was aborted due to timeout (21.44s)
+2026-02-10 21:57:12.540      - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+2026-02-10 21:57:12.540      - Frequently changed domains — betist*tv.live [https://betist131tv.live]: DNS resolution failed (0.17s)
+2026-02-10 21:57:12.540  ⚠️  Warnings:
+2026-02-10 21:57:12.540      - Dead site test - deadexample24.com: Failed for 41 days - consider removing from filters
+2026-02-10 21:57:12.540      - Test Probe Fail - example.org: Failed for 17 days - consider removing from filters
+2026-02-10 21:57:12.540      - Frequently changed domains — zeustv*.com: Failed for 17 days - consider removing from filters
+2026-02-10 21:57:12.540      - Frequently changed domains — inattvizle*.top: Domain redirected (www.inattvizle367.top → www.inattvizle380.top) but protected by antibot - old domain may remain in filter rules
+2026-02-10 21:57:12.540      - Frequently changed domains — kralsportshd*.com: Failed for 17 days - consider removing from filters
+2026-02-10 21:57:12.540 
+2026-02-10 21:57:12.540 Total phase time: 69.911s
+2026-02-10 21:57:12.540 
+2026-02-10 21:57:12.540 Unchanged sites:
+                        example.de, www.sporcafe-6459a6f4c4.xyz, dizipal1965.com, trgooltv54.top, netsportv236.top, lorabettvhd80.shop, www.portobettv55.com, betivotv156.com
+
+2026-02-10 21:57:12.540 === Domains replacement summary ===
+2026-02-10 21:57:12.540 Files scanned: 160
+2026-02-10 21:57:12.540 Files modified: 1
+2026-02-10 21:57:12.540 Total line edits: 44
+2026-02-10 21:57:12.540 Total phase time: 1.386s
+2026-02-10 21:57:12.540 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-02-10 21:57:12.659 ⌛ Total execution time: 71.446s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Pull Request Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Branch: domain-rotate/2026-02-10
+Commit message:
+Rotating Domains Checker: Updating domains
+
+🔄  Updated domains:
+
+Frequently changed domains — sahatv*.top — Saha TV        sahatv2.top           → sahatv5.top               
+Frequently changed domains — YavasGir*.com — YavasGir     yavasgir41.com        → yavasgir50.com            
+Frequently changed domains — belestepe*.sbs — Belestepe   belestepe260.sbs      → belestepe242.sbs          
+Frequently changed domains — zeusdizi*.com                zeusdizi9.com         → zeusdizi18.com            
+Frequently changed domains — turkifsaclub*.sbs            turkifsaclub31.sbs    → turkifsaclub45.sbs        
+Frequently changed domains — askimyavas*.com              askimyavas75.com      → askimyavas86.com          
+Frequently changed domains — gobtv*.com                   gobtv4.com            → gobtv6.com                
+Frequently changed domains — xsportv*.xyz                 www.xsportv47.xyz     → www.xsportv-1b5668f3f9.xyz
+Frequently changed domains — vegatv*.shop                 vegatv83.shop         → vegatv33.shop             
+Frequently changed domains — betmatiktv*.com              betmatiktv109.com     → betmatiktv115.com         
+Frequently changed domains — seyirspor*.com               seyirspor11.com       → seyirspor13.com           
+Frequently changed domains — kodtimetv*.com               kodtimetv10.com       → kodtimetv15.com           
+Frequently changed domains — acartv*.live                 acartv84.live         → acartv85.live             
+Frequently changed domains — bosssports*.com              bosssports324.com     → bosssports360.com         
+Frequently changed domains — inattvizle*.top              www.inattvizle367.top → www.inattvizle380.top     
+Frequently changed domains — otobettv*.com                otobettv18.com        → otobettv20.com            
+Frequently changed domains — rotabettv*.com               rotabettv370.com      → rotabettv383.com          
+
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.04s)
+     - Dynamic mirrors (CN) — dd.* [https://dd.yvhoyh.com/download/2278_0.html]: DNS resolution failed (5.50s)
+     - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.58s)
+     - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.82s)
+     - Frequently changed domains — zeustv*.com [https://zeustv197.com/]: Timeout (10000ms) [code=23]: The operation was aborted due to timeout (21.44s)
+     - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+     - Frequently changed domains — betist*tv.live [https://betist131tv.live]: DNS resolution failed (0.17s)
+
+
+⚠️  Warnings:
+     - Dead site test - deadexample24.com: Failed for 41 days - consider removing from filters
+     - Test Probe Fail - example.org: Failed for 17 days - consider removing from filters
+     - Frequently changed domains — zeustv*.com: Failed for 17 days - consider removing from filters
+     - Frequently changed domains — inattvizle*.top: Domain redirected (www.inattvizle367.top → www.inattvizle380.top) but protected by antibot - old domain may remain in filter rules
+     - Frequently changed domains — kralsportshd*.com: Failed for 17 days - consider removing from filters
+
+⚠️  Antibot accepted (ignored by config):
+     - Frequently changed domains — inattvizle*.top [https://www.inattvizle380.top/]: Antibot detected, but accepted by config (1.92s)
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/21883897510#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Pull Request Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
