@@ -1,88 +1,45 @@
-# Example workflow for external repository (filters repository)
-# Use this when: RotatingDomainsChecker repository is PRIVATE or you need PR creation
-# Requires: PAT_TOKEN secret with 'repo' scope
-
-name: Rotating Domains Checker (External - Private)
+name: Test Rotating Domains Checker Action
 
 on:
-  # Automatic run daily at 02:00 UTC
-  schedule:
-    - cron: '0 2 * * *'
-  # Manual run with mode selection
   workflow_dispatch:
     inputs:
       mode:
         description: 'Run mode'
         required: false
-        default: 'prod_live'
+        default: 'test_dry'
         type: choice
         options:
-          - ''              # Use config.yml setting
-          - 'prod_live'     # Production mode with changes
-          - 'prod_dry'      # Production mode without changes (git operations simulation)
-          - 'test_live'     # Test directory with changes
-          - 'test_dry'      # Test directory without changes (git operations simulation)
-
-      config-path:
-        description: 'Path to configuration file'
-        required: false
-        default: 'config.yml'
-        type: string
-
-      filters-path:
-        description: 'Path to filters directory'
-        required: false
-        default: './'
-        type: string
+          - 'test_dry'
+          - 'test_live'
 
 jobs:
-  check-domains:
-    name: Check and Update Rotating Domains
+  test-action:
+    name: Test Rotating Domains Checker
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write          # Required for commits
-      pull-requests: write     # Required for PR creation
-      actions: read            # Required for reading workflow info
+      contents: write
+      pull-requests: write
 
     steps:
       - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 1
 
-      - name: 🔧 Setup Node.js
-        uses: actions/setup-node@v4
+      - name: 🚀 Test Rotating Domains Checker
+        uses: Alex-302/RotatingDomainsChecker@v1.0.2-test
         with:
-          node-version: '24'
-          cache: 'npm'
-
-      - name: 🚀 Run Rotating Domains Checker
-        run: |
-          # Configure git user for commits
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          
-          # Clone Rotating Domains Checker repository (private, use PAT token)
-          git clone https://${{ secrets.PAT_TOKEN }}@github.com/Alex-302/RotatingDomainsChecker.git /tmp/checker
-          cd /tmp/checker
-          npm install
-          npm run build
-          
-          # Return to filters repository and run checker
-          cd $GITHUB_WORKSPACE
-          node /tmp/checker/dist/index.js
+          mode: ${{ github.event.inputs.mode || 'test_dry' }}
+          config-path: './config.yml'
+          filters-path: './'
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-          INPUT_CONFIG_PATH: ${{ github.event.inputs.config-path || 'config.yml' }}
-          INPUT_MODE: ${{ github.event.inputs.mode || '' }}
-          INPUT_FILTERS_PATH: ${{ github.event.inputs.filters-path || './' }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 📋 Upload log file
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: rotating-domains-checker-log
           path: logs/rotating-domains-checker.log
-          retention-days: 7
+          retention-days: 3
