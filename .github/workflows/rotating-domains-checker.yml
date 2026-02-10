@@ -28,7 +28,7 @@ jobs:
           fetch-depth: 1
 
       - name: 🚀 Test Rotating Domains Checker
-        uses: Alex-302/RotatingDomainsChecker@v1.0.2-test
+        uses: Alex-302/RotatingDomainsChecker@feat/github-action-migration
         with:
           mode: ${{ github.event.inputs.mode || 'test_dry' }}
           config-path: './config.yml'
