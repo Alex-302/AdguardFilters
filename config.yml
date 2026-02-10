@@ -42,7 +42,7 @@ logging:
   filePath: "logs/rotating-domains-checker.log"
 
 git:
-  mode: "prod"           # "prod" = commit directly to master, "debug" = create PR
+  mode: "debug"           # "prod" = commit directly to master, "debug" = create PR
   branch: "master"
   prBranchPrefix: "domain-rotate"
 
