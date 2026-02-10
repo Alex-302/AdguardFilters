@@ -1,11 +1,11 @@
 sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
-    last_known_mirror: ''
-    path: ''
+    last_known_mirror: ""
+    path: ""
     probe_text: []
     last_failed: 2026-01-01 16:45
-    failed_days: 25
+    failed_days: 41
     potentially_dead: true
   Dynamic mirrors (CN) — dd.*:
     initial_domain: dd.yvhoyh.com/download/2278_0.html
@@ -13,251 +13,257 @@ sites:
     path: /download/2278_0.html
     probe_text: []
     last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_failed: 2026-02-10 22:10
     failed_days: 0
+    potentially_dead: true
   Test Probe Fail - example.org:
     initial_domain: null
     last_known_mirror: example.org
-    path: ''
+    path: ""
     probe_text:
       - not existing text
-    last_seen: ''
+    last_seen: ""
     last_failed: 2026-01-25 13:22
-    failed_days: 1
+    failed_days: 17
     potentially_dead: true
   Test Probe Success - example.de:
     initial_domain: null
     last_known_mirror: example.de
-    path: ''
+    path: ""
     probe_text:
       - Malerei der Gruppe 3erlei
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — sahatv*.top — Saha TV:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
-    path: ''
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — YavasGir*.com — YavasGir:
     initial_domain: null
-    last_known_mirror: yavasgir41.com
-    path: ''
+    last_known_mirror: yavasgir50.com
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
     initial_domain: null
     last_known_mirror: www.sporcafe-6459a6f4c4.xyz
-    path: ''
+    path: ""
     probe_text: []
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_failed: 2026-02-10 22:10
     failed_days: 0
+    potentially_dead: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
     initial_domain: null
-    last_known_mirror: https://belestepe260.sbs/
-    path: ''
+    last_known_mirror: belestepe242.sbs
+    path: ""
     probe_text: []
-    last_seen: 2026-01-07 23:42
-    last_failed: 2026-01-25 13:22
-    failed_days: 1
-    potentially_dead: true
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
+    failed_days: 0
   Frequently changed domains — dizipal*.com — Dizipal:
     initial_domain: null
     last_known_mirror: dizipal1964.com
-    path: ''
+    path: ""
     probe_text:
       - h1>Dizipal</h1>
     last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_failed: 2026-02-10 22:10
     failed_days: 0
+    potentially_dead: true
   Frequently changed domains — zeusdizi*.com:
     initial_domain: null
-    last_known_mirror: zeusdizi9.com
-    path: ''
+    last_known_mirror: zeusdizi17.com
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — turkifsaclub*.sbs:
     initial_domain: null
-    last_known_mirror: turkifsaclub31.sbs
-    path: ''
+    last_known_mirror: turkifsaclub45.sbs
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — askimyavas*.com:
     initial_domain: null
-    last_known_mirror: askimyavas75.com
-    path: ''
+    last_known_mirror: askimyavas86.com
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — gobtv*.com:
     initial_domain: null
     last_known_mirror: gobtv4.com
-    path: ''
+    path: ""
     probe_text: []
     last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_failed: 2026-02-10 22:10
     failed_days: 0
+    potentially_dead: true
   Frequently changed domains — trgooltv*.top:
     initial_domain: null
-    last_known_mirror: trgooltv54.top
-    path: ''
+    last_known_mirror: trgooltv59.top
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — netsportv*.top:
     initial_domain: null
-    last_known_mirror: netsportv236.top
-    path: ''
+    last_known_mirror: netsportv244.top
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — zeustv*.com:
     initial_domain: null
     last_known_mirror: zeustv109.com
-    path: ''
+    path: ""
     probe_text: []
-    last_seen: ''
+    last_seen: ""
     last_failed: 2026-01-25 13:22
-    failed_days: 1
+    failed_days: 17
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     initial_domain: null
-    last_known_mirror: www.xsportv47.xyz
-    path: ''
+    last_known_mirror: www.xsportv-1b5668f3f9.xyz
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — vegatv*.shop:
     initial_domain: null
-    last_known_mirror: vegatv83.shop
-    path: ''
+    last_known_mirror: vegatv33.shop
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — betmatiktv*.com:
     initial_domain: null
-    last_known_mirror: betmatiktv109.com
-    path: ''
+    last_known_mirror: betmatiktv115.com
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — seyirspor*.com:
     initial_domain: null
-    last_known_mirror: seyirspor11.com
-    path: ''
+    last_known_mirror: seyirspor13.com
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — lorabettvhd*.shop:
     initial_domain: null
     last_known_mirror: lorabettvhd80.shop
-    path: ''
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — kodtimetv*.com:
     initial_domain: null
     last_known_mirror: kodtimetv10.com
-    path: ''
+    path: ""
     probe_text: []
     last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_failed: 2026-02-10 22:10
     failed_days: 0
+    potentially_dead: true
   Frequently changed domains — acartv*.live:
     initial_domain: null
     last_known_mirror: acartv84.live
-    path: ''
+    path: ""
     probe_text: []
     last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_failed: 2026-02-10 22:10
     failed_days: 0
+    potentially_dead: true
   Frequently changed domains — bosssports*.com:
     initial_domain: null
-    last_known_mirror: bosssports324.com
-    path: ''
+    last_known_mirror: bosssports360.com
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — inattvizle*.top:
     initial_domain: null
-    last_known_mirror: www.inattvizle367.top
-    path: ''
+    last_known_mirror: www.inattvizle380.top
+    path: ""
     probe_text: []
     accept_antibot: true
     geoblock: TR
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — kralsportshd*.com:
     initial_domain: null
     last_known_mirror: kralsportshd7.com
-    path: ''
+    path: ""
     probe_text: []
-    last_seen: ''
+    last_seen: ""
     last_failed: 2026-01-25 13:22
-    failed_days: 1
+    failed_days: 17
     potentially_dead: true
   Frequently changed domains — otobettv*.com:
     initial_domain: null
     last_known_mirror: otobettv18.com
-    path: ''
+    path: ""
     probe_text: []
     last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_failed: 2026-02-10 22:10
     failed_days: 0
+    potentially_dead: true
   Frequently changed domains — rotabettv*.com:
     initial_domain: null
-    last_known_mirror: rotabettv370.com
-    path: ''
+    last_known_mirror: rotabettv383.com
+    path: ""
     probe_text: []
-    last_seen: ''
-    last_failed: 2026-01-25 13:22
-    failed_days: 1
-    potentially_dead: true
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
+    failed_days: 0
   Frequently changed domains — betist*tv.live:
     initial_domain: null
     last_known_mirror: betist131tv.live
-    path: ''
+    path: ""
     probe_text: []
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_failed: 2026-02-10 22:10
     failed_days: 0
+    potentially_dead: true
   Frequently changed domains — portobettv*.com:
     initial_domain: null
     last_known_mirror: www.portobettv55.com
-    path: ''
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
   Frequently changed domains — betivotv*.com:
     initial_domain: null
     last_known_mirror: betivotv156.com
-    path: ''
+    path: ""
     probe_text: []
-    last_seen: 2026-01-25 18:36
-    last_failed: ''
+    last_seen: 2026-02-10 22:10
+    last_failed: ""
     failed_days: 0
