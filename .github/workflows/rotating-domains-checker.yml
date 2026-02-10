@@ -1,66 +1,32 @@
 name: Rotating Domains Checker
 
 on:
-  # Automatic run daily at 02:00 UTC
   schedule:
     - cron: '0 2 * * *'
-  # Manual run with mode selection
   workflow_dispatch:
     inputs:
       mode:
         description: 'Run mode'
         required: false
-        default: 'test_dry'
+        default: 'prod_live'
         type: choice
         options:
-          - ''              # Use config.yml setting
-          - 'prod_live'     # Production mode with changes
-          - 'prod_dry'      # Production mode without changes (git operations simulation)
-          - 'test_live'     # Test directory with changes
-          - 'test_dry'      # Test directory without changes (git operations simulation)
-
-      config-path:
-        description: 'Path to configuration file'
-        required: false
-        default: './config.yml'
-        type: string
-
-      filters-path:
-        description: 'Path to filters directory'
-        required: false
-        default: './'
-        type: string
+          - ''
+          - 'prod_live'
+          - 'prod_dry'
+          - 'test_live'
+          - 'test_dry'
 
 jobs:
   check-domains:
-    name: Rotating Domains Checker
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write          # Required for commits
-      pull-requests: write     # Required for PR creation
-      actions: read            # Required for reading workflow info
-
+      contents: write
+      pull-requests: write
     steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 1
-
-      - name:  Run Rotating Domains Checker
-        uses: Alex-302/RotatingDomainsChecker@feat/github-action-migration
+      - uses: actions/checkout@v6
+      - uses: Alex-302/RotatingDomainsChecker@feat/github-action-migration
         with:
           mode: ${{ github.event.inputs.mode || '' }}
-          config-path: ${{ github.event.inputs.config-path || './config.yml' }}
-          filters-path: ${{ github.event.inputs.filters-path || './' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: 📋 Upload log file
-        if: always()
-        uses: actions/upload-artifact@v6
-        with:
-          name: rotating-domains-checker-log
-          path: logs/rotating-domains-checker.log
-          retention-days: 7
