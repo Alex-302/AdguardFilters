@@ -213,6 +213,7 @@ sites:
     failed_days: 0
   Frequently changed domains — kralsportshd*.com:
     initial_domain: null
+    force_search_ahead: true
     last_known_mirror: kralsportshd7.com
     path: ""
     probe_text: []
