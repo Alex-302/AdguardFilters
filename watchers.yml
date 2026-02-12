@@ -246,6 +246,7 @@ sites:
     last_seen: 2026-02-12 17:06
     last_failed: ""
     failed_days: 0
+    force_search_ahead: true
   Frequently changed domains — portobettv*.com:
     initial_domain: null
     last_known_mirror: www.portobettv55.com

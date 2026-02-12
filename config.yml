@@ -36,6 +36,11 @@ heuristic:
   dnsParallel: 50        # max concurrent DNS lookups in batch pre-filter (lightweight, can be high)
   forceHeuristicOnCodes: [404, 403, 500, 502, 503, 504]  # force heuristic for these HTTP status codes
 
+skip_text:
+  - "This domain is parked"
+  - "router.parklogic.com"
+  - "Redirecting..."
+
 logging:
   saveToFile: true       # save logs to file
   incremental: true      # append to existing log file (false = overwrite)
