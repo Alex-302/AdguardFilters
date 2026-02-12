@@ -40,6 +40,7 @@ skip_text:
   - "This domain is parked"
   - "router.parklogic.com"
   - "Redirecting..."
+  - "spinny-cogs"
 
 logging:
   saveToFile: true       # save logs to file
