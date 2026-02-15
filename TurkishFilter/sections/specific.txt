@@ -4464,8 +4464,8 @@ lorabettvhd80.shop#$#body.modal-open { overflow: auto !important; }
 [$domain=/kodtimetv\d+\.com/]##a[href^="https://cutt.ly/"]
 [$domain=/kodtimetv\d+\.com/]##a[href^="http://heylink.me/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-kodtimetv15.com##a[href^="https://cutt.ly/"]
-kodtimetv15.com##a[href^="http://heylink.me/"]
+##a[href^="https://cutt.ly/"]
+##a[href^="http://heylink.me/"]
 !#endif
 !
 ! Frequently changed domains: acartv*.live
