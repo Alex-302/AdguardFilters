@@ -4435,7 +4435,7 @@ vegatv53.shop##a[href^="https://vegabetortaklik.com/links/"]
 ||betmatiktv*.com/*.gif
 [$domain=/betmatiktv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betmatiktv118.com##a[href^="https://cutt.ly/"]
+betmatiktv119.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: seyirspor*.com
@@ -4485,10 +4485,10 @@ acartv85.live##a[href="https://acr.li/tvgiris"]
 [$domain=/bosssports\d+\.com/]##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
 ||bosssports*.com/v*.mp4$media,redirect=noopmp4-1s
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-bosssports374.com#%#//scriptlet('trusted-replace-node-text', 'script', 'videoSources', '/window\.app\.initAdv\(\);/', 'window.app.initMatch();')
-bosssports374.com#%#//scriptlet('set-constant', 'config.adv.enabled', 'false')
-bosssports374.com##.iframe-buttons
-bosssports374.com##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
+bosssports376.com#%#//scriptlet('trusted-replace-node-text', 'script', 'videoSources', '/window\.app\.initAdv\(\);/', 'window.app.initMatch();')
+bosssports376.com#%#//scriptlet('set-constant', 'config.adv.enabled', 'false')
+bosssports376.com##.iframe-buttons
+bosssports376.com##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
 !#endif
 !
 ! Frequently changed domains: kralsportshd*.com
