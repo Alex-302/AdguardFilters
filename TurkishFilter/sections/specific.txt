@@ -4374,7 +4374,7 @@ askimyavas89.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
 ||gobtv*.com/*.gif
 [$domain=/gobtv\d+\.com/]##a[href^="https://t2m.io/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-gobtv6.com##a[href^="https://t2m.io/"]
+gobtv7.com##a[href^="https://t2m.io/"]
 !#endif
 !
 ! Frequently changed domains: sahatv*.top
@@ -4518,7 +4518,7 @@ rotabettv383.com##body > a[href^="https://"][target="_blank"]
 [$domain=/betist\d+tv\.live/]##a[href^="https://cutt.ly/"]
 [$domain=/betist\d+tv\.live/]#$#body { background-image: none !important; }
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betist217tv.live#$#body { background-image: none !important; }
+betist218tv.live#$#body { background-image: none !important; }
 !#endif
 !
 ! Frequently changed domains: portobettv*.com
