@@ -4374,7 +4374,7 @@ askimyavas89.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
 ||gobtv*.com/*.gif
 [$domain=/gobtv\d+\.com/]##a[href^="https://t2m.io/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-gobtv7.com##a[href^="https://t2m.io/"]
+gobtv8.com##a[href^="https://t2m.io/"]
 !#endif
 !
 ! Frequently changed domains: sahatv*.top
@@ -4435,14 +4435,14 @@ vegatv53.shop##a[href^="https://vegabetortaklik.com/links/"]
 ||betmatiktv*.com/*.gif
 [$domain=/betmatiktv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betmatiktv119.com##a[href^="https://cutt.ly/"]
+betmatiktv120.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: seyirspor*.com
 ||seyirspor*.com/*.gif
 [$domain=/seyirspor\d+\.com/]##a[href^="https://t2m.io/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-seyirspor13.com##a[href^="https://t2m.io/"]
+seyirspor14.com##a[href^="https://t2m.io/"]
 !#endif
 !
 ! Frequently changed domains: lorabettvhd*.shop
@@ -4503,7 +4503,7 @@ kralsportshd7.com,kralsportshd8.com,kralsportshd9.com,kralsportshd10.com,kralspo
 ||otobettv*.com/banner.gif
 [$domain=/otobettv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-otobettv20.com##a[href^="https://cutt.ly/"]
+otobettv21.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: rotabettv*.com
