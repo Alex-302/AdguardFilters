@@ -285,3 +285,99 @@ Frequently changed domains — inattvizle*.top              www.inattvizle381.to
 📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22240471090#artifacts
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-02-20 22:11:57.683
+================================================================================
+
+2026-02-20 22:11:06.057 Rotating Domains Checker v1.1.2 - WRITE mode
+2026-02-20 22:11:06.059 Test filters dir: NO
+2026-02-20 22:11:06.059 Target repo path: ./
+2026-02-20 22:11:06.059 Sites to check: 31
+
+2026-02-20 22:11:56.835 
+                      Redirected domains 
+╔══════════════════════════════════════════════╤═══════════════════════╤═══════════════════════╤════════╗
+║ Site                                         │ From                  │ To                    │ Time   ║
+╟──────────────────────────────────────────────┼───────────────────────┼───────────────────────┼────────╢
+║ Frequently changed domains — inattvizle*.top │ www.inattvizle388.top │ www.inattvizle400.top │ 28.98s ║
+╚══════════════════════════════════════════════╧═══════════════════════╧═══════════════════════╧════════╝
+
+2026-02-20 22:11:57.562 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-02-20 22:11:57.562   Total sites: 31
+2026-02-20 22:11:57.562   ├─ Checked sites: 31
+2026-02-20 22:11:57.562   ├─ Updated sites: 1
+2026-02-20 22:11:57.562   ├─ Antibot accepted: 1 (not in failed count)
+2026-02-20 22:11:57.562   └─ Unchanged sites: 21
+2026-02-20 22:11:57.562  🚨  Failed: 9
+2026-02-20 22:11:57.562   ├─ including antibot blocked: 1
+2026-02-20 22:11:57.562   └─ Network problems or dead: 8
+2026-02-20 22:11:57.562 
+2026-02-20 22:11:57.562 Problems:
+2026-02-20 22:11:57.562  🚨 Errors (no replacements made):
+2026-02-20 22:11:57.562      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.05s)
+2026-02-20 22:11:57.562      - Dynamic mirrors (CN) — dd.* [https://dd.yvhoyh.com/download/2278_0.html]: DNS resolution failed (5.50s)
+2026-02-20 22:11:57.562      - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.61s)
+2026-02-20 22:11:57.562      - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.52s)
+2026-02-20 22:11:57.562      - Frequently changed domains — zeustv*.com [https://zeustv197.com/]: Timeout (10000ms) [code=23]: The operation was aborted due to timeout (21.89s)
+2026-02-20 22:11:57.562      - Frequently changed domains — xsportv*.xyz [https://www.xsportv-1b5668f3f9.xyz]: Non-success status: 404 (0.36s)
+2026-02-20 22:11:57.562      - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.26s)
+2026-02-20 22:11:57.562      - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+2026-02-20 22:11:57.562      - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (2.76s)
+2026-02-20 22:11:57.562  ⚠️  Warnings:
+2026-02-20 22:11:57.562      - Dead site test - deadexample24.com: Failed for 51 days - consider removing from filters
+2026-02-20 22:11:57.562      - Test Probe Fail - example.org: Failed for 27 days - consider removing from filters
+2026-02-20 22:11:57.562      - Frequently changed domains — zeustv*.com: Failed for 27 days - consider removing from filters
+2026-02-20 22:11:57.562      - Frequently changed domains — inattvizle*.top: Domain redirected (www.inattvizle388.top → www.inattvizle400.top) but protected by antibot - old domain may remain in filter rules
+2026-02-20 22:11:57.562      - Frequently changed domains — kralsportshd*.com: Failed for 27 days - consider removing from filters
+2026-02-20 22:11:57.562 
+2026-02-20 22:11:57.562 Total phase time: 50.768s
+2026-02-20 22:11:57.562 
+2026-02-20 22:11:57.562 Unchanged sites:
+                        example.de, sahatv5.top, yavasgir55.com, www.sporcafe-11057275bd.xyz, belestepe438.sbs, dizipal1965.com, zeusdizi19.com, turkifsaclub57.sbs, askimyavas91.com, gobtv9.com, trgooltv54.top, netsportv236.top, www.xsportv-1b5668f3f9.xyz, vegatv53.shop, betmatiktv121.com, seyirspor14.com, lorabettvhd80.shop, kodtimetv16-com.l.ink, acartv86.live, bosssports392.com, otobettv22.com, rotabettv383.com, tackchen.gitee.io, www.portobettv55.com, betivotv156.com
+
+2026-02-20 22:11:57.562 === Domains replacement summary ===
+2026-02-20 22:11:57.562 Files scanned: 160
+2026-02-20 22:11:57.562 Files modified: 1
+2026-02-20 22:11:57.562 Total line edits: 2
+2026-02-20 22:11:57.562 Total phase time: 0.732s
+2026-02-20 22:11:57.562 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-02-20 22:11:57.681 ⌛ Total execution time: 51.654s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Target branch: master
+Commit message:
+Rotating Domains Checker: Updating domains
+
+🔄  Updated domains:
+
+Frequently changed domains — inattvizle*.top   www.inattvizle388.top → www.inattvizle400.top
+
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.05s)
+     - Dynamic mirrors (CN) — dd.* [https://dd.yvhoyh.com/download/2278_0.html]: DNS resolution failed (5.50s)
+     - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.61s)
+     - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.52s)
+     - Frequently changed domains — zeustv*.com [https://zeustv197.com/]: Timeout (10000ms) [code=23]: The operation was aborted due to timeout (21.89s)
+     - Frequently changed domains — xsportv*.xyz [https://www.xsportv-1b5668f3f9.xyz]: Non-success status: 404 (0.36s)
+     - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.26s)
+     - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+     - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (2.76s)
+
+
+⚠️  Warnings:
+     - Dead site test - deadexample24.com: Failed for 51 days - consider removing from filters
+     - Test Probe Fail - example.org: Failed for 27 days - consider removing from filters
+     - Frequently changed domains — zeustv*.com: Failed for 27 days - consider removing from filters
+     - Frequently changed domains — inattvizle*.top: Domain redirected (www.inattvizle388.top → www.inattvizle400.top) but protected by antibot - old domain may remain in filter rules
+     - Frequently changed domains — kralsportshd*.com: Failed for 27 days - consider removing from filters
+
+⚠️  Antibot accepted (ignored by config):
+     - Frequently changed domains — inattvizle*.top [https://www.inattvizle400.top]: Antibot detected, but accepted by config (28.98s)
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22243178368#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
