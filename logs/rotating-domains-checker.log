@@ -381,3 +381,87 @@ Frequently changed domains — inattvizle*.top   www.inattvizle388.top → www.i
 📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22243178368#artifacts
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-02-21 04:10:25.889
+================================================================================
+
+2026-02-21 04:09:33.669 Rotating Domains Checker v1.1.2 - WRITE mode
+2026-02-21 04:09:33.671 Test filters dir: NO
+2026-02-21 04:09:33.671 Target repo path: ./
+2026-02-21 04:09:33.671 Sites to check: 31
+
+2026-02-21 04:10:25.769 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-02-21 04:10:25.769   Total sites: 31
+2026-02-21 04:10:25.769   ├─ Checked sites: 31
+2026-02-21 04:10:25.769   ├─ Updated sites: 0
+2026-02-21 04:10:25.769   ├─ Antibot accepted: 1 (not in failed count)
+2026-02-21 04:10:25.769   └─ Unchanged sites: 31
+2026-02-21 04:10:25.769  🚨  Failed: 9
+2026-02-21 04:10:25.769   ├─ including antibot blocked: 1
+2026-02-21 04:10:25.769   └─ Network problems or dead: 8
+2026-02-21 04:10:25.769 
+2026-02-21 04:10:25.769 Problems:
+2026-02-21 04:10:25.769  🚨 Errors (no replacements made):
+2026-02-21 04:10:25.769      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.06s)
+2026-02-21 04:10:25.769      - Dynamic mirrors (CN) — dd.* [https://dd.yvhoyh.com/download/2278_0.html]: DNS resolution failed (5.50s)
+2026-02-21 04:10:25.769      - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.18s)
+2026-02-21 04:10:25.769      - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.68s)
+2026-02-21 04:10:25.769      - Frequently changed domains — zeustv*.com [https://zeustv197.com/]: Timeout (10000ms) [code=23]: The operation was aborted due to timeout (22.87s)
+2026-02-21 04:10:25.769      - Frequently changed domains — xsportv*.xyz [https://www.xsportv-1b5668f3f9.xyz]: Non-success status: 404 (0.55s)
+2026-02-21 04:10:25.769      - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.47s)
+2026-02-21 04:10:25.769      - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+2026-02-21 04:10:25.769      - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (2.58s)
+2026-02-21 04:10:25.769  ⚠️  Warnings:
+2026-02-21 04:10:25.769      - Dead site test - deadexample24.com: Failed for 51 days - consider removing from filters
+2026-02-21 04:10:25.769      - Test Probe Fail - example.org: Failed for 27 days - consider removing from filters
+2026-02-21 04:10:25.769      - Frequently changed domains — zeustv*.com: Failed for 27 days - consider removing from filters
+2026-02-21 04:10:25.769      - Frequently changed domains — kralsportshd*.com: Failed for 27 days - consider removing from filters
+2026-02-21 04:10:25.769 
+2026-02-21 04:10:25.769 Total phase time: 51.489s
+2026-02-21 04:10:25.769 
+2026-02-21 04:10:25.769 Unchanged sites:
+                        example.de, sahatv5.top, yavasgir55.com, www.sporcafe-11057275bd.xyz, belestepe438.sbs, dizipal1965.com, zeusdizi19.com, turkifsaclub57.sbs, askimyavas91.com, gobtv9.com, trgooltv54.top, netsportv236.top, www.xsportv-1b5668f3f9.xyz, vegatv53.shop, betmatiktv121.com, seyirspor14.com, lorabettvhd80.shop, kodtimetv16-com.l.ink, acartv86.live, bosssports392.com, www.inattvizle400.top, otobettv22.com, rotabettv383.com, tackchen.gitee.io, www.portobettv55.com, betivotv156.com
+
+2026-02-21 04:10:25.769 === Domains replacement summary ===
+2026-02-21 04:10:25.769 Files scanned: 160
+2026-02-21 04:10:25.769 Files modified: 0
+2026-02-21 04:10:25.769 Total line edits: 0
+2026-02-21 04:10:25.769 Total phase time: 0.608s
+2026-02-21 04:10:25.769 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-02-21 04:10:25.887 ⌛ Total execution time: 52.247s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Target branch: master
+Commit message:
+Rotating Domains Checker: Updating domains
+
+🔄  Updated domains: 0
+
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.06s)
+     - Dynamic mirrors (CN) — dd.* [https://dd.yvhoyh.com/download/2278_0.html]: DNS resolution failed (5.50s)
+     - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.18s)
+     - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.68s)
+     - Frequently changed domains — zeustv*.com [https://zeustv197.com/]: Timeout (10000ms) [code=23]: The operation was aborted due to timeout (22.87s)
+     - Frequently changed domains — xsportv*.xyz [https://www.xsportv-1b5668f3f9.xyz]: Non-success status: 404 (0.55s)
+     - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.47s)
+     - Frequently changed domains — kralsportshd*.com [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+     - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (2.58s)
+
+
+⚠️  Warnings:
+     - Dead site test - deadexample24.com: Failed for 51 days - consider removing from filters
+     - Test Probe Fail - example.org: Failed for 27 days - consider removing from filters
+     - Frequently changed domains — zeustv*.com: Failed for 27 days - consider removing from filters
+     - Frequently changed domains — kralsportshd*.com: Failed for 27 days - consider removing from filters
+
+⚠️  Antibot accepted (ignored by config):
+     - Frequently changed domains — inattvizle*.top [https://www.inattvizle400.top]: Antibot detected, but accepted by config (0.56s)
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22250051015#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
