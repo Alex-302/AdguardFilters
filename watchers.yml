@@ -155,7 +155,7 @@ sites:
     last_known_mirror: taraftarium24.xyz
     last_seen: 2026-02-22
   www.papazsports924.pro:
-    last_known_mirror: www.papazsports941.pro
+    last_known_mirror: www.papazsports949.pro
     accept_antibot: true
     last_seen: 2026-02-22
   www.selcuksportshd8443661f57.xyz:
@@ -163,7 +163,7 @@ sites:
     accept_antibot: true
     last_seen: 2026-02-22
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium111.top
+    last_known_mirror: www.taraftarium120.top
     accept_antibot: true
     last_seen: 2026-02-22
   patronspor04548a2wer45awes.cfd:
@@ -171,7 +171,7 @@ sites:
     last_known_mirror: https://hepbetspor17.cfd/
     last_seen: 2026-02-22
     failed_since: 2026-02-22 21:37
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   hepbetspor:
     last_known_mirror: hepbetspor18.cfd
