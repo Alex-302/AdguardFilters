@@ -2,7 +2,7 @@ name: Rotating Domains Checker
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
     inputs:
       mode:
