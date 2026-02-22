@@ -30,17 +30,20 @@ thresholds:
 
 heuristic:
   enabled: true          # enable domain[N].tld heuristic search
-  maxAttempts: 50        # increased to reach xsportv47.xyz
+  maxAttempts: 150        # increase to check more domains, if there are difficulties in finding working domains
   skipOnAntibot: true    # skip heuristic if antibot detected
   attemptParallel: 3     # max concurrent attempts per site (lower = less DNS load)
   dnsParallel: 50        # max concurrent DNS lookups in batch pre-filter (lightweight, can be high)
-  forceHeuristicOnCodes: [404, 403, 500, 502, 503, 504]  # force heuristic for these HTTP status codes
+  forceHeuristicOnCodes: [403, 404, 500, 502, 503, 504]  # force heuristic for these HTTP status codes
 
+# Global skip_text — skip domains whose response body contains these phrases (parked/expired domains)
 skip_text:
   - "This domain is parked"
   - "router.parklogic.com"
   - "Redirecting..."
-  - "spinny-cogs"
+  - "https://patronspor.is/?s={search_term_string}"  # skip redirets back to patronmarketing landing pages
+  - "spinny-cogs"                                    # betist{N}tv.live
+  - "internal error, please contact"                 # Cloudflare, HTTP 500
 
 logging:
   saveToFile: true       # save logs to file
