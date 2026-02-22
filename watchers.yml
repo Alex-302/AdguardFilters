@@ -2,7 +2,7 @@ sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Fail - example.org:
@@ -10,7 +10,7 @@ sites:
     probe_text:
       - not existing text
     last_failed: 2026-01-25 13:22
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Success - example.de:
@@ -34,7 +34,7 @@ sites:
       - h1>Dizipal</h1>
     last_seen: 2026-01-25 18:36
     last_failed: 2026-02-12 04:28
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — zeusdizi*.com:
@@ -66,7 +66,7 @@ sites:
     last_known_mirror: www.xsportv-1b5668f3f9.xyz
     last_seen: 2026-02-14 13:48
     last_failed: 2026-02-14 16:55
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — vegatv*.shop:
@@ -82,14 +82,14 @@ sites:
     last_known_mirror: lorabettvhd80.shop
     last_seen: 2026-02-17 15:23
     last_failed: 2026-02-17 20:13
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
     last_known_mirror: acartv86.live
     last_seen: 2026-02-22
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports398.com
+    last_known_mirror: bosssports400.com
     last_seen: 2026-02-22
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle400.top
@@ -100,7 +100,7 @@ sites:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
@@ -115,7 +115,7 @@ sites:
     geoblock: TR
     last_seen: 2026-02-20 04:20
     last_failed: 2026-02-20 20:45
-    failed_days: 0
+    failed_days: 1
     force_search_ahead: true
     potentially_dead: true
     failed_since: 2026-02-22 17:31
@@ -133,10 +133,8 @@ sites:
     last_known_mirror: yavasgir55.com
     last_seen: 2026-02-22
   Frequently changed domains — kodtimetv*.com:
-    last_known_mirror: kodtimetv1.com
-    failed_since: 2026-02-22 17:31
-    failed_days: 0
-    potentially_dead: true
+    last_known_mirror: kodtimetv16.com
+    last_seen: 2026-02-22
   amp-6392fa66a0.selcuksportshdamp-aa805a079c.click:
     last_known_mirror: amp-6392fa66a0.selcuksportshdamp-aa805a079c.click
     accept_antibot: true
@@ -148,44 +146,35 @@ sites:
     last_known_mirror: piabettv12.live
     last_seen: 2026-02-22
   restmacizle23.cfd:
-    last_known_mirror: restmacizle22.cfd
-    failed_since: 2026-02-22 17:31
-    failed_days: 0
-    potentially_dead: true
+    last_known_mirror: restmacizle36.cfd
+    last_seen: 2026-02-22
   sultansportv562.com:
-    last_known_mirror: sultansportv560.com
-    failed_since: 2026-02-22 17:31
-    failed_days: 0
-    potentially_dead: true
+    last_known_mirror: sultansportv7795.com
+    last_seen: 2026-02-22
   taraftarium24.xyz:
-    last_known_mirror: taraftarium23.xyz
-    failed_since: 2026-02-22 17:31
-    failed_days: 0
-    potentially_dead: true
+    last_known_mirror: taraftarium24.xyz
+    last_seen: 2026-02-22
   www.papazsports924.pro:
-    last_known_mirror: www.papazsports923.pro
+    last_known_mirror: www.papazsports941.pro
     accept_antibot: true
-    failed_since: 2026-02-22 17:31
-    failed_days: 0
-    potentially_dead: true
+    last_seen: 2026-02-22
   www.selcuksportshd8443661f57.xyz:
-    last_known_mirror: www.selcuksportshde7a4c0e073.xyz
+    last_known_mirror: www.selcuksportshdbe8ee1c309.xyz
     accept_antibot: true
     last_seen: 2026-02-22
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium90.top
+    last_known_mirror: www.taraftarium111.top
     accept_antibot: true
-    failed_since: 2026-02-22 17:31
-    failed_days: 0
-    potentially_dead: true
+    last_seen: 2026-02-22
   patronspor04548a2wer45awes.cfd:
     initial_domain: https://t.co/sRxEaOU2pj
     last_known_mirror: https://hepbetspor17.cfd/
     last_seen: 2026-02-22
-  hepbetspor:
-    last_known_mirror: hepbetspor12.cfd
-    probe_text:
-      - banner-container
-    failed_since: 2026-02-22 17:31
+    failed_since: 2026-02-22 21:37
     failed_days: 0
     potentially_dead: true
+  hepbetspor:
+    last_known_mirror: hepbetspor18.cfd
+    probe_text:
+      - banner-container
+    last_seen: 2026-02-22
