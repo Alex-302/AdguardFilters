@@ -32,7 +32,6 @@ sites:
     last_known_mirror: dizipal1964.com
     probe_text:
       - h1>Dizipal</h1>
-    last_seen: 2026-01-25 18:36
     last_failed: 2026-02-12 04:28
     failed_days: 1
     potentially_dead: true
@@ -64,7 +63,6 @@ sites:
     last_seen: 2026-02-23
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-1b5668f3f9.xyz
-    last_seen: 2026-02-14 13:48
     last_failed: 2026-02-14 16:55
     failed_days: 1
     potentially_dead: true
@@ -80,7 +78,6 @@ sites:
     last_seen: 2026-02-23
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
-    last_seen: 2026-02-17 15:23
     last_failed: 2026-02-17 20:13
     failed_days: 1
     potentially_dead: true
@@ -114,9 +111,10 @@ sites:
     potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
+    probe_text:
+      - const BASE_URL  = "https://betist
     accept_antibot: true
     geoblock: TR
-    last_seen: 2026-02-20 04:20
     last_failed: 2026-02-20 20:45
     failed_days: 1
     force_search_ahead: true
