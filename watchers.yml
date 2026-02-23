@@ -2,7 +2,7 @@ sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Fail - example.org:
@@ -10,7 +10,7 @@ sites:
     probe_text:
       - not existing text
     last_failed: 2026-01-25 13:22
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Success - example.de:
@@ -26,14 +26,14 @@ sites:
     geoblock: TR
     last_seen: 2026-02-23
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe458.sbs
+    last_known_mirror: belestepe468.sbs
     last_seen: 2026-02-23
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — zeusdizi*.com:
@@ -46,7 +46,7 @@ sites:
     last_known_mirror: turkifsaclub-19.sbs
     last_seen: 2026-02-23
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas91.com
+    last_known_mirror: askimyavas92.com
     last_seen: 2026-02-23
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv9.com
@@ -62,11 +62,9 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-02-23
   Frequently changed domains — xsportv*.xyz:
-    last_known_mirror: www.xsportv-1b5668f3f9.xyz
+    last_known_mirror: www.xsportv-c0f3b4e4cd.xyz
     last_failed: 2026-02-14 16:55
-    failed_days: 1
-    potentially_dead: true
-    failed_since: 2026-02-22 17:31
+    last_seen: 2026-02-23
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv73.shop
     last_seen: 2026-02-23
@@ -79,7 +77,7 @@ sites:
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
     last_failed: 2026-02-17 20:13
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
@@ -97,7 +95,7 @@ sites:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
@@ -106,9 +104,6 @@ sites:
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv383.com
     last_seen: 2026-02-23
-    failed_since: 2026-02-23 16:56
-    failed_days: 0
-    potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
     probe_text:
@@ -116,7 +111,7 @@ sites:
     accept_antibot: true
     geoblock: TR
     last_failed: 2026-02-20 20:45
-    failed_days: 1
+    failed_days: 2
     force_search_ahead: true
     potentially_dead: true
     failed_since: 2026-02-22 17:31
@@ -131,7 +126,7 @@ sites:
     last_known_mirror: sahatv5.top
     last_seen: 2026-02-23
   Frequently changed domains — YavasGir:
-    last_known_mirror: yavasgir55.com
+    last_known_mirror: yavasgir56.com
     last_seen: 2026-02-23
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv16.com
@@ -147,7 +142,7 @@ sites:
     last_known_mirror: piabettv12.live
     last_seen: 2026-02-23
   restmacizle23.cfd:
-    last_known_mirror: restmacizle36.cfd
+    last_known_mirror: restmacizle37.cfd
     last_seen: 2026-02-23
   sultansportv562.com:
     last_known_mirror: sultansportv709.com
@@ -160,7 +155,7 @@ sites:
     accept_antibot: true
     last_seen: 2026-02-23
   www.selcuksportshd8443661f57.xyz:
-    last_known_mirror: www.selcuksportshdbe8ee1c309.xyz
+    last_known_mirror: www.selcuksportshdc0d7142f08.xyz
     accept_antibot: true
     last_seen: 2026-02-23
   www.taraftarium91.top:
@@ -175,7 +170,7 @@ sites:
     failed_days: 1
     potentially_dead: true
   hepbetspor:
-    last_known_mirror: hepbetspor18.cfd
+    last_known_mirror: hepbetspor19.cfd
     probe_text:
       - banner-container
     last_seen: 2026-02-23
