@@ -1034,3 +1034,76 @@ Rotating Domains Checker: Updating domains
 📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22294012140#artifacts
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-02-23 08:50:54.023
+================================================================================
+
+2026-02-23 08:50:13.347 Rotating Domains Checker v1.1.7 - WRITE mode
+2026-02-23 08:50:13.348 Test filters dir: NO
+2026-02-23 08:50:13.348 Target repo path: ./
+2026-02-23 08:50:13.348 Sites to check: 42
+
+2026-02-23 08:50:53.905 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-02-23 08:50:53.905   Total sites: 42
+2026-02-23 08:50:53.905   ├─ Checked sites: 42
+2026-02-23 08:50:53.905   ├─ Updated sites: 0
+2026-02-23 08:50:53.905   ├─ Antibot accepted: 4 (not in failed count)
+2026-02-23 08:50:53.905   └─ Unchanged sites: 42
+2026-02-23 08:50:53.905  🚨  Failed: 8
+2026-02-23 08:50:53.905   ├─ including antibot blocked: 1
+2026-02-23 08:50:53.905   └─ Network problems or dead: 7
+2026-02-23 08:50:53.905 
+2026-02-23 08:50:53.905 Problems:
+2026-02-23 08:50:53.905  🚨 Errors (no replacements made):
+2026-02-23 08:50:53.905      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.06s)
+2026-02-23 08:50:53.905      - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.31s)
+2026-02-23 08:50:53.905      - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.52s)
+2026-02-23 08:50:53.905      - Frequently changed domains — xsportv*.xyz [https://www.xsportv-1b5668f3f9.xyz]: Non-success status: 404 (0.42s)
+2026-02-23 08:50:53.905      - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.30s)
+2026-02-23 08:50:53.905      - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+2026-02-23 08:50:53.905      - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (5.59s)
+2026-02-23 08:50:53.905      - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.31s)
+2026-02-23 08:50:53.905 
+2026-02-23 08:50:53.905 Total phase time: 39.888s
+2026-02-23 08:50:53.905 
+2026-02-23 08:50:53.905 Unchanged sites:
+                        example.de, www.sporcafe-11057275bd.xyz, belestepe458.sbs, dizipal1965.com, zeusdizi19.com, turkifsaclub57.sbs, turkifsaclub-18.sbs, askimyavas91.com, gobtv9.com, trgooltv54.top, netsportv236.top, zeustv220.com, www.xsportv-1b5668f3f9.xyz, vegatv73.shop, betmatiktv122.com, seyirspor14.com, lorabettvhd80.shop, acartv86.live, bosssports400.com, www.inattvizle400.top, otobettv22.com, rotabettv383.com, tackchen.gitee.io, www.portobettv55.com, betivotv156.com, sahatv5.top, yavasgir55.com, kodtimetv16.com, amp-6392fa66a0.selcuksportshdamp-aa805a079c.click, dizigom104.com, piabettv12.live, restmacizle36.cfd, sultansportv7795.com, taraftarium24.xyz, www.papazsports950.pro, www.selcuksportshdbe8ee1c309.xyz, www.taraftarium120.top, raw.githack.com, hepbetspor18.cfd
+
+2026-02-23 08:50:53.905 === Domains replacement summary ===
+2026-02-23 08:50:53.905 Files scanned: 160
+2026-02-23 08:50:53.905 Files modified: 0
+2026-02-23 08:50:53.905 Total line edits: 0
+2026-02-23 08:50:53.905 Total phase time: 0.666s
+2026-02-23 08:50:53.905 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-02-23 08:50:54.021 ⌛ Total execution time: 40.697s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Target branch: master
+Commit message:
+Rotating Domains Checker: Updating domains
+
+🔄  Updated domains: 0
+
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.06s)
+     - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.31s)
+     - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.52s)
+     - Frequently changed domains — xsportv*.xyz [https://www.xsportv-1b5668f3f9.xyz]: Non-success status: 404 (0.42s)
+     - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.30s)
+     - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+     - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (5.59s)
+     - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.31s)
+
+⚠️  Antibot accepted (ignored by config):
+     - Frequently changed domains — inattvizle*.top [https://www.inattvizle400.top]: Antibot detected, but accepted by config (0.92s)
+     - amp-6392fa66a0.selcuksportshdamp-aa805a079c.click [https://amp-6392fa66a0.selcuksportshdamp-aa805a079c.click]: Antibot detected, but accepted by config (0.64s)
+     - www.papazsports924.pro [https://www.papazsports950.pro]: Antibot detected, but accepted by config (0.38s)
+     - www.taraftarium91.top [https://www.taraftarium120.top]: Antibot detected, but accepted by config (0.46s)
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22298930509#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
