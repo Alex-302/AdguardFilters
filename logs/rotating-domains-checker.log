@@ -1190,3 +1190,92 @@ sultansportv562.com              sultansportv7795.com → sultansportv709.com
 📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22307272441#artifacts
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-02-23 16:56:39.114
+================================================================================
+
+2026-02-23 16:55:56.021 Rotating Domains Checker v1.1.7 - WRITE mode
+2026-02-23 16:55:56.023 Test filters dir: NO
+2026-02-23 16:55:56.023 Target repo path: ./
+2026-02-23 16:55:56.023 Sites to check: 42
+
+2026-02-23 16:56:38.136 
+                      Redirected domains 
+╔════════════════════════════════════════════════╤═════════════════════╤═════════════════════╤════════╗
+║ Site                                           │ From                │ To                  │ Time   ║
+╟────────────────────────────────────────────────┼─────────────────────┼─────────────────────┼────────╢
+║ Frequently changed domains — turkifsaclub*.sbs │ turkifsaclub57.sbs  │ turkifsaclub58.sbs  │ 1.56s  ║
+║ turkifsaclub-12.sbs                            │ turkifsaclub-18.sbs │ turkifsaclub-19.sbs │ 1.77s  ║
+║ Frequently changed domains — bosssports*.com   │ bosssports400.com   │ bosssports402.com   │ 21.05s ║
+╚════════════════════════════════════════════════╧═════════════════════╧═════════════════════╧════════╝
+
+2026-02-23 16:56:38.996 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-02-23 16:56:38.996   Total sites: 42
+2026-02-23 16:56:38.996   ├─ Checked sites: 42
+2026-02-23 16:56:38.996   ├─ Updated sites: 4
+2026-02-23 16:56:38.996   ├─ Antibot accepted: 4 (not in failed count)
+2026-02-23 16:56:38.996   └─ Unchanged sites: 29
+2026-02-23 16:56:38.996  🚨  Failed: 9
+2026-02-23 16:56:38.996   ├─ including antibot blocked: 1
+2026-02-23 16:56:38.996   └─ Network problems or dead: 8
+2026-02-23 16:56:38.996 
+2026-02-23 16:56:38.996 Problems:
+2026-02-23 16:56:38.996  🚨 Errors (no replacements made):
+2026-02-23 16:56:38.996      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.05s)
+2026-02-23 16:56:38.996      - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.33s)
+2026-02-23 16:56:38.996      - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (1.07s)
+2026-02-23 16:56:38.996      - Frequently changed domains — xsportv*.xyz [https://www.xsportv-1b5668f3f9.xyz]: Non-success status: 404 (0.47s)
+2026-02-23 16:56:38.996      - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.33s)
+2026-02-23 16:56:38.997      - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+2026-02-23 16:56:38.997      - Frequently changed domains — rotabettv*.com [https://rotabettv383.com]: Non-success status: 521 (1.72s)
+2026-02-23 16:56:38.997      - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (4.09s)
+2026-02-23 16:56:38.997      - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.66s)
+2026-02-23 16:56:38.997 
+2026-02-23 16:56:38.997 Total phase time: 42.104s
+2026-02-23 16:56:38.997 
+2026-02-23 16:56:38.997 Unchanged sites:
+                        example.de, www.sporcafe-11057275bd.xyz, belestepe458.sbs, dizipal1965.com, zeusdizi19.com, askimyavas91.com, gobtv9.com, trgooltv54.top, netsportv236.top, zeustv220.com, www.xsportv-1b5668f3f9.xyz, vegatv73.shop, betmatiktv122.com, seyirspor14.com, lorabettvhd80.shop, acartv86.live, www.inattvizle400.top, otobettv22.com, rotabettv383.com, tackchen.gitee.io, www.portobettv55.com, betivotv156.com, sahatv5.top, yavasgir55.com, kodtimetv16.com, amp-6392fa66a0.selcuksportshdamp-aa805a079c.click, dizigom104.com, piabettv12.live, restmacizle36.cfd, taraftarium24.xyz, www.papazsports950.pro, www.selcuksportshdbe8ee1c309.xyz, www.taraftarium120.top, raw.githack.com, hepbetspor18.cfd
+
+2026-02-23 16:56:38.997 === Domains replacement summary ===
+2026-02-23 16:56:38.997 Files scanned: 160
+2026-02-23 16:56:38.997 Files modified: 1
+2026-02-23 16:56:38.997 Total line edits: 6
+2026-02-23 16:56:38.997 Total phase time: 0.868s
+2026-02-23 16:56:38.997 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-02-23 16:56:39.112 ⌛ Total execution time: 43.115s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Target branch: master
+Commit message:
+Rotating Domains Checker: Updating domains
+
+🔄  Updated domains:
+
+Frequently changed domains — turkifsaclub*.sbs   turkifsaclub57.sbs   → turkifsaclub58.sbs  
+turkifsaclub-12.sbs                              turkifsaclub-18.sbs  → turkifsaclub-19.sbs 
+Frequently changed domains — bosssports*.com     bosssports400.com    → bosssports402.com   
+
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.05s)
+     - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.33s)
+     - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (1.07s)
+     - Frequently changed domains — xsportv*.xyz [https://www.xsportv-1b5668f3f9.xyz]: Non-success status: 404 (0.47s)
+     - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.33s)
+     - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+     - Frequently changed domains — rotabettv*.com [https://rotabettv383.com]: Non-success status: 521 (1.72s)
+     - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (4.09s)
+     - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.66s)
+
+⚠️  Antibot accepted (ignored by config):
+     - Frequently changed domains — inattvizle*.top [https://www.inattvizle400.top]: Antibot detected, but accepted by config (0.95s)
+     - amp-6392fa66a0.selcuksportshdamp-aa805a079c.click [https://amp-6392fa66a0.selcuksportshdamp-aa805a079c.click]: Antibot detected, but accepted by config (0.53s)
+     - www.papazsports924.pro [https://www.papazsports950.pro]: Antibot detected, but accepted by config (0.35s)
+     - www.taraftarium91.top [https://www.taraftarium120.top]: Antibot detected, but accepted by config (0.56s)
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22316113558#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
