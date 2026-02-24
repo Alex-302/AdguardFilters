@@ -4435,14 +4435,14 @@ vegatv73.shop##a[href^="https://vegabetortaklik.com/links/"]
 ||betmatiktv*.com/*.gif
 [$domain=/betmatiktv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betmatiktv122.com##a[href^="https://cutt.ly/"]
+betmatiktv123.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: seyirspor*.com
 ||seyirspor*.com/*.gif
 [$domain=/seyirspor\d+\.com/]##a[href^="https://t2m.io/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-seyirspor14.com##a[href^="https://t2m.io/"]
+seyirspor15.com##a[href^="https://t2m.io/"]
 !#endif
 !
 ! Frequently changed domains: lorabettvhd*.shop
