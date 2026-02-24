@@ -5422,9 +5422,9 @@ www.inattvizle400.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports922.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports922.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports922.pro##.header-banner
+www.papazsports942.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports942.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports942.pro##.header-banner
 !#endif
 !
 ! START: Yandex
