@@ -174,3 +174,6 @@ sites:
     probe_text:
       - banner-container
     last_seen: 2026-02-24
+  torrentsee:
+    last_known_mirror: torrentsee323.com
+    accept_antibot: true
