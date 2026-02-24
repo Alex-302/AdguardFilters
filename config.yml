@@ -44,7 +44,7 @@ skip_text:
   - "https://patronspor.is/?s={search_term_string}"  # skip redirets back to patronmarketing landing pages
   - "spinny-cogs"                                    # betist{N}tv.live
   - "internal error, please contact"                 # Cloudflare, HTTP 500
-  - "Henüz bu adreste değiliz"                       # PapazSports dummy page
+  - "We don't use this website, yet!"                # PapazSports dummy page
 
 logging:
   saveToFile: true       # save logs to file
