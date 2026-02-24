@@ -1751,3 +1751,88 @@ Rotating Domains Checker: Updating domains
 📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22352040796#artifacts
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-02-24 14:49:07.650
+================================================================================
+
+2026-02-24 14:48:29.717 Rotating Domains Checker v1.1.7 - WRITE mode
+2026-02-24 14:48:29.719 Test filters dir: NO
+2026-02-24 14:48:29.719 Target repo path: ./
+2026-02-24 14:48:29.719 Sites to check: 42
+
+2026-02-24 14:49:06.798 
+                      Redirected domains 
+╔════════════════════════╤════════════════════════╤════════════════════════╤════════╗
+║ Site                   │ From                   │ To                     │ Time   ║
+╟────────────────────────┼────────────────────────┼────────────────────────┼────────╢
+║ www.papazsports924.pro │ www.papazsports920.pro │ www.papazsports942.pro │ 17.66s ║
+╚════════════════════════╧════════════════════════╧════════════════════════╧════════╝
+
+2026-02-24 14:49:07.533 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-02-24 14:49:07.533   Total sites: 42
+2026-02-24 14:49:07.533   ├─ Checked sites: 42
+2026-02-24 14:49:07.533   ├─ Updated sites: 1
+2026-02-24 14:49:07.533   ├─ Antibot accepted: 4 (not in failed count)
+2026-02-24 14:49:07.533   └─ Unchanged sites: 34
+2026-02-24 14:49:07.533  🚨  Failed: 7
+2026-02-24 14:49:07.533   ├─ including antibot blocked: 1
+2026-02-24 14:49:07.533   └─ Network problems or dead: 6
+2026-02-24 14:49:07.533 
+2026-02-24 14:49:07.533 Problems:
+2026-02-24 14:49:07.533  🚨 Errors (no replacements made):
+2026-02-24 14:49:07.533      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.05s)
+2026-02-24 14:49:07.533      - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.15s)
+2026-02-24 14:49:07.533      - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.47s)
+2026-02-24 14:49:07.533      - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Network error [code=DEPTH_ZERO_SELF_SIGNED_CERT]: fetch failed (1.69s)
+2026-02-24 14:49:07.533      - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+2026-02-24 14:49:07.533      - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (4.42s)
+2026-02-24 14:49:07.533      - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.29s)
+2026-02-24 14:49:07.533 
+2026-02-24 14:49:07.533 Total phase time: 37.072s
+2026-02-24 14:49:07.533 
+2026-02-24 14:49:07.533 Unchanged sites:
+                        example.de, www.sporcafe-11057275bd.xyz, belestepe468.sbs, dizipal1965.com, zeusdizi19.com, turkifsaclub58.sbs, turkifsaclub-19.sbs, askimyavas92.com, gobtv9.com, trgooltv54.top, netsportv236.top, zeustv222.com, www.xsportv-c0f3b4e4cd.xyz, vegatv73.shop, betmatiktv123.com, seyirspor15.com, acartv86.live, bosssports402.com, www.inattvizle400.top, otobettv22.com, rotabettv383.com, tackchen.gitee.io, www.portobettv55.com, betivotv156.com, sahatv5.top, yavasgir56.com, kodtimetv16.com, amp-6392fa66a0.selcuksportshdamp-aa805a079c.click, dizigom104.com, piabettv12.live, restmacizle37.cfd, sultansportv709.com, taraftarium24.xyz, www.selcuksportshdc0d7142f08.xyz, www.taraftarium120.top, raw.githack.com, hepbetspor19.cfd
+
+2026-02-24 14:49:07.534 === Domains replacement summary ===
+2026-02-24 14:49:07.534 Files scanned: 160
+2026-02-24 14:49:07.534 Files modified: 1
+2026-02-24 14:49:07.534 Total line edits: 3
+2026-02-24 14:49:07.534 Total phase time: 0.741s
+2026-02-24 14:49:07.534 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-02-24 14:49:07.648 ⌛ Total execution time: 37.955s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Target branch: master
+Commit message:
+Rotating Domains Checker: Updating domains
+
+🔄  Updated domains:
+
+www.papazsports924.pro           www.papazsports920.pro → www.papazsports942.pro
+
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.05s)
+     - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.15s)
+     - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.47s)
+     - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Network error [code=DEPTH_ZERO_SELF_SIGNED_CERT]: fetch failed (1.69s)
+     - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+     - Frequently changed domains — betist*tv.live [https://tackchen.gitee.io/404.html?h=]: Non-success status: 404 (4.42s)
+     - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.29s)
+
+
+⚠️  Warnings:
+     - www.papazsports924.pro: Domain redirected (www.papazsports920.pro → www.papazsports942.pro) but protected by antibot - old domain may remain in filter rules
+
+⚠️  Antibot accepted (ignored by config):
+     - Frequently changed domains — inattvizle*.top [https://www.inattvizle400.top]: Antibot detected, but accepted by config (0.78s)
+     - amp-6392fa66a0.selcuksportshdamp-aa805a079c.click [https://amp-6392fa66a0.selcuksportshdamp-aa805a079c.click]: Antibot detected, but accepted by config (0.53s)
+     - www.papazsports924.pro [https://www.papazsports941.pro]: Antibot detected, but accepted by config (17.66s)
+     - www.taraftarium91.top [https://www.taraftarium120.top]: Antibot detected, but accepted by config (0.43s)
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22355961159#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
