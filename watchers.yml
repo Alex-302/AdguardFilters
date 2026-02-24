@@ -29,7 +29,7 @@ sites:
       - www.sporcafe-11057275bd.xyz
     pattern_changed: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe468.sbs
+    last_known_mirror: belestepe478.sbs
     last_seen: 2026-02-24
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
@@ -45,9 +45,15 @@ sites:
   Frequently changed domains — turkifsaclub*.sbs:
     last_known_mirror: turkifsaclub59.sbs
     last_seen: 2026-02-24
+    failed_since: 2026-02-24 20:35
+    failed_days: 0
+    potentially_dead: true
   turkifsaclub-12.sbs:
     last_known_mirror: turkifsa00474.sbs
     last_seen: 2026-02-24
+    failed_since: 2026-02-24 20:35
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas93.com
     last_seen: 2026-02-24
@@ -65,7 +71,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-02-24
   Frequently changed domains — xsportv*.xyz:
-    last_known_mirror: www.xsportv-c0f3b4e4cd.xyz
+    last_known_mirror: www.xsportv-dcdef6c173.xyz
     last_failed: 2026-02-14 16:55
     last_seen: 2026-02-24
   Frequently changed domains — vegatv*.shop:
@@ -87,7 +93,7 @@ sites:
     last_known_mirror: acartv86.live
     last_seen: 2026-02-24
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports402.com
+    last_known_mirror: bosssports404.com
     last_seen: 2026-02-24
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle400.top
@@ -145,16 +151,16 @@ sites:
     last_known_mirror: piabettv12.live
     last_seen: 2026-02-24
   restmacizle23.cfd:
-    last_known_mirror: restmacizle37.cfd
+    last_known_mirror: restmacizle38.cfd
     last_seen: 2026-02-24
   sultansportv562.com:
-    last_known_mirror: sultansportv709.com
+    last_known_mirror: sultansportv3709.com
     last_seen: 2026-02-24
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     last_seen: 2026-02-24
   www.papazsports924.pro wwwwww:
-    last_known_mirror: www.papazsports946.pro
+    last_known_mirror: www.papazsports950.pro
     accept_antibot: true
     last_seen: 2026-02-24
   www.selcuksportshd8443661f57.xyz:
@@ -173,11 +179,11 @@ sites:
     failed_days: 2
     potentially_dead: true
   hepbetspor:
-    last_known_mirror: hepbetspor19.cfd
+    last_known_mirror: hepbetspor20.cfd
     probe_text:
       - banner-container
     last_seen: 2026-02-24
   torrentsee:
-    last_known_mirror: torrentsee324.com
+    last_known_mirror: torrentsee326.com
     accept_antibot: true
     last_seen: 2026-02-24
