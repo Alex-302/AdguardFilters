@@ -43,7 +43,7 @@ sites:
     last_known_mirror: zeusdizi19.com
     last_seen: 2026-02-25
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub59.sbs
+    last_known_mirror: turkifsaclub60.sbs
     last_seen: 2026-02-25
   turkifsaclub-12.sbs:
     last_known_mirror: turkifsa00474.sbs
@@ -184,6 +184,6 @@ sites:
     failed_days: 1
     potentially_dead: true
   torrentsee:
-    last_known_mirror: torrentsee322.com
+    last_known_mirror: torrentsee324.com
     accept_antibot: true
     last_seen: 2026-02-25
