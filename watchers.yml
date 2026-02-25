@@ -52,7 +52,7 @@ sites:
     last_known_mirror: askimyavas93.com
     last_seen: 2026-02-25
   Frequently changed domains — gobtv*.com:
-    last_known_mirror: gobtv9.com
+    last_known_mirror: gobtv10.com
     last_seen: 2026-02-25
   Frequently changed domains — trgooltv*.top:
     last_known_mirror: trgooltv54.top
@@ -72,7 +72,7 @@ sites:
     last_known_mirror: vegatv73.shop
     last_seen: 2026-02-25
   Frequently changed domains — betmatiktv*.com:
-    last_known_mirror: betmatiktv123.com
+    last_known_mirror: betmatiktv124.com
     last_seen: 2026-02-25
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor15.com
@@ -84,7 +84,7 @@ sites:
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
-    last_known_mirror: acartv86.live
+    last_known_mirror: acartv87.live
     last_seen: 2026-02-25
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports406.com
@@ -102,7 +102,7 @@ sites:
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
-    last_known_mirror: otobettv22.com
+    last_known_mirror: otobettv23.com
     last_seen: 2026-02-25
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv384.com
@@ -134,6 +134,9 @@ sites:
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv16.com
     last_seen: 2026-02-25
+    failed_since: 2026-02-25 05:22
+    failed_days: 0
+    potentially_dead: true
   amp-6392fa66a0.selcuksportshdamp-aa805a079c.click:
     last_known_mirror: amp-6392fa66a0.selcuksportshdamp-aa805a079c.click
     accept_antibot: true
@@ -178,7 +181,7 @@ sites:
       - banner-container
     last_seen: 2026-02-24
     failed_since: 2026-02-25 02:04
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee326.com
