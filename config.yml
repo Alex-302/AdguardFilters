@@ -45,6 +45,7 @@ skip_text:
   - "spinny-cogs"                                    # betist{N}tv.live
   - "internal error, please contact"                 # Cloudflare, HTTP 500
   - "We don't use this website, yet!"                # PapazSports dummy page
+  - "sedoParkingUrl"                                 # Sedo Parking domains
 
 logging:
   saveToFile: true       # save logs to file

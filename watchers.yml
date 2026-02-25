@@ -184,6 +184,6 @@ sites:
     failed_days: 1
     potentially_dead: true
   torrentsee:
-    last_known_mirror: torrentsee326.com
+    last_known_mirror: torrentsee322.com
     accept_antibot: true
     last_seen: 2026-02-25
