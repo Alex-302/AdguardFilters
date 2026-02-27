@@ -188,5 +188,5 @@ sites:
     accept_antibot: true
     last_seen: 2026-02-27
     failed_since: 2026-02-27 05:14
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
