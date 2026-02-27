@@ -1379,3 +1379,82 @@ www.selcuksportshd8443661f57.xyz                          www.selcuksportshdee3c
 📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22469510222#artifacts
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-02-27 05:14:43.190
+================================================================================
+
+2026-02-27 05:14:04.299 Rotating Domains Checker v1.1.7 - WRITE mode
+2026-02-27 05:14:04.301 Test filters dir: NO
+2026-02-27 05:14:04.301 Target repo path: ./
+2026-02-27 05:14:04.301 Sites to check: 43
+
+2026-02-27 05:14:43.073 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-02-27 05:14:43.074   Total sites: 43
+2026-02-27 05:14:43.074   ├─ Checked sites: 43
+2026-02-27 05:14:43.074   ├─ Updated sites: 1
+2026-02-27 05:14:43.074   ├─ Antibot accepted: 4 (not in failed count)
+2026-02-27 05:14:43.074   └─ Unchanged sites: 33
+2026-02-27 05:14:43.074  🚨  Failed: 9
+2026-02-27 05:14:43.074   ├─ including antibot blocked: 1
+2026-02-27 05:14:43.074   └─ Network problems or dead: 8
+2026-02-27 05:14:43.074 
+2026-02-27 05:14:43.074 Problems:
+2026-02-27 05:14:43.074  🚨 Errors (no replacements made):
+2026-02-27 05:14:43.074      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.06s)
+2026-02-27 05:14:43.074      - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.38s)
+2026-02-27 05:14:43.074      - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.60s)
+2026-02-27 05:14:43.074      - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.13s)
+2026-02-27 05:14:43.074      - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+2026-02-27 05:14:43.074      - Frequently changed domains — betist*tv.live [https://betist220tv.live]: Content probe failed (1.11s)
+2026-02-27 05:14:43.074      - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.56s)
+2026-02-27 05:14:43.074      - hepbetspor [https://patronspor.is/]: Skipped by skip_text: "https://patronspor.is/?s={search_term_string}" (0.36s)
+2026-02-27 05:14:43.074      - torrentsee [https://torrentsee328.com]: Skipped by skip_text: "sedoParkingUrl" (0.53s)
+2026-02-27 05:14:43.074 
+2026-02-27 05:14:43.074 Total phase time: 38.106s
+2026-02-27 05:14:43.074 
+2026-02-27 05:14:43.074 Unchanged sites:
+                        example.de, www.sporcafe-86fabf48fc.xyz, belestepe649.sbs, dizipal1965.com, zeusdizi19.com, turkifsaclub61.sbs, turkifsaclub61.sbs, askimyavas95.com, gobtv12.com, trgooltv54.top, netsportv247.top, zeustv226.com, www.xsportv-f518df6ad0.xyz, vegatv73.shop, betmatiktv126.com, seyirspor15.com, lorabettvhd80.shop, acartv89.live, bosssports422.com, www.inattvizle400.top, otobettv25.com, rotabettv387.com, betist220tv.live, www.portobettv55.com, betivotv156.com, sahatv5.top, yavasgir59.com, kodtimetv17.com, amp-6392fa66a0.selcuksportshdamp-aa805a079c.click, dizigom104.com, piabettv12.live, restmacizle42.cfd, sultansportv5109.com, taraftarium24.xyz, www.papazsports950.pro, www.selcuksportshd3f11b23eb3.xyz, www.taraftarium120.top, raw.githack.com, patronspor.is, torrentsee328.com
+
+2026-02-27 05:14:43.074 === Domains replacement summary ===
+2026-02-27 05:14:43.074 Files scanned: 160
+2026-02-27 05:14:43.074 Files modified: 0
+2026-02-27 05:14:43.074 Total line edits: 0
+2026-02-27 05:14:43.074 Total phase time: 0.664s
+2026-02-27 05:14:43.074 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-02-27 05:14:43.188 ⌛ Total execution time: 38.911s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Target branch: master
+Commit message:
+Rotating Domains Checker: Updating domains
+
+🔄  Updated domains: 0
+
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.06s)
+     - Test Probe Fail - example.org [https://example.org]: Network error [code=UNABLE_TO_GET_ISSUER_CERT_LOCALLY]: fetch failed (1.38s)
+     - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.60s)
+     - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: Skipped by skip_text: "router.parklogic.com" (0.13s)
+     - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (5.50s)
+     - Frequently changed domains — betist*tv.live [https://betist220tv.live]: Content probe failed (1.11s)
+     - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.56s)
+     - hepbetspor [https://patronspor.is/]: Skipped by skip_text: "https://patronspor.is/?s={search_term_string}" (0.36s)
+     - torrentsee [https://torrentsee328.com]: Skipped by skip_text: "sedoParkingUrl" (0.53s)
+
+
+⚠️  Warnings:
+     - Frequently changed domains — sporcafe*.xyz — Spor Cafe: Pattern domain redirected to non-pattern ( → www.sporcafe-86fabf48fc.xyz) - filter not updated, waiting for new pattern domain
+
+⚠️  Antibot accepted (ignored by config):
+     - Frequently changed domains — inattvizle*.top [https://www.inattvizle400.top]: Antibot detected, but accepted by config (0.89s)
+     - amp-6392fa66a0.selcuksportshdamp-aa805a079c.click [https://amp-6392fa66a0.selcuksportshdamp-aa805a079c.click]: Antibot detected, but accepted by config (0.53s)
+     - www.papazsports924.pro wwwwww [https://www.papazsports950.pro]: Antibot detected, but accepted by config (0.21s)
+     - www.taraftarium91.top [https://www.taraftarium120.top]: Antibot detected, but accepted by config (0.49s)
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/22473781249#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
