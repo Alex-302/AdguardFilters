@@ -43,10 +43,10 @@ sites:
     last_known_mirror: zeusdizi19.com
     last_seen: 2026-02-27
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub61.sbs
+    last_known_mirror: turkifsaclub62.sbs
     last_seen: 2026-02-27
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub61.sbs
+    last_known_mirror: turkifsaclub62.sbs
     last_seen: 2026-02-27
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas95.com
@@ -187,6 +187,3 @@ sites:
     last_known_mirror: torrentsee328.com
     accept_antibot: true
     last_seen: 2026-02-27
-    failed_since: 2026-02-27 05:14
-    failed_days: 1
-    potentially_dead: true
