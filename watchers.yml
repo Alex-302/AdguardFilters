@@ -189,3 +189,6 @@ sites:
     last_known_mirror: torrentsee328.com
     accept_antibot: true
     last_seen: 2026-02-28
+    failed_since: 2026-02-28 20:25
+    failed_days: 0
+    potentially_dead: true
