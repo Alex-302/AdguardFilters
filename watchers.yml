@@ -28,9 +28,6 @@ sites:
     heuristic_history:
       - www.sporcafe-11057275bd.xyz
     pattern_changed: true
-    failed_since: 2026-02-28 04:55
-    failed_days: 1
-    potentially_dead: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe639.sbs
     last_seen: 2026-02-28
@@ -90,7 +87,7 @@ sites:
     last_known_mirror: acartv89.live
     last_seen: 2026-02-28
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports424.com
+    last_known_mirror: bosssports426.com
     last_seen: 2026-02-28
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle410.top
@@ -161,7 +158,7 @@ sites:
     accept_antibot: true
     last_seen: 2026-02-28
   www.selcuksportshd8443661f57.xyz:
-    last_known_mirror: www.selcuksportshd93f30baa28.xyz
+    last_known_mirror: www.selcuksportshd2dd7e8bcae.xyz
     accept_antibot: true
     last_seen: 2026-02-28
   www.taraftarium91.top:
