@@ -29,7 +29,7 @@ sites:
       - www.sporcafe-11057275bd.xyz
     pattern_changed: true
     failed_since: 2026-02-28 04:55
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe639.sbs
@@ -151,13 +151,13 @@ sites:
     last_known_mirror: restmacizle42.cfd
     last_seen: 2026-02-28
   sultansportv562.com:
-    last_known_mirror: sultansportv5109.com
+    last_known_mirror: sultansportv1009.com
     last_seen: 2026-02-28
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     last_seen: 2026-02-28
   www.papazsports924.pro wwwwww:
-    last_known_mirror: www.papazsports959.pro
+    last_known_mirror: www.papazsports960.pro
     accept_antibot: true
     last_seen: 2026-02-28
   www.selcuksportshd8443661f57.xyz:
