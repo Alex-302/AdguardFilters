@@ -4780,9 +4780,9 @@ hdselcuksports368.top#%#//scriptlet('prevent-window-open')
 [$domain=/belestepe\d+\.sbs/]##div[data-isbd-main-container] > section > div.hidden-xs.text-center
 [$domain=/belestepe\d+\.sbs/]#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-belestepe639.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
-belestepe639.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
-||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe639.sbs
+belestepe407.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
+belestepe407.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
+||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe407.sbs
 !#endif
 !
 ! Frequently changed domains: izlemac*.sbs
@@ -5422,9 +5422,9 @@ www.inattvizle410.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports960.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports960.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports960.pro##.header-banner
+www.papazsports960.pro,www.papazsports949.pro,www.papazsports950.pro,www.papazsports951.pro,www.papazsports953.pro,www.papazsports954.pro,www.papazsports955.pro,www.papazsports956.pro,www.papazsports957.pro,www.papazsports952.pro,www.papazsports958.pro,www.papazsports959.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports960.pro,www.papazsports949.pro,www.papazsports950.pro,www.papazsports951.pro,www.papazsports953.pro,www.papazsports954.pro,www.papazsports955.pro,www.papazsports956.pro,www.papazsports957.pro,www.papazsports952.pro,www.papazsports958.pro,www.papazsports959.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports960.pro,www.papazsports949.pro,www.papazsports950.pro,www.papazsports951.pro,www.papazsports953.pro,www.papazsports954.pro,www.papazsports955.pro,www.papazsports956.pro,www.papazsports957.pro,www.papazsports952.pro,www.papazsports958.pro,www.papazsports959.pro##.header-banner
 !#endif
 !
 ! START: Yandex

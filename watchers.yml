@@ -29,7 +29,7 @@ sites:
       - www.sporcafe-11057275bd.xyz
     pattern_changed: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe639.sbs
+    last_known_mirror: belestepe407.sbs
     last_seen: 2026-02-28
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
@@ -65,7 +65,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-02-28
   Frequently changed domains — xsportv*.xyz:
-    last_known_mirror: www.xsportv-37cb514156.xyz
+    last_known_mirror: www.xsportv-f555f2853b.xyz
     last_failed: 2026-02-14 16:55
     last_seen: 2026-02-28
   Frequently changed domains — vegatv*.shop:
@@ -155,7 +155,7 @@ sites:
     last_seen: 2026-02-28
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports960.pro
+    last_known_mirror: www.papazsports949.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-02-28
