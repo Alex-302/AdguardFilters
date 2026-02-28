@@ -4401,9 +4401,9 @@ trgooltv54.top##div[class^="reklam-"]
 [$domain=/netsportv\d+\.top/]##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
 [$domain=/netsportv\d+\.top/]##div[class^="reklam-"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-netsportv247.top##div[style="margin: 10px; text-align: center;"]
-netsportv247.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
-netsportv247.top##div[class^="reklam-"]
+netsportv248.top##div[style="margin: 10px; text-align: center;"]
+netsportv248.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
+netsportv248.top##div[class^="reklam-"]
 !#endif
 !
 ! Frequently changed domains: zeustv*.com
