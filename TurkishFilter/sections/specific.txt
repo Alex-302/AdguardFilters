@@ -4435,7 +4435,7 @@ vegatv73.shop##a[href^="https://vegabetortaklik.com/links/"]
 ||betmatiktv*.com/*.gif
 [$domain=/betmatiktv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betmatiktv126.com##a[href^="https://cutt.ly/"]
+betmatiktv127.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: seyirspor*.com
@@ -5400,8 +5400,8 @@ trgoals78.top,trgoals79.top,trgoals80.top,trgoals81.top,trgoals82.top,trgoals83.
 [$domain=/inattvizle\d+\.top/]##.dbad
 [$domain=/inattvizle\d+\.top/]##.under-vid-banner
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-www.inattvizle400.top##.dbad
-www.inattvizle400.top##.under-vid-banner
+www.inattvizle409.top##.dbad
+www.inattvizle409.top##.under-vid-banner
 !#endif
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_app_cli)
 [$domain=/inattvizle\d+\.top/]#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
@@ -5422,9 +5422,9 @@ www.inattvizle400.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports950.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports950.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports950.pro##.header-banner
+www.papazsports957.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports957.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports957.pro##.header-banner
 !#endif
 !
 ! START: Yandex
