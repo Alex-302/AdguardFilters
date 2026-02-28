@@ -154,8 +154,10 @@ sites:
     last_known_mirror: taraftarium24.xyz
     last_seen: 2026-02-28
   www.papazsports924.pro wwwwww:
+    initial_domain: www.papazsports930.pro
     last_known_mirror: www.papazsports960.pro
     accept_antibot: true
+    force_search_ahead: true
     last_seen: 2026-02-28
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd2dd7e8bcae.xyz
