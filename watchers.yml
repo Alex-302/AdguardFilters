@@ -72,7 +72,7 @@ sites:
     last_known_mirror: vegatv73.shop
     last_seen: 2026-03-01
   Frequently changed domains — betmatiktv*.com:
-    last_known_mirror: betmatiktv127.com
+    last_known_mirror: betmatiktv128.com
     last_seen: 2026-03-01
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor15.com
@@ -102,7 +102,7 @@ sites:
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
-    last_known_mirror: otobettv25.com
+    last_known_mirror: otobettv26.com
     last_seen: 2026-03-01
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv387.com
@@ -155,7 +155,7 @@ sites:
     last_seen: 2026-03-01
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports960.pro
+    last_known_mirror: www.papazsports950.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-01
