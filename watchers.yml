@@ -155,7 +155,7 @@ sites:
     last_seen: 2026-03-02
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports960.pro
+    last_known_mirror: www.papazsports951.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-02
@@ -183,9 +183,12 @@ sites:
       - banner-container
     last_seen: 2026-02-24
     failed_since: 2026-02-25 02:04
-    failed_days: 5
+    failed_days: 6
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee328.com
     accept_antibot: true
     last_seen: 2026-03-02
+    failed_since: 2026-03-02 05:15
+    failed_days: 0
+    potentially_dead: true
