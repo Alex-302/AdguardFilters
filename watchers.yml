@@ -175,7 +175,7 @@ sites:
       - https://hepbetspor17.cfd/
     pattern_changed: true
     failed_since: 2026-02-26 02:00
-    failed_days: 6
+    failed_days: 7
     potentially_dead: true
   hepbetspor:
     last_known_mirror: hepbetspor20.cfd
@@ -183,12 +183,12 @@ sites:
       - banner-container
     last_seen: 2026-02-24
     failed_since: 2026-02-25 02:04
-    failed_days: 7
+    failed_days: 8
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee328.com
     accept_antibot: true
     last_seen: 2026-03-03
     failed_since: 2026-03-04 01:58
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
