@@ -192,3 +192,5 @@ sites:
     failed_since: 2026-03-04 01:58
     failed_days: 3
     potentially_dead: true
+  gptgirlfriend.com:
+    last_known_mirror: gptgirlfriend.com
