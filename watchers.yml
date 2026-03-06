@@ -58,7 +58,7 @@ sites:
     last_known_mirror: trgooltv54.top
     last_seen: 2026-03-06
   Frequently changed domains — netsportv*.top:
-    last_known_mirror: netsportv248.top
+    last_known_mirror: netsportv249.top
     last_seen: 2026-03-06
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv226.com
@@ -90,7 +90,7 @@ sites:
     last_known_mirror: bosssports432.com
     last_seen: 2026-03-06
   Frequently changed domains — inattvizle*.top:
-    last_known_mirror: www.inattvizle410.top
+    last_known_mirror: www.inattvizle420.top
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-03-06
@@ -164,7 +164,7 @@ sites:
     accept_antibot: true
     last_seen: 2026-03-06
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium130.top
+    last_known_mirror: www.taraftarium139.top
     accept_antibot: true
     last_seen: 2026-03-06
   patronspor04548a2wer45awes.cfd:
@@ -193,4 +193,5 @@ sites:
     failed_days: 3
     potentially_dead: true
   gptgirlfriend.com:
-    last_known_mirror: gptgirlfriend.com
+    last_known_mirror: www.gptgirlfriend.online
+    last_seen: 2026-03-06

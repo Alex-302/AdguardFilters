@@ -4401,9 +4401,9 @@ trgooltv54.top##div[class^="reklam-"]
 [$domain=/netsportv\d+\.top/]##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
 [$domain=/netsportv\d+\.top/]##div[class^="reklam-"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-netsportv248.top##div[style="margin: 10px; text-align: center;"]
-netsportv248.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
-netsportv248.top##div[class^="reklam-"]
+netsportv249.top##div[style="margin: 10px; text-align: center;"]
+netsportv249.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
+netsportv249.top##div[class^="reklam-"]
 !#endif
 !
 ! Frequently changed domains: zeustv*.com
@@ -5400,8 +5400,8 @@ trgoals78.top,trgoals79.top,trgoals80.top,trgoals81.top,trgoals82.top,trgoals83.
 [$domain=/inattvizle\d+\.top/]##.dbad
 [$domain=/inattvizle\d+\.top/]##.under-vid-banner
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-www.inattvizle410.top##.dbad
-www.inattvizle410.top##.under-vid-banner
+www.inattvizle420.top##.dbad
+www.inattvizle420.top##.under-vid-banner
 !#endif
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_app_cli)
 [$domain=/inattvizle\d+\.top/]#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
@@ -5422,9 +5422,9 @@ www.inattvizle410.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports960.pro,www.papazsports951.pro,www.papazsports953.pro,www.papazsports954.pro,www.papazsports955.pro,www.papazsports956.pro,www.papazsports957.pro,www.papazsports952.pro,www.papazsports958.pro,www.papazsports959.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports960.pro,www.papazsports951.pro,www.papazsports953.pro,www.papazsports954.pro,www.papazsports955.pro,www.papazsports956.pro,www.papazsports957.pro,www.papazsports952.pro,www.papazsports958.pro,www.papazsports959.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports960.pro,www.papazsports951.pro,www.papazsports953.pro,www.papazsports954.pro,www.papazsports955.pro,www.papazsports956.pro,www.papazsports957.pro,www.papazsports952.pro,www.papazsports958.pro,www.papazsports959.pro##.header-banner
+www.papazsports960.pro,www.papazsports951.pro,www.papazsports953.pro,www.papazsports954.pro,www.papazsports955.pro,www.papazsports956.pro,www.papazsports957.pro,www.papazsports952.pro,www.papazsports958.pro,www.papazsports959.pro,www.papazsports962.pro,www.papazsports963.pro,www.papazsports965.pro,www.papazsports961.pro,www.papazsports964.pro,www.papazsports966.pro,www.papazsports967.pro,www.papazsports968.pro,www.papazsports969.pro,www.papazsports970.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports960.pro,www.papazsports951.pro,www.papazsports953.pro,www.papazsports954.pro,www.papazsports955.pro,www.papazsports956.pro,www.papazsports957.pro,www.papazsports952.pro,www.papazsports958.pro,www.papazsports959.pro,www.papazsports962.pro,www.papazsports963.pro,www.papazsports965.pro,www.papazsports961.pro,www.papazsports964.pro,www.papazsports966.pro,www.papazsports967.pro,www.papazsports968.pro,www.papazsports969.pro,www.papazsports970.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports960.pro,www.papazsports951.pro,www.papazsports953.pro,www.papazsports954.pro,www.papazsports955.pro,www.papazsports956.pro,www.papazsports957.pro,www.papazsports952.pro,www.papazsports958.pro,www.papazsports959.pro,www.papazsports962.pro,www.papazsports963.pro,www.papazsports965.pro,www.papazsports961.pro,www.papazsports964.pro,www.papazsports966.pro,www.papazsports967.pro,www.papazsports968.pro,www.papazsports969.pro,www.papazsports970.pro##.header-banner
 !#endif
 !
 ! START: Yandex
