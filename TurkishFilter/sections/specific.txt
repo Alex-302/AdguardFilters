@@ -4401,9 +4401,9 @@ trgooltv54.top##div[class^="reklam-"]
 [$domain=/netsportv\d+\.top/]##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
 [$domain=/netsportv\d+\.top/]##div[class^="reklam-"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-netsportv249.top##div[style="margin: 10px; text-align: center;"]
-netsportv249.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
-netsportv249.top##div[class^="reklam-"]
+netsportv250.top##div[style="margin: 10px; text-align: center;"]
+netsportv250.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
+netsportv250.top##div[class^="reklam-"]
 !#endif
 !
 ! Frequently changed domains: zeustv*.com
@@ -4503,7 +4503,7 @@ kralsportshd7.com,kralsportshd8.com,kralsportshd9.com,kralsportshd10.com,kralspo
 ||otobettv*.com/banner.gif
 [$domain=/otobettv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-otobettv27.com##a[href^="https://cutt.ly/"]
+otobettv28.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: rotabettv*.com
