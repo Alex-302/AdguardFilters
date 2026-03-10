@@ -4350,7 +4350,7 @@ turkifsaclub72.sbs#?#main > h3:contains(Sponsor Bannerlar)
 ||yavasgir*.com/*.gif
 [$domain=/yavasgir\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-yavasgir66.com##a[href^="https://cutt.ly/"]
+yavasgir67.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: askimyavas*.com
@@ -4365,9 +4365,9 @@ primeembedpanel.com#%#//scriptlet('prevent-window-open')
 [$domain=/askimyavas\d+\.com/]#%#//scriptlet('remove-node-text', 'script', 'window.open')
 [$domain=/askimyavas\d+\.com/]$$script:contains(window.open)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-askimyavas103.com##a[href^="https://cutt.ly/"]
-askimyavas103.com###ads-inside-main
-askimyavas103.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
+askimyavas104.com##a[href^="https://cutt.ly/"]
+askimyavas104.com###ads-inside-main
+askimyavas104.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
 !#endif
 !
 ! Frequently changed domains: gobtv*.com
