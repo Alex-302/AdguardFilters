@@ -28,6 +28,9 @@ sites:
     heuristic_history:
       - www.sporcafe-11057275bd.xyz
     pattern_changed: true
+    failed_since: 2026-03-11 16:52
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe457.sbs
     last_seen: 2026-03-11
@@ -43,13 +46,13 @@ sites:
     last_known_mirror: zeusdizi22.com
     last_seen: 2026-03-11
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub72.sbs
+    last_known_mirror: turkifsaclub73.sbs
     last_seen: 2026-03-11
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub72.sbs
+    last_known_mirror: turkifsaclub73.sbs
     last_seen: 2026-03-11
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas104.com
+    last_known_mirror: askimyavas105.com
     last_seen: 2026-03-11
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv13.com
@@ -155,7 +158,7 @@ sites:
     last_seen: 2026-03-11
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports969.pro
+    last_known_mirror: www.papazsports970.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-11
