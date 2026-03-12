@@ -4342,15 +4342,15 @@ turkifsaclub.org#?#main > h3:contains(Sponsor Bannerlar)
 [$domain=/turkifsaclub\d+\.sbs/]##.ads-grid
 [$domain=/turkifsaclub\d+\.sbs/]#?#main > h3:contains(Sponsor Bannerlar)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsaclub73.sbs##.ads-grid
-turkifsaclub73.sbs#?#main > h3:contains(Sponsor Bannerlar)
+turkifsaclub74.sbs##.ads-grid
+turkifsaclub74.sbs#?#main > h3:contains(Sponsor Bannerlar)
 !#endif
 !
 ! Frequently changed domains: yavasgir*.com
 ||yavasgir*.com/*.gif
 [$domain=/yavasgir\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-yavasgir68.com##a[href^="https://cutt.ly/"]
+yavasgir69.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: askimyavas*.com
@@ -4365,9 +4365,9 @@ primeembedpanel.com#%#//scriptlet('prevent-window-open')
 [$domain=/askimyavas\d+\.com/]#%#//scriptlet('remove-node-text', 'script', 'window.open')
 [$domain=/askimyavas\d+\.com/]$$script:contains(window.open)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-askimyavas105.com##a[href^="https://cutt.ly/"]
-askimyavas105.com###ads-inside-main
-askimyavas105.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
+askimyavas106.com##a[href^="https://cutt.ly/"]
+askimyavas106.com###ads-inside-main
+askimyavas106.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
 !#endif
 !
 ! Frequently changed domains: gobtv*.com
@@ -4401,9 +4401,9 @@ trgooltv54.top##div[class^="reklam-"]
 [$domain=/netsportv\d+\.top/]##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
 [$domain=/netsportv\d+\.top/]##div[class^="reklam-"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-netsportv250.top##div[style="margin: 10px; text-align: center;"]
-netsportv250.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
-netsportv250.top##div[class^="reklam-"]
+netsportv251.top##div[style="margin: 10px; text-align: center;"]
+netsportv251.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
+netsportv251.top##div[class^="reklam-"]
 !#endif
 !
 ! Frequently changed domains: zeustv*.com
