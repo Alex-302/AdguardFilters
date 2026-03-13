@@ -4401,9 +4401,9 @@ trgooltv54.top##div[class^="reklam-"]
 [$domain=/netsportv\d+\.top/]##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
 [$domain=/netsportv\d+\.top/]##div[class^="reklam-"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-netsportv251.top##div[style="margin: 10px; text-align: center;"]
-netsportv251.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
-netsportv251.top##div[class^="reklam-"]
+netsportv252.top##div[style="margin: 10px; text-align: center;"]
+netsportv252.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
+netsportv252.top##div[class^="reklam-"]
 !#endif
 !
 ! Frequently changed domains: zeustv*.com
@@ -5422,9 +5422,9 @@ www.inattvizle420.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports962.pro,www.papazsports965.pro,www.papazsports961.pro,www.papazsports964.pro,www.papazsports966.pro,www.papazsports967.pro,www.papazsports968.pro,www.papazsports969.pro,www.papazsports970.pro,www.papazsports963.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports962.pro,www.papazsports965.pro,www.papazsports961.pro,www.papazsports964.pro,www.papazsports966.pro,www.papazsports967.pro,www.papazsports968.pro,www.papazsports969.pro,www.papazsports970.pro,www.papazsports963.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports962.pro,www.papazsports965.pro,www.papazsports961.pro,www.papazsports964.pro,www.papazsports966.pro,www.papazsports967.pro,www.papazsports968.pro,www.papazsports969.pro,www.papazsports970.pro,www.papazsports963.pro##.header-banner
+www.papazsports962.pro,www.papazsports965.pro,www.papazsports964.pro,www.papazsports966.pro,www.papazsports967.pro,www.papazsports968.pro,www.papazsports969.pro,www.papazsports970.pro,www.papazsports963.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports962.pro,www.papazsports965.pro,www.papazsports964.pro,www.papazsports966.pro,www.papazsports967.pro,www.papazsports968.pro,www.papazsports969.pro,www.papazsports970.pro,www.papazsports963.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports962.pro,www.papazsports965.pro,www.papazsports964.pro,www.papazsports966.pro,www.papazsports967.pro,www.papazsports968.pro,www.papazsports969.pro,www.papazsports970.pro,www.papazsports963.pro##.header-banner
 !#endif
 !
 ! START: Yandex
