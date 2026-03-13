@@ -29,7 +29,7 @@ sites:
       - www.sporcafe-11057275bd.xyz
     pattern_changed: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe497.sbs
+    last_known_mirror: belestepe401.sbs
     last_seen: 2026-03-13
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
@@ -43,10 +43,10 @@ sites:
     last_known_mirror: zeusdizi22.com
     last_seen: 2026-03-13
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub75.sbs
+    last_known_mirror: turkifsaclub76.sbs
     last_seen: 2026-03-13
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub75.sbs
+    last_known_mirror: turkifsaclub76.sbs
     last_seen: 2026-03-13
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas107.com
@@ -69,7 +69,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-13
   Frequently changed domains — vegatv*.shop:
-    last_known_mirror: vegatv57.shop
+    last_known_mirror: vegatv17.shop
     last_seen: 2026-03-13
   Frequently changed domains — betmatiktv*.com:
     last_known_mirror: betmatiktv129.com
@@ -87,7 +87,7 @@ sites:
     last_known_mirror: acartv92.live
     last_seen: 2026-03-13
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports458.com
+    last_known_mirror: bosssports460.com
     last_seen: 2026-03-13
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle420.top
@@ -155,7 +155,7 @@ sites:
     last_seen: 2026-03-13
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports966.pro
+    last_known_mirror: www.papazsports970.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-13
