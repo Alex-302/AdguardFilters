@@ -4412,8 +4412,8 @@ netsportv251.top##div[class^="reklam-"]
 [$domain=/zeustv\d+\.com/]#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
 [$domain=/zeustv\d+\.com/]##div[data-footer-4ds]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-zeustv232.com#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
-zeustv232.com##div[data-footer-4ds]
+zeustv238.com#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
+zeustv238.com##div[data-footer-4ds]
 !#endif
 !
 ! Frequently changed domains: xsportv*.xyz
