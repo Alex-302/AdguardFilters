@@ -2,7 +2,7 @@ sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
-    failed_days: 21
+    failed_days: 22
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Fail - example.org:
@@ -10,7 +10,7 @@ sites:
     probe_text:
       - not existing text
     last_failed: 2026-01-25 13:22
-    failed_days: 21
+    failed_days: 22
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Success - example.de:
@@ -21,22 +21,19 @@ sites:
     pattern_changed: true
     non_pattern_mirror: example.de
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
-    last_known_mirror: www.sporcafe-4124bb560a.xyz
+    last_known_mirror: www.sporcafe-3674574bcf.xyz
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-03-15
-    heuristic_history:
-      - www.sporcafe-11057275bd.xyz
-    pattern_changed: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe431.sbs
+    last_known_mirror: belestepe441.sbs
     last_seen: 2026-03-15
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    failed_days: 21
+    failed_days: 22
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — zeusdizi*.com:
@@ -80,14 +77,14 @@ sites:
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
     last_failed: 2026-02-17 20:13
-    failed_days: 21
+    failed_days: 22
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
     last_known_mirror: acartv92.live
     last_seen: 2026-03-15
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports466.com
+    last_known_mirror: bosssports468.com
     last_seen: 2026-03-15
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle420.top
@@ -98,11 +95,11 @@ sites:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
-    failed_days: 21
+    failed_days: 22
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
-    last_known_mirror: otobettv31.com
+    last_known_mirror: otobettv32.com
     last_seen: 2026-03-15
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv390.com
@@ -114,7 +111,7 @@ sites:
     accept_antibot: true
     geoblock: TR
     last_failed: 2026-02-20 20:45
-    failed_days: 21
+    failed_days: 22
     force_search_ahead: true
     potentially_dead: true
     failed_since: 2026-02-22 17:31
@@ -155,12 +152,12 @@ sites:
     last_seen: 2026-03-15
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports969.pro
+    last_known_mirror: www.papazsports965.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-15
   www.selcuksportshd8443661f57.xyz:
-    last_known_mirror: www.selcuksportshd091a09b1b3.xyz
+    last_known_mirror: www.selcuksportshd4f56b307ff.xyz
     accept_antibot: true
     last_seen: 2026-03-15
   www.taraftarium91.top:
