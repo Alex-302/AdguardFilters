@@ -75,11 +75,8 @@ sites:
     last_known_mirror: betmatiktv130.com
     last_seen: 2026-03-15
   Frequently changed domains — seyirspor*.com:
-    last_known_mirror: seyirspor16.com
-    last_seen: 2026-03-14
-    failed_since: 2026-03-15 02:23
-    failed_days: 0
-    potentially_dead: true
+    last_known_mirror: seyirspor17.com
+    last_seen: 2026-03-15
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
     last_failed: 2026-02-17 20:13
@@ -158,7 +155,7 @@ sites:
     last_seen: 2026-03-15
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports970.pro
+    last_known_mirror: www.papazsports969.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-15
