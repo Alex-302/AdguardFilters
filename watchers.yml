@@ -21,13 +21,10 @@ sites:
     pattern_changed: true
     non_pattern_mirror: example.de
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
-    last_known_mirror: www.sporcafe-fb12b7cd2c.xyz
+    last_known_mirror: www.sporcafe-c939536bbe.xyz
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-03-18
-    heuristic_history:
-      - www.sporcafe-3674574bcf.xyz
-    pattern_changed: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe299.sbs
     last_seen: 2026-03-18
@@ -161,7 +158,7 @@ sites:
     last_seen: 2026-03-18
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports980.pro
+    last_known_mirror: www.papazsports979.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-18
