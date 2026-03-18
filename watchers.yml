@@ -21,7 +21,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: example.de
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
-    last_known_mirror: www.sporcafe-9b27a37ddf.xyz
+    last_known_mirror: www.sporcafe-fb12b7cd2c.xyz
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-03-18
@@ -29,7 +29,7 @@ sites:
       - www.sporcafe-3674574bcf.xyz
     pattern_changed: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe461.sbs
+    last_known_mirror: belestepe471.sbs
     last_seen: 2026-03-18
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
@@ -69,7 +69,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv17.shop
@@ -90,10 +90,10 @@ sites:
     last_known_mirror: acartv93.live
     last_seen: 2026-03-18
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports474.com
+    last_known_mirror: bosssports476.com
     last_seen: 2026-03-18
   Frequently changed domains — inattvizle*.top:
-    last_known_mirror: www.inattvizle420.top
+    last_known_mirror: www.inattvizle430.top
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-03-18
@@ -111,7 +111,7 @@ sites:
     last_known_mirror: rotabettv390.com
     last_seen: 2026-03-18
     failed_since: 2026-03-18 13:10
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
@@ -135,7 +135,7 @@ sites:
     last_known_mirror: sahatv5.top
     last_seen: 2026-03-18
   Frequently changed domains — YavasGir:
-    last_known_mirror: yavasgir71.com
+    last_known_mirror: yavasgir72.com
     last_seen: 2026-03-18
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv20.com
@@ -151,7 +151,7 @@ sites:
     last_known_mirror: piabettv20.live
     last_seen: 2026-03-18
   restmacizle23.cfd:
-    last_known_mirror: restmacizle57.cfd
+    last_known_mirror: restmacizle58.cfd
     last_seen: 2026-03-18
   sultansportv562.com:
     last_known_mirror: sultansportv1790.com
@@ -161,16 +161,16 @@ sites:
     last_seen: 2026-03-18
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports970.pro
+    last_known_mirror: www.papazsports980.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-18
   www.selcuksportshd8443661f57.xyz:
-    last_known_mirror: www.selcuksportshd6010879a6f.xyz
+    last_known_mirror: www.selcuksportshd5086b1ae04.xyz
     accept_antibot: true
     last_seen: 2026-03-18
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium140.top
+    last_known_mirror: www.taraftarium150.top
     accept_antibot: true
     last_seen: 2026-03-18
   patronspor04548a2wer45awes.cfd:
