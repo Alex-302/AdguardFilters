@@ -26,7 +26,7 @@ sites:
     geoblock: TR
     last_seen: 2026-03-19
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe299.sbs
+    last_known_mirror: belestepe491.sbs
     last_seen: 2026-03-19
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
@@ -161,7 +161,7 @@ sites:
     last_seen: 2026-03-19
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports979.pro
+    last_known_mirror: www.papazsports980.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-19
