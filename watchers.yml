@@ -49,7 +49,7 @@ sites:
     last_known_mirror: askimyavas108.com
     last_seen: 2026-03-19
   Frequently changed domains — gobtv*.com:
-    last_known_mirror: gobtv16.com
+    last_known_mirror: gobtv17.com
     last_seen: 2026-03-19
   Frequently changed domains — trgooltv*.top:
     last_known_mirror: trgooltv54.top
@@ -102,7 +102,7 @@ sites:
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
-    last_known_mirror: otobettv33.com
+    last_known_mirror: otobettv34.com
     last_seen: 2026-03-19
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv390.com
@@ -151,7 +151,7 @@ sites:
     last_known_mirror: restmacizle60.cfd
     last_seen: 2026-03-18
     failed_since: 2026-03-19 02:08
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv1770.com
@@ -161,7 +161,7 @@ sites:
     last_seen: 2026-03-19
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports978.pro
+    last_known_mirror: www.papazsports980.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-19
