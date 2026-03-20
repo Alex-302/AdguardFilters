@@ -135,7 +135,7 @@ sites:
     last_known_mirror: yavasgir72.com
     last_seen: 2026-03-20
   Frequently changed domains — kodtimetv*.com:
-    last_known_mirror: kodtimetv23-com.l.ink
+    last_known_mirror: kodtimetv22-com.l.ink
     last_seen: 2026-03-20
     heuristic_history:
       - kodtimetv21.com
@@ -164,7 +164,7 @@ sites:
     last_seen: 2026-03-20
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports978.pro
+    last_known_mirror: www.papazsports974.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-20
