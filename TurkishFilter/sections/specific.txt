@@ -4485,10 +4485,10 @@ acartv95.live##a[href="https://acr.li/tvgiris"]
 [$domain=/bosssports\d+\.com/]##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
 ||bosssports*.com/v*.mp4$media,redirect=noopmp4-1s
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-bosssports482.com#%#//scriptlet('trusted-replace-node-text', 'script', 'videoSources', '/window\.app\.initAdv\(\);/', 'window.app.initMatch();')
-bosssports482.com#%#//scriptlet('set-constant', 'config.adv.enabled', 'false')
-bosssports482.com##.iframe-buttons
-bosssports482.com##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
+bosssports484.com#%#//scriptlet('trusted-replace-node-text', 'script', 'videoSources', '/window\.app\.initAdv\(\);/', 'window.app.initMatch();')
+bosssports484.com#%#//scriptlet('set-constant', 'config.adv.enabled', 'false')
+bosssports484.com##.iframe-buttons
+bosssports484.com##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
 !#endif
 !
 ! Frequently changed domains: kralsportshd*.com
@@ -4780,9 +4780,9 @@ hdselcuksports368.top#%#//scriptlet('prevent-window-open')
 [$domain=/belestepe\d+\.sbs/]##div[data-isbd-main-container] > section > div.hidden-xs.text-center
 [$domain=/belestepe\d+\.sbs/]#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-belestepe491.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
-belestepe491.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
-||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe491.sbs
+belestepe209.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
+belestepe209.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
+||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe209.sbs
 !#endif
 !
 ! Frequently changed domains: izlemac*.sbs

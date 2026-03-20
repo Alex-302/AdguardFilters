@@ -26,7 +26,7 @@ sites:
     geoblock: TR
     last_seen: 2026-03-20
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe491.sbs
+    last_known_mirror: belestepe209.sbs
     last_seen: 2026-03-20
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
@@ -87,7 +87,7 @@ sites:
     last_known_mirror: acartv95.live
     last_seen: 2026-03-20
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports482.com
+    last_known_mirror: bosssports484.com
     last_seen: 2026-03-20
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle430.top
@@ -135,11 +135,11 @@ sites:
     last_known_mirror: yavasgir72.com
     last_seen: 2026-03-20
   Frequently changed domains — kodtimetv*.com:
-    last_known_mirror: kodtimetv21.com
-    last_seen: 2026-03-19
-    failed_since: 2026-03-20 02:02
-    failed_days: 0
-    potentially_dead: true
+    last_known_mirror: kodtimetv22-com.l.ink
+    last_seen: 2026-03-20
+    heuristic_history:
+      - kodtimetv21.com
+    pattern_changed: true
   amp-6392fa66a0.selcuksportshdamp-aa805a079c.click:
     last_known_mirror: amp-6392fa66a0.selcuksportshdamp-aa805a079c.click
     accept_antibot: true
@@ -154,17 +154,17 @@ sites:
     last_known_mirror: restmacizle60.cfd
     last_seen: 2026-03-18
     failed_since: 2026-03-19 02:08
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
   sultansportv562.com:
-    last_known_mirror: sultansportv1770.com
+    last_known_mirror: sultansportv1750.com
     last_seen: 2026-03-20
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     last_seen: 2026-03-20
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports974.pro
+    last_known_mirror: www.papazsports980.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-20
@@ -192,7 +192,7 @@ sites:
       - banner-container
     last_seen: 2026-02-24
     failed_since: 2026-02-25 02:04
-    failed_days: 23
+    failed_days: 24
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee328.com
