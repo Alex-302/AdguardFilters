@@ -4374,7 +4374,7 @@ askimyavas108.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
 ||gobtv*.com/*.gif
 [$domain=/gobtv\d+\.com/]##a[href^="https://t2m.io/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-gobtv17.com##a[href^="https://t2m.io/"]
+gobtv18.com##a[href^="https://t2m.io/"]
 !#endif
 !
 ! Frequently changed domains: sahatv*.top
@@ -4435,7 +4435,7 @@ vegatv47.shop##a[href^="https://vegabetortaklik.com/links/"]
 ||betmatiktv*.com/*.gif
 [$domain=/betmatiktv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betmatiktv132.com##a[href^="https://cutt.ly/"]
+betmatiktv133.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: seyirspor*.com
@@ -4472,7 +4472,7 @@ lorabettvhd80.shop#$#body.modal-open { overflow: auto !important; }
 ||acartv*.live/*.gif
 [$domain=/acartv\d+\.live/]##a[href="https://acr.li/tvgiris"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-acartv94.live##a[href="https://acr.li/tvgiris"]
+acartv95.live##a[href="https://acr.li/tvgiris"]
 !#endif
 !
 ! Frequently changed domains: bosssports*.com
@@ -4503,7 +4503,7 @@ kralsportshd7.com,kralsportshd8.com,kralsportshd9.com,kralsportshd10.com,kralspo
 ||otobettv*.com/banner.gif
 [$domain=/otobettv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-otobettv34.com##a[href^="https://cutt.ly/"]
+otobettv35.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: rotabettv*.com
@@ -5422,9 +5422,9 @@ www.inattvizle430.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports980.pro,www.papazsports973.pro,www.papazsports974.pro,www.papazsports975.pro,www.papazsports976.pro,www.papazsports978.pro,www.papazsports977.pro,www.papazsports979.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports980.pro,www.papazsports973.pro,www.papazsports974.pro,www.papazsports975.pro,www.papazsports976.pro,www.papazsports978.pro,www.papazsports977.pro,www.papazsports979.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports980.pro,www.papazsports973.pro,www.papazsports974.pro,www.papazsports975.pro,www.papazsports976.pro,www.papazsports978.pro,www.papazsports977.pro,www.papazsports979.pro##.header-banner
+www.papazsports980.pro,www.papazsports974.pro,www.papazsports975.pro,www.papazsports976.pro,www.papazsports978.pro,www.papazsports977.pro,www.papazsports979.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports980.pro,www.papazsports974.pro,www.papazsports975.pro,www.papazsports976.pro,www.papazsports978.pro,www.papazsports977.pro,www.papazsports979.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports980.pro,www.papazsports974.pro,www.papazsports975.pro,www.papazsports976.pro,www.papazsports978.pro,www.papazsports977.pro,www.papazsports979.pro##.header-banner
 !#endif
 !
 ! START: Yandex
