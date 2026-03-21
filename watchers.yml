@@ -151,7 +151,7 @@ sites:
     last_known_mirror: restmacizle60.cfd
     last_seen: 2026-03-18
     failed_since: 2026-03-19 02:08
-    failed_days: 2
+    failed_days: 3
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv1750.com
@@ -181,7 +181,7 @@ sites:
       - https://hepbetspor17.cfd/
     pattern_changed: true
     failed_since: 2026-02-26 02:00
-    failed_days: 23
+    failed_days: 24
     potentially_dead: true
   hepbetspor:
     last_known_mirror: hepbetspor20.cfd
@@ -189,7 +189,7 @@ sites:
       - banner-container
     last_seen: 2026-02-24
     failed_since: 2026-02-25 02:04
-    failed_days: 24
+    failed_days: 25
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee328.com
