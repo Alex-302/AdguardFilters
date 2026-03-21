@@ -66,7 +66,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 4
+    failed_days: 5
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv47.shop
@@ -108,7 +108,7 @@ sites:
     last_known_mirror: rotabettv390.com
     last_seen: 2026-03-18
     failed_since: 2026-03-18 13:10
-    failed_days: 3
+    failed_days: 4
     potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
