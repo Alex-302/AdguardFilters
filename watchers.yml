@@ -55,7 +55,7 @@ sites:
     last_known_mirror: trgooltv54.top
     last_seen: 2026-03-26
   Frequently changed domains — netsportv*.top:
-    last_known_mirror: netsportv254.top
+    last_known_mirror: netsportv255.top
     last_seen: 2026-03-26
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -66,7 +66,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 9
+    failed_days: 10
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv47.shop
@@ -158,7 +158,7 @@ sites:
     last_seen: 2026-03-26
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports978.pro
+    last_known_mirror: www.papazsports979.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-03-26
@@ -196,5 +196,5 @@ sites:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-03-26
   ww0.jmanga.cash:
-    last_known_mirror: jmanga.codes
+    last_known_mirror: jmanga.team
     last_seen: 2026-03-26
