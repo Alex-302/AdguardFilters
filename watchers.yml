@@ -158,7 +158,7 @@ sites:
     last_seen: 2026-04-01
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports979.pro
+    last_known_mirror: www.papazsports977.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-01
@@ -192,9 +192,6 @@ sites:
     last_known_mirror: torrentsee331.com
     accept_antibot: true
     last_seen: 2026-04-01
-    failed_since: 2026-04-01 21:35
-    failed_days: 0
-    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-01
