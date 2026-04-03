@@ -90,7 +90,7 @@ sites:
     last_known_mirror: bosssports484.com
     last_seen: 2026-04-03
   Frequently changed domains — inattvizle*.top:
-    last_known_mirror: www.inattvizle430.top
+    last_known_mirror: www.inattvizle440.top
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-04-03
@@ -132,7 +132,7 @@ sites:
     failed_days: 1
     potentially_dead: true
   Frequently changed domains — YavasGir:
-    last_known_mirror: yavasgir81.com
+    last_known_mirror: yavasgir82.com
     last_seen: 2026-04-03
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv22.com
@@ -161,7 +161,7 @@ sites:
     last_seen: 2026-04-03
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports980.pro
+    last_known_mirror: www.papazsports985.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-03
@@ -170,7 +170,7 @@ sites:
     accept_antibot: true
     last_seen: 2026-04-03
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium150.top
+    last_known_mirror: www.taraftarium160.top
     accept_antibot: true
     last_seen: 2026-04-03
   patronspor04548a2wer45awes.cfd:
@@ -195,6 +195,9 @@ sites:
     last_known_mirror: torrentsee333.com
     accept_antibot: true
     last_seen: 2026-04-03
+    failed_since: 2026-04-03 13:02
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-03
