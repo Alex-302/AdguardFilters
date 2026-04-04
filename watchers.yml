@@ -154,14 +154,14 @@ sites:
     failed_days: 17
     potentially_dead: true
   sultansportv562.com:
-    last_known_mirror: sultansportv1750.com
+    last_known_mirror: sultansportv090.com
     last_seen: 2026-04-04
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     last_seen: 2026-04-04
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports998.pro
+    last_known_mirror: www.papazsports1000.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-04
