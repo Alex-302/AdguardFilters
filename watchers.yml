@@ -151,7 +151,7 @@ sites:
     last_known_mirror: restmacizle60.cfd
     last_seen: 2026-03-18
     failed_since: 2026-03-19 02:08
-    failed_days: 16
+    failed_days: 17
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv1750.com
@@ -161,7 +161,7 @@ sites:
     last_seen: 2026-04-04
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports999.pro
+    last_known_mirror: www.papazsports998.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-04
