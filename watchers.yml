@@ -2,7 +2,7 @@ sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
-    failed_days: 44
+    failed_days: 45
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Fail - example.org:
@@ -10,7 +10,7 @@ sites:
     probe_text:
       - not existing text
     last_failed: 2026-01-25 13:22
-    failed_days: 44
+    failed_days: 45
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Success - example.de:
@@ -21,7 +21,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: example.de
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
-    last_known_mirror: www.sporcafe-ca7dee8639.xyz
+    last_known_mirror: www.sporcafe-9a059668e5.xyz
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-04-07
@@ -36,7 +36,7 @@ sites:
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    failed_days: 44
+    failed_days: 45
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — zeusdizi*.com:
@@ -58,7 +58,7 @@ sites:
     last_known_mirror: trgooltv54.top
     last_seen: 2026-04-07
   Frequently changed domains — netsportv*.top:
-    last_known_mirror: netsportv257.top
+    last_known_mirror: netsportv258.top
     last_seen: 2026-04-07
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -86,7 +86,7 @@ sites:
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
     last_failed: 2026-02-17 20:13
-    failed_days: 44
+    failed_days: 45
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
@@ -104,7 +104,7 @@ sites:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
-    failed_days: 44
+    failed_days: 45
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
@@ -120,7 +120,7 @@ sites:
     accept_antibot: true
     geoblock: TR
     last_failed: 2026-02-20 20:45
-    failed_days: 44
+    failed_days: 45
     force_search_ahead: true
     potentially_dead: true
     failed_since: 2026-02-22 17:31
@@ -135,7 +135,7 @@ sites:
     last_known_mirror: sahatv5.top
     last_seen: 2026-04-02
     failed_since: 2026-04-02 20:34
-    failed_days: 5
+    failed_days: 6
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir84.com
@@ -167,7 +167,7 @@ sites:
     last_seen: 2026-04-07
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1000.pro
+    last_known_mirror: www.papazsports976.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-07
