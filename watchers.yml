@@ -207,3 +207,5 @@ sites:
   ww0.jmanga.cash:
     last_known_mirror: jmanga.rest
     last_seen: 2026-04-08
+  zonatmo.to:
+    last_known_mirror: zonatmo.to
