@@ -43,10 +43,10 @@ sites:
     last_known_mirror: zeusdizi22.com
     last_seen: 2026-04-08
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub94.sbs
+    last_known_mirror: turkifsaclub95.sbs
     last_seen: 2026-04-08
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub94.sbs
+    last_known_mirror: turkifsaclub95.sbs
     last_seen: 2026-04-08
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas119.com
@@ -113,6 +113,9 @@ sites:
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv392.com
     last_seen: 2026-04-08
+    failed_since: 2026-04-08 09:00
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
     probe_text:
@@ -209,3 +212,4 @@ sites:
     last_seen: 2026-04-08
   zonatmo.to:
     last_known_mirror: zonatmo.to
+    last_seen: 2026-04-08
