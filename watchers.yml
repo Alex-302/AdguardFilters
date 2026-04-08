@@ -65,7 +65,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-04-04
     failed_since: 2026-04-04 16:35
-    failed_days: 4
+    failed_days: 5
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -75,7 +75,7 @@ sites:
     failed_days: 23
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
-    last_known_mirror: vegatv47.shop
+    last_known_mirror: vegatv27.shop
     last_seen: 2026-04-08
   Frequently changed domains — betmatiktv*.com:
     last_known_mirror: betmatiktv134.com
@@ -144,7 +144,7 @@ sites:
     last_known_mirror: yavasgir84.com
     last_seen: 2026-04-08
   Frequently changed domains — kodtimetv*.com:
-    last_known_mirror: kodtimetv22.com
+    last_known_mirror: kodtimetv23.com
     last_seen: 2026-04-08
   amp-6392fa66a0.selcuksportshdamp-aa805a079c.click:
     last_known_mirror: amp-6392fa66a0.selcuksportshdamp-aa805a079c.click
@@ -170,7 +170,7 @@ sites:
     last_seen: 2026-04-08
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports998.pro
+    last_known_mirror: www.papazsports977.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-08
@@ -204,6 +204,9 @@ sites:
     last_known_mirror: torrentsee333.com
     accept_antibot: true
     last_seen: 2026-04-08
+    failed_since: 2026-04-08 17:01
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-08
