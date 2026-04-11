@@ -112,10 +112,7 @@ sites:
     last_seen: 2026-04-11
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv392.com
-    last_seen: 2026-04-08
-    failed_since: 2026-04-08 09:00
-    failed_days: 3
-    potentially_dead: true
+    last_seen: 2026-04-11
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
     probe_text:
@@ -170,7 +167,7 @@ sites:
     last_seen: 2026-04-11
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1000.pro
+    last_known_mirror: www.papazsports997.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-11
@@ -203,10 +200,7 @@ sites:
   torrentsee:
     last_known_mirror: torrentsee333.com
     accept_antibot: true
-    last_seen: 2026-04-10
-    failed_since: 2026-04-11 02:08
-    failed_days: 0
-    potentially_dead: true
+    last_seen: 2026-04-11
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-11
