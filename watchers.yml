@@ -78,7 +78,7 @@ sites:
     last_known_mirror: vegatv37.shop
     last_seen: 2026-04-12
   Frequently changed domains — betmatiktv*.com:
-    last_known_mirror: betmatiktv135.com
+    last_known_mirror: betmatiktv136.com
     last_seen: 2026-04-12
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
@@ -201,6 +201,9 @@ sites:
     last_known_mirror: torrentsee333.com
     accept_antibot: true
     last_seen: 2026-04-12
+    failed_since: 2026-04-12 05:53
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-12
