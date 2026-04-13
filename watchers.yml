@@ -65,7 +65,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-04-04
     failed_since: 2026-04-04 16:35
-    failed_days: 9
+    failed_days: 10
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -167,7 +167,7 @@ sites:
     last_seen: 2026-04-13
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1000.pro
+    last_known_mirror: www.papazsports999.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-13
