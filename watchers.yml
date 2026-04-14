@@ -43,10 +43,10 @@ sites:
     last_known_mirror: zeusdizi22.com
     last_seen: 2026-04-14
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub98.sbs
+    last_known_mirror: turkifsaclub99.sbs
     last_seen: 2026-04-14
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub98.sbs
+    last_known_mirror: turkifsaclub99.sbs
     last_seen: 2026-04-14
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas123.com
@@ -170,7 +170,7 @@ sites:
     last_seen: 2026-04-14
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports999.pro
+    last_known_mirror: www.papazsports1000.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-14
@@ -204,6 +204,9 @@ sites:
     last_known_mirror: torrentsee333.com
     accept_antibot: true
     last_seen: 2026-04-14
+    failed_since: 2026-04-14 09:17
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-14
