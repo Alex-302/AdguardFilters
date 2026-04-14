@@ -65,7 +65,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-04-04
     failed_since: 2026-04-04 16:35
-    failed_days: 10
+    failed_days: 11
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -143,6 +143,9 @@ sites:
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir87.com
     last_seen: 2026-04-14
+    failed_since: 2026-04-14 17:06
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv24.com
     last_seen: 2026-04-14
@@ -170,7 +173,7 @@ sites:
     last_seen: 2026-04-14
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1000.pro
+    last_known_mirror: www.papazsports999.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-14
