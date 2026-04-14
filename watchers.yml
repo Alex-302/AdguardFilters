@@ -43,10 +43,10 @@ sites:
     last_known_mirror: zeusdizi22.com
     last_seen: 2026-04-14
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub99.sbs
+    last_known_mirror: turkifsaclub100.sbs
     last_seen: 2026-04-14
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub99.sbs
+    last_known_mirror: turkifsaclub100.sbs
     last_seen: 2026-04-14
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas123.com
@@ -72,7 +72,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 28
+    failed_days: 29
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv37.shop
@@ -204,9 +204,6 @@ sites:
     last_known_mirror: torrentsee333.com
     accept_antibot: true
     last_seen: 2026-04-14
-    failed_since: 2026-04-14 09:17
-    failed_days: 0
-    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-14
