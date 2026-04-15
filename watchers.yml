@@ -65,7 +65,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-04-04
     failed_since: 2026-04-04 16:35
-    failed_days: 11
+    failed_days: 12
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
