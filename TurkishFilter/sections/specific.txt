@@ -5422,9 +5422,9 @@ www.inattvizle450.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports998.pro,www.papazsports993.pro,www.papazsports994.pro,www.papazsports995.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports992.pro,www.papazsports1000.pro,www.papazsports999.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports998.pro,www.papazsports993.pro,www.papazsports994.pro,www.papazsports995.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports992.pro,www.papazsports1000.pro,www.papazsports999.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports998.pro,www.papazsports993.pro,www.papazsports994.pro,www.papazsports995.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports992.pro,www.papazsports1000.pro,www.papazsports999.pro##.header-banner
+www.papazsports998.pro,www.papazsports993.pro,www.papazsports994.pro,www.papazsports995.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports1000.pro,www.papazsports999.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports998.pro,www.papazsports993.pro,www.papazsports994.pro,www.papazsports995.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports1000.pro,www.papazsports999.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports998.pro,www.papazsports993.pro,www.papazsports994.pro,www.papazsports995.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports1000.pro,www.papazsports999.pro##.header-banner
 !#endif
 !
 ! START: Yandex
