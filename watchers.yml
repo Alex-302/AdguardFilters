@@ -29,7 +29,7 @@ sites:
       - www.sporcafe-c939536bbe.xyz
     pattern_changed: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe279.sbs
+    last_known_mirror: belestepe289.sbs
     last_seen: 2026-04-16
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
@@ -93,7 +93,7 @@ sites:
     last_known_mirror: acartv96.live
     last_seen: 2026-04-16
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports528.com
+    last_known_mirror: bosssports530.com
     last_seen: 2026-04-16
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle450.top
@@ -163,7 +163,7 @@ sites:
     failed_days: 29
     potentially_dead: true
   sultansportv562.com:
-    last_known_mirror: sultansportv0160.com
+    last_known_mirror: sultansportv0170.com
     last_seen: 2026-04-16
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
@@ -201,12 +201,9 @@ sites:
     failed_days: 51
     potentially_dead: true
   torrentsee:
-    last_known_mirror: torrentsee333.com
+    last_known_mirror: torrentsee335.com
     accept_antibot: true
-    last_seen: 2026-04-15
-    failed_since: 2026-04-15 20:47
-    failed_days: 1
-    potentially_dead: true
+    last_seen: 2026-04-16
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-16
