@@ -4342,15 +4342,15 @@ turkifsaclub.org#?#main > h3:contains(Sponsor Bannerlar)
 [$domain=/turkifsaclub\d+\.sbs/]##.ads-grid
 [$domain=/turkifsaclub\d+\.sbs/]#?#main > h3:contains(Sponsor Bannerlar)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsaclub102.sbs##.ads-grid
-turkifsaclub102.sbs#?#main > h3:contains(Sponsor Bannerlar)
+turkifsaclub103.sbs##.ads-grid
+turkifsaclub103.sbs#?#main > h3:contains(Sponsor Bannerlar)
 !#endif
 !
 ! Frequently changed domains: yavasgir*.com
 ||yavasgir*.com/*.gif
 [$domain=/yavasgir\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-yavasgir88.com##a[href^="https://cutt.ly/"]
+yavasgir89.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: askimyavas*.com
@@ -4365,9 +4365,9 @@ primeembedpanel.com#%#//scriptlet('prevent-window-open')
 [$domain=/askimyavas\d+\.com/]#%#//scriptlet('remove-node-text', 'script', 'window.open')
 [$domain=/askimyavas\d+\.com/]$$script:contains(window.open)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-askimyavas124.com##a[href^="https://cutt.ly/"]
-askimyavas124.com###ads-inside-main
-askimyavas124.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
+askimyavas125.com##a[href^="https://cutt.ly/"]
+askimyavas125.com###ads-inside-main
+askimyavas125.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
 !#endif
 !
 ! Frequently changed domains: gobtv*.com
@@ -4428,7 +4428,7 @@ xsportv45.xyz,xsportv46.xyz,xsportv47.xyz,xsportv48.xyz,xsportv49.xyz,xsportv50.
 ||vegatv*.shop/*.gif
 [$domain=/vegatv\d+\.shop/]##a[href^="https://vegabetortaklik.com/links/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-vegatv37.shop##a[href^="https://vegabetortaklik.com/links/"]
+vegatv67.shop##a[href^="https://vegabetortaklik.com/links/"]
 !#endif
 !
 ! Frequently changed domains: betmatiktv*.com
