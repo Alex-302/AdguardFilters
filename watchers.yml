@@ -163,14 +163,14 @@ sites:
     failed_days: 31
     potentially_dead: true
   sultansportv562.com:
-    last_known_mirror: sultansportv0180.com
+    last_known_mirror: sultansportv0190.com
     last_seen: 2026-04-18
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     last_seen: 2026-04-18
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1000.pro
+    last_known_mirror: www.papazsports999.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-18
@@ -204,9 +204,6 @@ sites:
     last_known_mirror: torrentsee335.com
     accept_antibot: true
     last_seen: 2026-04-18
-    failed_since: 2026-04-18 08:50
-    failed_days: 0
-    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-18
