@@ -114,11 +114,8 @@ sites:
     last_known_mirror: otobettv37.com
     last_seen: 2026-04-18
   Frequently changed domains — rotabettv*.com:
-    last_known_mirror: rotabettv392.com
-    last_seen: 2026-04-13
-    failed_since: 2026-04-13 20:55
-    failed_days: 5
-    potentially_dead: true
+    last_known_mirror: rotabettv394.com
+    last_seen: 2026-04-18
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
     probe_text:
@@ -173,7 +170,7 @@ sites:
     last_seen: 2026-04-18
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1000.pro
+    last_known_mirror: www.papazsports998.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-18
