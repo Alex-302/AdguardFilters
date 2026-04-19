@@ -4435,7 +4435,7 @@ vegatv67.shop##a[href^="https://vegabetortaklik.com/links/"]
 ||betmatiktv*.com/*.gif
 [$domain=/betmatiktv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betmatiktv137.com##a[href^="https://cutt.ly/"]
+betmatiktv138.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: seyirspor*.com
@@ -5422,9 +5422,9 @@ www.inattvizle460.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports998.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports1000.pro,www.papazsports999.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports998.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports1000.pro,www.papazsports999.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports998.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports1000.pro,www.papazsports999.pro##.header-banner
+www.papazsports998.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports1000.pro,www.papazsports999.pro,www.papazsports1010.pro,www.papazsports1001.pro,www.papazsports1002.pro,www.papazsports1003.pro,www.papazsports1004.pro,www.papazsports1005.pro,www.papazsports1006.pro,www.papazsports1007.pro,www.papazsports1008.pro,www.papazsports1009.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports998.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports1000.pro,www.papazsports999.pro,www.papazsports1010.pro,www.papazsports1001.pro,www.papazsports1002.pro,www.papazsports1003.pro,www.papazsports1004.pro,www.papazsports1005.pro,www.papazsports1006.pro,www.papazsports1007.pro,www.papazsports1008.pro,www.papazsports1009.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports998.pro,www.papazsports996.pro,www.papazsports997.pro,www.papazsports1000.pro,www.papazsports999.pro,www.papazsports1010.pro,www.papazsports1001.pro,www.papazsports1002.pro,www.papazsports1003.pro,www.papazsports1004.pro,www.papazsports1005.pro,www.papazsports1006.pro,www.papazsports1007.pro,www.papazsports1008.pro,www.papazsports1009.pro##.header-banner
 !#endif
 !
 ! START: Yandex
