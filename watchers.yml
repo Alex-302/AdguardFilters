@@ -21,7 +21,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: example.de
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
-    last_known_mirror: www.sporcafe-efc7cff06a.xyz
+    last_known_mirror: www.sporcafe-7cabdb5e13.xyz
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-04-19
@@ -175,7 +175,7 @@ sites:
     force_search_ahead: true
     last_seen: 2026-04-19
   www.selcuksportshd8443661f57.xyz:
-    last_known_mirror: www.selcuksportshd4595296a92.xyz
+    last_known_mirror: www.selcuksportshd81e88f019e.xyz
     accept_antibot: true
     last_seen: 2026-04-19
   www.taraftarium91.top:
