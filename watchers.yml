@@ -21,7 +21,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: example.de
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
-    last_known_mirror: www.sporcafe-7cabdb5e13.xyz
+    last_known_mirror: www.sporcafe-d002e28f33.xyz
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-04-20
@@ -72,7 +72,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 34
+    failed_days: 35
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv67.shop
@@ -114,7 +114,7 @@ sites:
     last_known_mirror: otobettv37.com
     last_seen: 2026-04-20
   Frequently changed domains — rotabettv*.com:
-    last_known_mirror: rotabettv394.com
+    last_known_mirror: rotabettv500.com
     last_seen: 2026-04-20
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
@@ -170,12 +170,12 @@ sites:
     last_seen: 2026-04-20
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-20
   www.selcuksportshd8443661f57.xyz:
-    last_known_mirror: www.selcuksportshd81e88f019e.xyz
+    last_known_mirror: www.selcuksportshdf50714dec4.xyz
     accept_antibot: true
     last_seen: 2026-04-20
   www.taraftarium91.top:

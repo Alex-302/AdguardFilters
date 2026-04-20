@@ -4510,7 +4510,7 @@ otobettv37.com##a[href^="https://cutt.ly/"]
 [$domain=/rotabettv\d+\.com/]##.nav > li.logomenu ~ li
 [$domain=/rotabettv\d+\.com/]##body > a[href^="https://"][target="_blank"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-rotabettv394.com##body > a[href^="https://"][target="_blank"]
+rotabettv500.com##body > a[href^="https://"][target="_blank"]
 !#endif
 !
 ! Frequently changed domains: betisttv*.live
