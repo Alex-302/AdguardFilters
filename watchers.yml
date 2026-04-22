@@ -72,7 +72,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 36
+    failed_days: 37
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv67.shop
@@ -170,7 +170,7 @@ sites:
     last_seen: 2026-04-22
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1006.pro
+    last_known_mirror: www.papazsports1010.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-22
@@ -208,7 +208,7 @@ sites:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-22
   ww0.jmanga.cash:
-    last_known_mirror: jmanga.army
+    last_known_mirror: jmanga.host
     last_seen: 2026-04-22
   zonatmo.to:
     last_known_mirror: zonatmo.to
