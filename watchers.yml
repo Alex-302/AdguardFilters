@@ -52,7 +52,7 @@ sites:
     last_known_mirror: askimyavas127.com
     last_seen: 2026-04-22
     failed_since: 2026-04-23 02:33
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv20.com
@@ -119,6 +119,9 @@ sites:
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv500.com
     last_seen: 2026-04-23
+    failed_since: 2026-04-23 06:05
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
     probe_text:
@@ -173,7 +176,7 @@ sites:
     last_seen: 2026-04-23
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-23
