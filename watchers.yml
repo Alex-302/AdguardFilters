@@ -72,7 +72,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 38
+    failed_days: 39
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv67.shop
@@ -170,7 +170,7 @@ sites:
     last_seen: 2026-04-24
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1008.pro
+    last_known_mirror: www.papazsports1010.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-24
@@ -204,6 +204,9 @@ sites:
     last_known_mirror: torrentsee335.com
     accept_antibot: true
     last_seen: 2026-04-24
+    failed_since: 2026-04-24 13:22
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-24
