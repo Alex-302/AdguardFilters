@@ -157,7 +157,7 @@ sites:
     last_known_mirror: piabettv20.live
     last_seen: 2026-04-23
     failed_since: 2026-04-24 02:34
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
@@ -173,7 +173,7 @@ sites:
     last_seen: 2026-04-24
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-24
@@ -206,10 +206,7 @@ sites:
   torrentsee:
     last_known_mirror: torrentsee335.com
     accept_antibot: true
-    last_seen: 2026-04-23
-    failed_since: 2026-04-23 20:51
-    failed_days: 1
-    potentially_dead: true
+    last_seen: 2026-04-24
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-24
