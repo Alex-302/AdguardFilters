@@ -26,7 +26,7 @@ sites:
     geoblock: TR
     last_seen: 2026-04-27
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe402.sbs
+    last_known_mirror: belestepe412.sbs
     last_seen: 2026-04-27
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
@@ -46,7 +46,7 @@ sites:
     last_known_mirror: turkifsaclub109.sbs
     last_seen: 2026-04-27
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas127.com
+    last_known_mirror: askimyavas128.com
     last_seen: 2026-04-27
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv20.com
@@ -62,7 +62,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-04-04
     failed_since: 2026-04-04 16:35
-    failed_days: 23
+    failed_days: 24
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -81,7 +81,7 @@ sites:
     last_known_mirror: seyirspor17.com
     last_seen: 2026-04-17
     failed_since: 2026-04-17 16:54
-    failed_days: 10
+    failed_days: 11
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
@@ -93,7 +93,7 @@ sites:
     last_known_mirror: acartv97.live
     last_seen: 2026-04-27
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports556.com
+    last_known_mirror: bosssports560.com
     last_seen: 2026-04-27
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle460.top
@@ -138,7 +138,7 @@ sites:
     failed_days: 25
     potentially_dead: true
   Frequently changed domains — YavasGir:
-    last_known_mirror: yavasgir91.com
+    last_known_mirror: yavasgir92.com
     last_seen: 2026-04-27
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv26.com
@@ -160,14 +160,14 @@ sites:
     failed_days: 40
     potentially_dead: true
   sultansportv562.com:
-    last_known_mirror: sultansportv0590.com
+    last_known_mirror: sultansportv0210.com
     last_seen: 2026-04-27
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     last_seen: 2026-04-27
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1007.pro
+    last_known_mirror: www.papazsports1010.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-27
