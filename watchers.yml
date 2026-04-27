@@ -21,13 +21,10 @@ sites:
     pattern_changed: true
     non_pattern_mirror: example.de
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
-    last_known_mirror: www.sporcafe-4f403cdafd.xyz
+    last_known_mirror: www.sporcafe-fdbce22650.xyz
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-04-27
-    heuristic_history:
-      - www.sporcafe-c939536bbe.xyz
-    pattern_changed: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe402.sbs
     last_seen: 2026-04-27
@@ -43,10 +40,10 @@ sites:
     last_known_mirror: zeusdizi22.com
     last_seen: 2026-04-27
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub107.sbs
+    last_known_mirror: turkifsaclub109.sbs
     last_seen: 2026-04-27
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub107.sbs
+    last_known_mirror: turkifsaclub109.sbs
     last_seen: 2026-04-27
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas127.com
@@ -72,7 +69,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 41
+    failed_days: 42
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv97.shop
@@ -170,7 +167,7 @@ sites:
     last_seen: 2026-04-27
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1007.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-27
@@ -204,9 +201,6 @@ sites:
     last_known_mirror: torrentsee354.com
     accept_antibot: true
     last_seen: 2026-04-27
-    failed_since: 2026-04-27 10:13
-    failed_days: 0
-    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-04-27
