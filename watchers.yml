@@ -43,10 +43,10 @@ sites:
     last_known_mirror: zeusdizi22.com
     last_seen: 2026-04-29
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub110.sbs
+    last_known_mirror: turkifsaclub111.sbs
     last_seen: 2026-04-29
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub110.sbs
+    last_known_mirror: turkifsaclub111.sbs
     last_seen: 2026-04-29
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas129.com
@@ -72,7 +72,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 43
+    failed_days: 44
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv97.shop
@@ -111,7 +111,7 @@ sites:
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
-    last_known_mirror: otobettv37.com
+    last_known_mirror: otobettv38.com
     last_seen: 2026-04-29
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv501.com
@@ -170,7 +170,7 @@ sites:
     last_seen: 2026-04-29
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1009.pro
+    last_known_mirror: www.papazsports1007.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-29
