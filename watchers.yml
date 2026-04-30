@@ -46,10 +46,10 @@ sites:
     failed_days: 1
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub111.sbs
+    last_known_mirror: turkifsaclub112.sbs
     last_seen: 2026-04-30
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub111.sbs
+    last_known_mirror: turkifsaclub112.sbs
     last_seen: 2026-04-30
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas130.com
@@ -75,7 +75,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 44
+    failed_days: 45
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv97.shop
@@ -117,7 +117,7 @@ sites:
     last_known_mirror: otobettv39.com
     last_seen: 2026-04-30
   Frequently changed domains — rotabettv*.com:
-    last_known_mirror: rotabettv501.com
+    last_known_mirror: rotabettv502.com
     last_seen: 2026-04-30
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
@@ -144,7 +144,7 @@ sites:
     failed_days: 28
     potentially_dead: true
   Frequently changed domains — YavasGir:
-    last_known_mirror: yavasgir93.com
+    last_known_mirror: yavasgir94.com
     last_seen: 2026-04-30
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv26.com
@@ -173,7 +173,7 @@ sites:
     last_seen: 2026-04-30
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1009.pro
+    last_known_mirror: www.papazsports1010.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-30
