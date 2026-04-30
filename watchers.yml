@@ -28,6 +28,9 @@ sites:
     heuristic_history:
       - www.sporcafe-fdbce22650.xyz
     pattern_changed: true
+    failed_since: 2026-04-30 17:20
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe432.sbs
     last_seen: 2026-04-30
@@ -52,7 +55,7 @@ sites:
     last_known_mirror: turkifsaclub112.sbs
     last_seen: 2026-04-30
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas130.com
+    last_known_mirror: askimyavas131.com
     last_seen: 2026-04-30
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv20.com
@@ -68,7 +71,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-04-04
     failed_since: 2026-04-04 16:35
-    failed_days: 26
+    failed_days: 27
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -87,7 +90,7 @@ sites:
     last_known_mirror: seyirspor17.com
     last_seen: 2026-04-17
     failed_since: 2026-04-17 16:54
-    failed_days: 13
+    failed_days: 14
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
@@ -102,7 +105,7 @@ sites:
     last_known_mirror: bosssports564.com
     last_seen: 2026-04-30
   Frequently changed domains — inattvizle*.top:
-    last_known_mirror: www.inattvizle460.top
+    last_known_mirror: www.inattvizle461.top
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-04-30
@@ -173,7 +176,7 @@ sites:
     last_seen: 2026-04-30
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-04-30
@@ -182,7 +185,7 @@ sites:
     accept_antibot: true
     last_seen: 2026-04-30
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium181.top
+    last_known_mirror: www.taraftarium182.top
     accept_antibot: true
     last_seen: 2026-04-30
   patronspor04548a2wer45awes.cfd:
