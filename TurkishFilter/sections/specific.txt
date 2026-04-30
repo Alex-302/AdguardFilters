@@ -4365,9 +4365,9 @@ primeembedpanel.com#%#//scriptlet('prevent-window-open')
 [$domain=/askimyavas\d+\.com/]#%#//scriptlet('remove-node-text', 'script', 'window.open')
 [$domain=/askimyavas\d+\.com/]$$script:contains(window.open)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-askimyavas129.com##a[href^="https://cutt.ly/"]
-askimyavas129.com###ads-inside-main
-askimyavas129.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
+askimyavas130.com##a[href^="https://cutt.ly/"]
+askimyavas130.com###ads-inside-main
+askimyavas130.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
 !#endif
 !
 ! Frequently changed domains: gobtv*.com
@@ -4435,7 +4435,7 @@ vegatv97.shop##a[href^="https://vegabetortaklik.com/links/"]
 ||betmatiktv*.com/*.gif
 [$domain=/betmatiktv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betmatiktv141.com##a[href^="https://cutt.ly/"]
+betmatiktv142.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: seyirspor*.com
@@ -4503,7 +4503,7 @@ kralsportshd7.com,kralsportshd8.com,kralsportshd9.com,kralsportshd10.com,kralspo
 ||otobettv*.com/banner.gif
 [$domain=/otobettv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-otobettv38.com##a[href^="https://cutt.ly/"]
+otobettv39.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: rotabettv*.com
@@ -4780,9 +4780,9 @@ hdselcuksports368.top#%#//scriptlet('prevent-window-open')
 [$domain=/belestepe\d+\.sbs/]##div[data-isbd-main-container] > section > div.hidden-xs.text-center
 [$domain=/belestepe\d+\.sbs/]#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-belestepe422.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
-belestepe422.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
-||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe422.sbs
+belestepe432.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
+belestepe432.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
+||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe432.sbs
 !#endif
 !
 ! Frequently changed domains: izlemac*.sbs
