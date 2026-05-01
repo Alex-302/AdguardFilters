@@ -4435,7 +4435,7 @@ vegatv97.shop##a[href^="https://vegabetortaklik.com/links/"]
 ||betmatiktv*.com/*.gif
 [$domain=/betmatiktv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betmatiktv142.com##a[href^="https://cutt.ly/"]
+betmatiktv143.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: seyirspor*.com
@@ -4503,7 +4503,7 @@ kralsportshd7.com,kralsportshd8.com,kralsportshd9.com,kralsportshd10.com,kralspo
 ||otobettv*.com/banner.gif
 [$domain=/otobettv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-otobettv39.com##a[href^="https://cutt.ly/"]
+otobettv40.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: rotabettv*.com
@@ -4780,9 +4780,9 @@ hdselcuksports368.top#%#//scriptlet('prevent-window-open')
 [$domain=/belestepe\d+\.sbs/]##div[data-isbd-main-container] > section > div.hidden-xs.text-center
 [$domain=/belestepe\d+\.sbs/]#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-belestepe432.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
-belestepe432.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
-||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe432.sbs
+belestepe442.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
+belestepe442.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
+||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe442.sbs
 !#endif
 !
 ! Frequently changed domains: izlemac*.sbs
@@ -5400,8 +5400,8 @@ trgoals78.top,trgoals79.top,trgoals80.top,trgoals81.top,trgoals82.top,trgoals83.
 [$domain=/inattvizle\d+\.top/]##.dbad
 [$domain=/inattvizle\d+\.top/]##.under-vid-banner
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-www.inattvizle461.top##.dbad
-www.inattvizle461.top##.under-vid-banner
+www.inattvizle462.top##.dbad
+www.inattvizle462.top##.under-vid-banner
 !#endif
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_app_cli)
 [$domain=/inattvizle\d+\.top/]#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
@@ -5422,9 +5422,9 @@ www.inattvizle461.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports1010.pro,www.papazsports1004.pro,www.papazsports1005.pro,www.papazsports1006.pro,www.papazsports1007.pro,www.papazsports1008.pro,www.papazsports1009.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports1010.pro,www.papazsports1004.pro,www.papazsports1005.pro,www.papazsports1006.pro,www.papazsports1007.pro,www.papazsports1008.pro,www.papazsports1009.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports1010.pro,www.papazsports1004.pro,www.papazsports1005.pro,www.papazsports1006.pro,www.papazsports1007.pro,www.papazsports1008.pro,www.papazsports1009.pro##.header-banner
+www.papazsports1010.pro,www.papazsports1005.pro,www.papazsports1006.pro,www.papazsports1007.pro,www.papazsports1008.pro,www.papazsports1009.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports1010.pro,www.papazsports1005.pro,www.papazsports1006.pro,www.papazsports1007.pro,www.papazsports1008.pro,www.papazsports1009.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports1010.pro,www.papazsports1005.pro,www.papazsports1006.pro,www.papazsports1007.pro,www.papazsports1008.pro,www.papazsports1009.pro##.header-banner
 !#endif
 !
 ! START: Yandex
