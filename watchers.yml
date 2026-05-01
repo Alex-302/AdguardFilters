@@ -61,7 +61,7 @@ sites:
     last_known_mirror: trgooltv54.top
     last_seen: 2026-05-01
   Frequently changed domains — netsportv*.top:
-    last_known_mirror: netsportv261.top
+    last_known_mirror: netsportv262.top
     last_seen: 2026-05-01
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -173,7 +173,7 @@ sites:
     last_seen: 2026-05-01
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-05-01
