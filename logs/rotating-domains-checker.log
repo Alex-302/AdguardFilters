@@ -2862,3 +2862,137 @@ www.taraftarium91.top                          www.taraftarium183.top → www.ta
 📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/25232630294#artifacts
 ⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
 
+
+================================================================================
+Run: 2026-05-02 02:37:49.898
+================================================================================
+
+2026-05-02 02:37:12.301 Rotating Domains Checker v1.1.7 - WRITE mode
+2026-05-02 02:37:12.303 Test filters dir: NO
+2026-05-02 02:37:12.303 Target repo path: ./
+2026-05-02 02:37:12.303 Sites to check: 46
+
+2026-05-02 02:37:48.891 
+                      Redirected domains 
+╔══════════════════════════════════════════════╤════════════════════════╤═════════════════════════╤════════╗
+║ Site                                         │ From                   │ To                      │ Time   ║
+╟──────────────────────────────────────────────┼────────────────────────┼─────────────────────────┼────────╢
+║ Frequently changed domains — betmatiktv*.com │ betmatiktv143.com      │ betmatiktv144.com       │ 1.02s  ║
+║ sultansportv562.com                          │ sultansportv0840.com   │ sultansportv0810.com    │ 2.36s  ║
+║ www.papazsports924.pro wwwwww                │ www.papazsports930.pro │ www.papazsports1020.pro │ 16.01s ║
+║ torrentsee                                   │ torrentsee354.com      │ torrentsee356.com       │ 24.37s ║
+╚══════════════════════════════════════════════╧════════════════════════╧═════════════════════════╧════════╝
+
+2026-05-02 02:37:49.777 ⬇️ ⬇️ ⬇️  ---=== Domains rotating summary ===---  ⬇️ ⬇️ ⬇️
+2026-05-02 02:37:49.777   Total sites: 46
+2026-05-02 02:37:49.777   ├─ Checked sites: 46
+2026-05-02 02:37:49.777   ├─ Updated sites: 5
+2026-05-02 02:37:49.777   ├─ Antibot accepted: 5 (not in failed count)
+2026-05-02 02:37:49.777   └─ Unchanged sites: 27
+2026-05-02 02:37:49.777  🚨  Failed: 14
+2026-05-02 02:37:49.777   ├─ including antibot blocked: 2
+2026-05-02 02:37:49.777   └─ Network problems or dead: 12
+2026-05-02 02:37:49.777 
+2026-05-02 02:37:49.777 Problems:
+2026-05-02 02:37:49.778  🚨 Errors (no replacements made):
+2026-05-02 02:37:49.778      - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.08s)
+2026-05-02 02:37:49.778      - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.11s)
+2026-05-02 02:37:49.778      - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.72s)
+2026-05-02 02:37:49.778      - Frequently changed domains — zeusdizi*.com [https://zeusdizi32.com]: Antibot detected: 403 or __cf_chl_tk in URL (14.31s)
+2026-05-02 02:37:49.778      - Frequently changed domains — zeustv*.com [https://zeustv243.com]: DNS resolution failed (0.65s)
+2026-05-02 02:37:49.778      - Frequently changed domains — xsportv*.xyz [https://www.xsportv-21ee22f79d.xyz]: Non-success status: 404 (0.34s)
+2026-05-02 02:37:49.778      - Frequently changed domains — seyirspor*.com [https://seyirspor17.com]: DNS resolution failed (3.00s)
+2026-05-02 02:37:49.778      - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: DNS resolution failed (0.04s)
+2026-05-02 02:37:49.778      - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (3.00s)
+2026-05-02 02:37:49.778      - Frequently changed domains — betist*tv.live [https://betist220tv.live]: DNS resolution failed (3.00s)
+2026-05-02 02:37:49.778      - Frequently changed domains — Saha TV [https://sahatv2.top]: DNS resolution failed (3.00s)
+2026-05-02 02:37:49.778      - restmacizle23.cfd [https://patronspor.is/]: Skipped by skip_text: "https://patronspor.is/?s={search_term_string}" (0.75s)
+2026-05-02 02:37:49.778      - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.48s)
+2026-05-02 02:37:49.778      - hepbetspor [https://patronspor.is/]: Skipped by skip_text: "https://patronspor.is/?s={search_term_string}" (0.31s)
+2026-05-02 02:37:49.778  ⚠️  Warnings:
+2026-05-02 02:37:49.778      - Dead site test - deadexample24.com: Failed for 69 days - consider removing from filters
+2026-05-02 02:37:49.778      - Test Probe Fail - example.org: Failed for 69 days - consider removing from filters
+2026-05-02 02:37:49.778      - Frequently changed domains — dizipal*.com — Dizipal: Failed for 69 days - consider removing from filters
+2026-05-02 02:37:49.778      - Frequently changed domains — zeustv*.com: Failed for 28 days - consider removing from filters
+2026-05-02 02:37:49.778      - Frequently changed domains — xsportv*.xyz: Failed for 46 days - consider removing from filters
+2026-05-02 02:37:49.778      - Frequently changed domains — seyirspor*.com: Failed for 15 days - consider removing from filters
+2026-05-02 02:37:49.778      - Frequently changed domains — lorabettvhd*.shop: Failed for 69 days - consider removing from filters
+2026-05-02 02:37:49.778      - Frequently changed domains — Kralsports HD: Failed for 69 days - consider removing from filters
+2026-05-02 02:37:49.778      - Frequently changed domains — betist*tv.live: Failed for 69 days - consider removing from filters
+2026-05-02 02:37:49.778      - Frequently changed domains — Saha TV: Failed for 30 days - consider removing from filters
+2026-05-02 02:37:49.778      - restmacizle23.cfd: Failed for 45 days - consider removing from filters
+2026-05-02 02:37:49.778      - patronspor04548a2wer45awes.cfd: Failed for 66 days - consider removing from filters
+2026-05-02 02:37:49.778      - hepbetspor: Failed for 67 days - consider removing from filters
+2026-05-02 02:37:49.778 
+2026-05-02 02:37:49.778 Total phase time: 36.578s
+2026-05-02 02:37:49.778 
+2026-05-02 02:37:49.778 Unchanged sites:
+                        example.org, example.de, www.sporcafe-89a91424cb.xyz, belestepe504.sbs, dizipal1965.com, zeusdizi32.com, turkifsaclub112.sbs, turkifsaclub112.sbs, askimyavas131.com, gobtv20.com, trgooltv54.top, netsportv262.top, www.xsportv-21ee22f79d.xyz, vegatv77.shop, acartv97.live, bosssports570.com, www.inattvizle480.top, otobettv40.com, rotabettv503.com, www.portobettv55.com, betivotv156.com, yavasgir94.com, kodtimetv26.com, amp-6392fa66a0.selcuksportshdamp-aa805a079c.click, dizigom104.com, piabettv20.live, patronspor.is, taraftarium24.xyz, www.selcuksportshde37a73e025.xyz, www.taraftarium200.top, raw.githack.com, patronspor.is, www.gptgirlfriend.online, jmanga.trade, zonatmo.to
+
+2026-05-02 02:37:49.778 === Domains replacement summary ===
+2026-05-02 02:37:49.778 Files scanned: 160
+2026-05-02 02:37:49.778 Files modified: 1
+2026-05-02 02:37:49.778 Total line edits: 1
+2026-05-02 02:37:49.778 Total phase time: 0.894s
+2026-05-02 02:37:49.778 ⬆️ ⬆️ ⬆️  ---=== Domains rotating summary ===---  ⬆️ ⬆️ ⬆️
+
+
+2026-05-02 02:37:49.895 ⌛ Total execution time: 37.621s
+
+⬇️ ⬇️ ⬇️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬇️ ⬇️ ⬇️
+Target branch: master
+Commit message:
+Rotating Domains Checker: Updating domains
+
+🔄  Updated domains:
+
+Frequently changed domains — betmatiktv*.com   betmatiktv143.com      → betmatiktv144.com      
+sultansportv562.com                            sultansportv0840.com   → sultansportv0810.com   
+www.papazsports924.pro wwwwww                  www.papazsports930.pro → www.papazsports1020.pro
+torrentsee                                     torrentsee354.com      → torrentsee356.com      
+
+🚨 Errors (no replacements made):
+     - Dead site test - deadexample24.com [https://deadexample24.com]: DNS resolution failed (0.08s)
+     - Test Probe Fail - example.org [https://example.org]: Content probe failed (0.11s)
+     - Frequently changed domains — dizipal*.com — Dizipal [https://dizipal1965.com/]: Antibot detected: 403 or __cf_chl_tk in URL (0.72s)
+     - Frequently changed domains — zeusdizi*.com [https://zeusdizi32.com]: Antibot detected: 403 or __cf_chl_tk in URL (14.31s)
+     - Frequently changed domains — zeustv*.com [https://zeustv243.com]: DNS resolution failed (0.65s)
+     - Frequently changed domains — xsportv*.xyz [https://www.xsportv-21ee22f79d.xyz]: Non-success status: 404 (0.34s)
+     - Frequently changed domains — seyirspor*.com [https://seyirspor17.com]: DNS resolution failed (3.00s)
+     - Frequently changed domains — lorabettvhd*.shop [https://lorabettvhd80.shop]: DNS resolution failed (0.04s)
+     - Frequently changed domains — Kralsports HD [https://kralsportshd7.com]: DNS resolution failed (3.00s)
+     - Frequently changed domains — betist*tv.live [https://betist220tv.live]: DNS resolution failed (3.00s)
+     - Frequently changed domains — Saha TV [https://sahatv2.top]: DNS resolution failed (3.00s)
+     - restmacizle23.cfd [https://patronspor.is/]: Skipped by skip_text: "https://patronspor.is/?s={search_term_string}" (0.75s)
+     - patronspor04548a2wer45awes.cfd [https://raw.githack.com/eniyiyayinci/redirect-cdn/main/inattv.html]: Non-success status: 404 (0.48s)
+     - hepbetspor [https://patronspor.is/]: Skipped by skip_text: "https://patronspor.is/?s={search_term_string}" (0.31s)
+
+
+⚠️  Warnings:
+     - Dead site test - deadexample24.com: Failed for 69 days - consider removing from filters
+     - Test Probe Fail - example.org: Failed for 69 days - consider removing from filters
+     - Frequently changed domains — sporcafe*.xyz — Spor Cafe: Pattern domain redirected to non-pattern ( → www.sporcafe-89a91424cb.xyz) - filter not updated, waiting for new pattern domain
+     - Frequently changed domains — dizipal*.com — Dizipal: Failed for 69 days - consider removing from filters
+     - Frequently changed domains — zeustv*.com: Failed for 28 days - consider removing from filters
+     - Frequently changed domains — xsportv*.xyz: Failed for 46 days - consider removing from filters
+     - Frequently changed domains — seyirspor*.com: Failed for 15 days - consider removing from filters
+     - Frequently changed domains — lorabettvhd*.shop: Failed for 69 days - consider removing from filters
+     - Frequently changed domains — Kralsports HD: Failed for 69 days - consider removing from filters
+     - Frequently changed domains — betist*tv.live: Failed for 69 days - consider removing from filters
+     - Frequently changed domains — Saha TV: Failed for 30 days - consider removing from filters
+     - restmacizle23.cfd: Failed for 45 days - consider removing from filters
+     - www.papazsports924.pro wwwwww: Domain redirected (www.papazsports930.pro → www.papazsports1020.pro) but protected by antibot - old domain may remain in filter rules
+     - patronspor04548a2wer45awes.cfd: Failed for 66 days - consider removing from filters
+     - hepbetspor: Failed for 67 days - consider removing from filters
+
+⚠️  Antibot accepted (ignored by config):
+     - Frequently changed domains — inattvizle*.top [https://www.inattvizle480.top]: Antibot detected, but accepted by config (0.55s)
+     - amp-6392fa66a0.selcuksportshdamp-aa805a079c.click [https://amp-6392fa66a0.selcuksportshdamp-aa805a079c.click]: Antibot detected, but accepted by config (0.52s)
+     - www.papazsports924.pro wwwwww [https://www.papazsports1020.pro]: Antibot detected, but accepted by config (16.01s)
+     - www.selcuksportshd8443661f57.xyz [https://www.selcuksportshde37a73e025.xyz]: Antibot detected, but accepted by config (0.11s)
+     - www.taraftarium91.top [https://www.taraftarium200.top]: Antibot detected, but accepted by config (0.10s)
+
+
+📋  View detailed log: https://github.com/Alex-302/AdguardFilters/actions/runs/25241715803#artifacts
+⬆️ ⬆️ ⬆️  💡 💡 💡  Direct Commit Mode 💡 💡 💡  ⬆️ ⬆️ ⬆️
+
