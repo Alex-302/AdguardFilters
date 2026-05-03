@@ -173,7 +173,7 @@ sites:
     last_seen: 2026-05-03
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1019.pro
+    last_known_mirror: www.papazsports1018.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-05-03
@@ -213,6 +213,9 @@ sites:
   ww0.jmanga.cash:
     last_known_mirror: jmanga.trade
     last_seen: 2026-05-03
+    failed_since: 2026-05-03 06:25
+    failed_days: 0
+    potentially_dead: true
   zonatmo.to:
     last_known_mirror: zonatmo.to
     last_seen: 2026-05-03
