@@ -21,7 +21,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: example.de
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
-    last_known_mirror: www.sporcafe-89a91424cb.xyz
+    last_known_mirror: www.sporcafe-f73f4b1803.xyz
     accept_antibot: true
     geoblock: TR
     last_seen: 2026-05-04
@@ -75,7 +75,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 48
+    failed_days: 49
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv77.shop
@@ -173,7 +173,7 @@ sites:
     last_seen: 2026-05-04
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1018.pro
+    last_known_mirror: www.papazsports1020.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-05-04
@@ -207,6 +207,9 @@ sites:
     last_known_mirror: torrentsee360.com
     accept_antibot: true
     last_seen: 2026-05-04
+    failed_since: 2026-05-04 13:58
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-05-04
