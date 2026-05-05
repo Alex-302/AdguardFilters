@@ -52,7 +52,7 @@ sites:
     last_known_mirror: turkifsaclub115.sbs
     last_seen: 2026-05-05
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas132.com
+    last_known_mirror: askimyavas133.com
     last_seen: 2026-05-05
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv20.com
@@ -68,7 +68,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-04-04
     failed_since: 2026-04-04 16:35
-    failed_days: 31
+    failed_days: 32
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -87,7 +87,7 @@ sites:
     last_known_mirror: seyirspor17.com
     last_seen: 2026-04-17
     failed_since: 2026-04-17 16:54
-    failed_days: 18
+    failed_days: 19
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
