@@ -17,20 +17,20 @@ sites:
     last_known_mirror: example.de
     probe_text:
       - Malerei der Gruppe 3erlei
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
     pattern_changed: true
     non_pattern_mirror: example.de
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
     last_known_mirror: www.sporcafe-f73f4b1803.xyz
     accept_antibot: true
     geoblock: TR
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
     heuristic_history:
       - www.sporcafe-fdbce22650.xyz
     pattern_changed: true
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe524.sbs
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal1964.com
     probe_text:
@@ -47,22 +47,22 @@ sites:
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
     last_known_mirror: turkifsaclub114.sbs
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   turkifsaclub-12.sbs:
     last_known_mirror: turkifsaclub114.sbs
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas132.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv20.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — trgooltv*.top:
     last_known_mirror: trgooltv54.top
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv262.top
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
@@ -79,10 +79,10 @@ sites:
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv77.shop
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — betmatiktv*.com:
     last_known_mirror: betmatiktv144.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     last_seen: 2026-04-17
@@ -97,15 +97,15 @@ sites:
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
     last_known_mirror: acartv97.live
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports576.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle480.top
     accept_antibot: true
     geoblock: TR
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — Kralsports HD:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
@@ -115,10 +115,10 @@ sites:
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
     last_known_mirror: otobettv40.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv503.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist220tv.live
     probe_text:
@@ -132,10 +132,10 @@ sites:
     failed_since: 2026-02-22 17:31
   Frequently changed domains — portobettv*.com:
     last_known_mirror: www.portobettv55.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv156.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
@@ -145,46 +145,46 @@ sites:
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir94.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv26.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   amp-6392fa66a0.selcuksportshdamp-aa805a079c.click:
     last_known_mirror: amp-6392fa66a0.selcuksportshdamp-aa805a079c.click
     accept_antibot: true
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   dizigom104.com:
     last_known_mirror: dizigom104.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   piabettv14.live:
     last_known_mirror: piabettv20.live
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     last_seen: 2026-03-18
     failed_since: 2026-03-19 02:08
-    failed_days: 47
+    failed_days: 48
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv0340.com
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1019.pro
+    last_known_mirror: www.papazsports1020.pro
     accept_antibot: true
     force_search_ahead: true
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshde37a73e025.xyz
     accept_antibot: true
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   www.taraftarium91.top:
     last_known_mirror: www.taraftarium200.top
     accept_antibot: true
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   patronspor04548a2wer45awes.cfd:
     initial_domain: https://t.co/sRxEaOU2pj
     last_known_mirror: raw.githack.com
@@ -193,7 +193,7 @@ sites:
       - https://hepbetspor17.cfd/
     pattern_changed: true
     failed_since: 2026-02-26 02:00
-    failed_days: 68
+    failed_days: 69
     potentially_dead: true
   hepbetspor:
     last_known_mirror: hepbetspor20.cfd
@@ -201,21 +201,18 @@ sites:
       - banner-container
     last_seen: 2026-02-24
     failed_since: 2026-02-25 02:04
-    failed_days: 69
+    failed_days: 70
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee360.com
     accept_antibot: true
-    last_seen: 2026-05-04
-    failed_since: 2026-05-04 13:58
-    failed_days: 1
-    potentially_dead: true
+    last_seen: 2026-05-05
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   ww0.jmanga.cash:
     last_known_mirror: jmanga.trade
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
   zonatmo.to:
     last_known_mirror: zonatmo.to
-    last_seen: 2026-05-04
+    last_seen: 2026-05-05
