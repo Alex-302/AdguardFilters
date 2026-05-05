@@ -144,7 +144,7 @@ sites:
     failed_days: 33
     potentially_dead: true
   Frequently changed domains — YavasGir:
-    last_known_mirror: yavasgir94.com
+    last_known_mirror: yavasgir95.com
     last_seen: 2026-05-05
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv26.com
@@ -173,7 +173,7 @@ sites:
     last_seen: 2026-05-05
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1020.pro
+    last_known_mirror: www.papazsports1019.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-05-05
