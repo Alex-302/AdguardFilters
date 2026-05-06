@@ -46,10 +46,10 @@ sites:
     failed_days: 7
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub115.sbs
+    last_known_mirror: turkifsaclub116.sbs
     last_seen: 2026-05-06
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub115.sbs
+    last_known_mirror: turkifsaclub116.sbs
     last_seen: 2026-05-06
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas133.com
@@ -75,7 +75,7 @@ sites:
     last_failed: 2026-02-14 16:55
     last_seen: 2026-03-17
     failed_since: 2026-03-17 13:11
-    failed_days: 50
+    failed_days: 51
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv77.shop
@@ -173,7 +173,7 @@ sites:
     last_seen: 2026-05-06
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1020.pro
+    last_known_mirror: www.papazsports1019.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-05-06
@@ -207,9 +207,6 @@ sites:
     last_known_mirror: torrentsee360.com
     accept_antibot: true
     last_seen: 2026-05-06
-    failed_since: 2026-05-06 10:16
-    failed_days: 0
-    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     last_seen: 2026-05-06
