@@ -99,7 +99,7 @@ sites:
     last_known_mirror: acartv97.live
     last_seen: 2026-05-07
   Frequently changed domains — bosssports*.com:
-    last_known_mirror: bosssports582.com
+    last_known_mirror: bosssports584.com
     last_seen: 2026-05-07
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle480.top
@@ -141,7 +141,7 @@ sites:
     last_known_mirror: sahatv5.top
     last_seen: 2026-04-02
     failed_since: 2026-04-02 20:34
-    failed_days: 35
+    failed_days: 36
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir97.com
@@ -173,7 +173,7 @@ sites:
     last_seen: 2026-05-07
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1012.pro
+    last_known_mirror: www.papazsports1019.pro
     accept_antibot: true
     force_search_ahead: true
     last_seen: 2026-05-07
