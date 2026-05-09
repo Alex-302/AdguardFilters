@@ -78,6 +78,9 @@ sites:
   Frequently changed domains — trgooltv*.top:
     last_known_mirror: trgooltv54.top
     last_seen: 2026-05-09
+    failed_since: 2026-05-09 17:00
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     last_seen: 2026-05-08
@@ -89,7 +92,7 @@ sites:
     last_failed: 2026-01-25 13:22
     last_seen: 2026-04-04
     failed_since: 2026-04-04 16:35
-    failed_days: 35
+    failed_days: 36
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -107,11 +110,14 @@ sites:
   Frequently changed domains — betmatiktv*.com:
     last_known_mirror: betmatiktv147.com
     last_seen: 2026-05-09
+    failed_since: 2026-05-09 17:00
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     last_seen: 2026-04-17
     failed_since: 2026-04-17 16:54
-    failed_days: 22
+    failed_days: 23
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
