@@ -69,12 +69,18 @@ sites:
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas135.com
     last_seen: 2026-05-12
+    failed_since: 2026-05-12 10:36
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv21.com
     last_seen: 2026-05-12
   Frequently changed domains — trgooltv*.top:
     last_known_mirror: trgooltv54.top
     last_seen: 2026-05-12
+    failed_since: 2026-05-12 10:36
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     last_seen: 2026-05-08
@@ -99,7 +105,7 @@ sites:
     last_known_mirror: vegatv87.shop
     last_seen: 2026-05-11
     failed_since: 2026-05-12 06:41
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Frequently changed domains — betmatiktv*.com:
     last_known_mirror: betmatiktv147.com
