@@ -1,4 +1,16 @@
 sites:
+  ww0.jmanga.cash:
+    last_known_mirror: jmanga.trade
+    last_seen: 2026-05-08
+    failed_since: 2026-05-08 21:04
+    failed_days: 7
+    potentially_dead: true
+  zonatmo.to:
+    last_known_mirror: zonatmo.to
+    last_seen: 2026-05-08
+    failed_since: 2026-05-08 21:04
+    failed_days: 7
+    potentially_dead: true
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
@@ -297,15 +309,8 @@ sites:
     failed_since: 2026-05-08 21:04
     failed_days: 7
     potentially_dead: true
-  ww0.jmanga.cash:
-    last_known_mirror: jmanga.trade
-    last_seen: 2026-05-08
-    failed_since: 2026-05-08 21:04
-    failed_days: 7
-    potentially_dead: true
-  zonatmo.to:
-    last_known_mirror: zonatmo.to
-    last_seen: 2026-05-08
-    failed_since: 2026-05-08 21:04
-    failed_days: 7
-    potentially_dead: true
+  woe.sx:
+    initial_domain: https://voe.sx/e/nemg6vqtnrkf
+    skip_text_allow:
+      - Redirecting...
+    path: e/nemg6vqtnrkf
