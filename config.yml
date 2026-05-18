@@ -10,7 +10,7 @@ http:
 processing:
   parallel: 10           # legacy/global fallback parallelism (rarely used)
   resolveParallel: 20    # concurrent resolve checks (main phase)
-  heuristicParallel: 50  # concurrent heuristic checks (lightweight DNS+HTTP, can be high)
+  heuristicParallel: 200  # concurrent heuristic checks (lightweight DNS+HTTP, can be high)
   redirectDepth: 150     # max 3xx redirects before error (protect from infinite loops)
 
 dnsPreCheck:
