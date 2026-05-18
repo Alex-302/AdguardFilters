@@ -78,12 +78,6 @@ sites:
     failed_since: 2026-05-08 21:04
     failed_days: 7
     potentially_dead: true
-  Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas135.com
-    last_seen: 2026-05-12
-    failed_since: 2026-05-12 10:36
-    failed_days: 3
-    potentially_dead: true
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv21.com
     last_seen: 2026-05-15
@@ -314,3 +308,9 @@ sites:
     skip_text_allow:
       - Redirecting...
     path: e/nemg6vqtnrkf
+    Frequently changed domains — askimyavas*.com:
+    last_known_mirror: askimyavas135.com
+    last_seen: 2026-05-12
+    failed_since: 2026-05-12 10:36
+    failed_days: 3
+    potentially_dead: true
