@@ -10,7 +10,7 @@ http:
 processing:
   parallel: 10           # legacy/global fallback parallelism (rarely used)
   resolveParallel: 20    # concurrent resolve checks (main phase)
-  heuristicParallel: 200  # concurrent heuristic checks (lightweight DNS+HTTP, can be high)
+  heuristicParallel: 50  # concurrent heuristic checks (lightweight DNS+HTTP, can be high)
   redirectDepth: 150     # max 3xx redirects before error (protect from infinite loops)
 
 dnsPreCheck:
@@ -33,7 +33,7 @@ heuristic:
   maxAttempts: 150        # increase to check more domains, if there are difficulties in finding working domains
   skipOnAntibot: true    # skip heuristic if antibot detected
   attemptParallel: 3     # max concurrent attempts per site (lower = less DNS load)
-  dnsParallel: 50        # max concurrent DNS lookups in batch pre-filter (lightweight, can be high)
+  dnsParallel: 500        # max concurrent DNS lookups in batch pre-filter (lightweight, can be high)
   forceHeuristicOnCodes: [403, 404, 500, 502, 503, 504]  # force heuristic for these HTTP status codes
 
 # Global skip_text — skip domains whose response body contains these phrases (parked/expired domains)
