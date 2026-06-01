@@ -122,14 +122,14 @@ sites:
     last_known_mirror: rotabettv509.com
     success_since: 2026-06-01 06:02
   Frequently changed domains — betist*tv.live:
-    last_known_mirror: betist247tv.live
+    last_known_mirror: betist248tv.live
     probe_text:
       - const BASE_URL  = "https://betist
     accept_antibot: true
     geoblock: TR
     last_failed: 2026-02-20 20:45
     force_search_ahead: true
-    success_since: 2026-06-01 06:02
+    success_since: 2026-06-01 09:29
   Frequently changed domains — portobettv*.com:
     last_known_mirror: www.portobettv55.com
     success_since: 2026-05-25
@@ -202,7 +202,9 @@ sites:
   torrentsee:
     last_known_mirror: torrentsee360.com
     accept_antibot: true
-    success_since: 2026-05-25
+    failed_since: 2026-06-01 09:29
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     success_since: 2026-05-25
