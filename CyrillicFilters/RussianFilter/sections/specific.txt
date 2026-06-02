@@ -967,10 +967,10 @@ pc.ru##div[class^="advert_"]
 patee.ru###top > div[style]:has(> .yandex-rtb)
 patee.ru##.colC > .placeR:has(> .yandex-rtb)
 ||stanet-tiho.ru/banner
-/front/js/vads.js$domain=sex-studentki.top|sex-studentki.guru|mult-porno.boo|sex-studentki.guru
-/front/js/all_a.js$domain=sex-studentki.top|sex-studentki.guru|mult-porno.boo|sex-studentki.guru
-/mapsview/gomaps5.js$domain=sex-studentki.top|sex-studentki.guru|mult-porno.boo|sex-studentki.guru
-sex-studentki.guru,mult-porno.boo,sex-studentki.guru,sex-studentki.top##.vpsembedmob
+/front/js/vads.js$domain=sex-studentki.top|sex-studentki.guru|mult-porno.boo
+/front/js/all_a.js$domain=sex-studentki.top|sex-studentki.guru|mult-porno.boo
+/mapsview/gomaps5.js$domain=sex-studentki.top|sex-studentki.guru|mult-porno.boo
+sex-studentki.guru,mult-porno.boo,sex-studentki.top##.vpsembedmob
 ||cdn.hsmedia.ru/scrooge-client/hsm-creative-manager.
 bankiros.ru##.xxx-mb-30
 ||softportal.com/img/tlmn.png
@@ -2402,7 +2402,7 @@ prosports.kz###adhider
 zdg.md##img[width="300"][height="400"]
 gdz-online.ws##div[class^="nadslider-blok"]
 onlinetambov.ru###banner-rotation
-maximum.ru,maximum.ru,dfm.ru,rusradio.ru##.advertising-popup-overlay
+maximum.ru,dfm.ru,rusradio.ru##.advertising-popup-overlay
 krasnodarmedia.su,magadanmedia.ru,eaomedia.ru,ussurmedia.ru,primamedia.ru##.s-banner
 ||vyatka-grad.ru/wp-content/cache/*/smi.js
 arbat.media##.ads_size
@@ -8297,7 +8297,7 @@ cheb.ru##noindex > a[href^="http://www.cheb.ru/url.php?url="]
 gp.by,megaobzor.com##noindex > a[rel="nofollow"]
 windows64.net##noindex > a[rel="nofollow"][onclick]
 imgbase.ru##noindex > a[rel] > img
-windows-driver.com,trud.ru,trud.ru##noindex > a[target="_blank"] > img
+windows-driver.com,trud.ru##noindex > a[target="_blank"] > img
 repackov.net##noindex > center > a > img
 rg-mechanics.club##noindex > div.downloadGame > a[rel="nofollow"]
 allfilmonline.ws##noindex > div[style="height: 300px;"]
@@ -10216,23 +10216,23 @@ overclockers.ru##.material-inline-an
 xn----ztbcbceder.com##.container-teaser_block
 !
 -html5-*/index*.html$domain=smotret-anime-365.ru|animevost.online|animevost.org|animevost.am|agorov.org|vost.pw
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org###centerBlock > div[align="center"][class^="b"]
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org##.banerTop
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org##center\" > a[target="_blank"] > img
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org##iframe[width="260"][height="400"]
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org##.shortstoryContent > div#shortstoryContentTegi + center[style]
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org##div[style^="width:240px;height:400px;"]
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org##div[class^="banerTop"]
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org###wrap > div.headbgnew > a[target="_blank"][style*="display: block;"]
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org##div[style="width:240px;height:400px;margin:auto;"]
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org##div[class^="headbg"] > a[target="_blank"]
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org#?##centerBlock > div:has(> center > a[target="_blank"])
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org#?#div[id^="moduleLeft"]:has(> div[class] center)
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org#$#div[class^="headbg"] { background: transparent !important; }
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org#$#.menu { top: 0 !important; }
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org#$##wrap > div[class^="headbgnew"] { height: 53px !important; }
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org#$#.menu > ul > li > div.sar { z-index: 9999 !important; bottom: -200px !important; }
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org#$#.menu > ul > li > span.sar { z-index: 9999 !important; bottom: -150px !important; }
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org###centerBlock > div[align="center"][class^="b"]
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org##.banerTop
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org##center\" > a[target="_blank"] > img
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org##iframe[width="260"][height="400"]
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org##.shortstoryContent > div#shortstoryContentTegi + center[style]
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org##div[style^="width:240px;height:400px;"]
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org##div[class^="banerTop"]
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org###wrap > div.headbgnew > a[target="_blank"][style*="display: block;"]
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org##div[style="width:240px;height:400px;margin:auto;"]
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org##div[class^="headbg"] > a[target="_blank"]
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org#?##centerBlock > div:has(> center > a[target="_blank"])
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org#?#div[id^="moduleLeft"]:has(> div[class] center)
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org#$#div[class^="headbg"] { background: transparent !important; }
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org#$#.menu { top: 0 !important; }
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org#$##wrap > div[class^="headbgnew"] { height: 53px !important; }
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org#$#.menu > ul > li > div.sar { z-index: 9999 !important; bottom: -200px !important; }
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org#$#.menu > ul > li > span.sar { z-index: 9999 !important; bottom: -150px !important; }
 !
 4pda.to##a[href*="//4pda.to/honor/?utm_"]
 ||4pda.*/st/ztm?
@@ -10350,7 +10350,7 @@ vio.to###payadvert
 ://ava.*.ru/*.js|
 !
 ! Oblivki.biz - <script>window.RESOURCE_* = 'ad domain';</script>
-/\/[A-Za-z0-9-.]+\/[A-Za-z0-9_-]{2,4}.js$/$third-party,domain=superomsk.ru|mirnov.ru|kladovaia-krasoti.ru|finbazis.ru|2019god.net|anisima.ru|avtozakony.ru|bodytrain.ru|donpress.com|fainaidea.com|hronika.info|imbyr.ru|kino-fox.com|linza.guru|mothersguide.ru|novosti-n.org|omj.ru|opnevmonii.ru|placeclean.ru|pojrem.ru|sonnikonline.club|turkseason.com|ua-independent.com|uakino.club|woman365.ru|zakulisi.ru|artrit-artroz.com|nerodiskrasivoitv.ru|triumph-strategy.ru|dv-gazeta.info|moiinstrumenty.ru|prokazan.ru|gorlonos.com|trueinform.ru|figaro.space|upraznenia.ru|altapress.ru|mogilev.online|alau.kz|enovosty.com|yerkramas.org|real-vin.com|socportal.info|rusonline.org|7days-ua.com|ribaku.info|newsua.one|severpost.ru|syzran-small.ru|yarnews.net|nashbryansk.ru|ngzt.ru|pg11.ru|pg12.ru|pg13.ru|pg21.ru|prochepetsk.ru|progorodnn.ru|progorodnsk.ru|progorodsamara.ru|shostka.info|skuky.net|sochi24.tv|chelny-izvest.ru|sad24.ru|grodno24.com|yagazeta.com|kraj.by|politnavigator.net|kriminal.tv|amazingfacts.ru|chudesa.site|enovosty.com|xnewsq.net|astrosfera.ru|usa.one|konkurent.ru
+/\/[A-Za-z0-9-.]+\/[A-Za-z0-9_-]{2,4}.js$/$third-party,domain=superomsk.ru|mirnov.ru|kladovaia-krasoti.ru|finbazis.ru|2019god.net|anisima.ru|avtozakony.ru|bodytrain.ru|donpress.com|fainaidea.com|hronika.info|imbyr.ru|kino-fox.com|linza.guru|mothersguide.ru|novosti-n.org|omj.ru|opnevmonii.ru|placeclean.ru|pojrem.ru|sonnikonline.club|turkseason.com|ua-independent.com|uakino.club|woman365.ru|zakulisi.ru|artrit-artroz.com|nerodiskrasivoitv.ru|triumph-strategy.ru|dv-gazeta.info|moiinstrumenty.ru|prokazan.ru|gorlonos.com|trueinform.ru|figaro.space|upraznenia.ru|altapress.ru|mogilev.online|alau.kz|enovosty.com|yerkramas.org|real-vin.com|socportal.info|rusonline.org|7days-ua.com|ribaku.info|newsua.one|severpost.ru|syzran-small.ru|yarnews.net|nashbryansk.ru|ngzt.ru|pg11.ru|pg12.ru|pg13.ru|pg21.ru|prochepetsk.ru|progorodnn.ru|progorodnsk.ru|progorodsamara.ru|shostka.info|skuky.net|sochi24.tv|chelny-izvest.ru|sad24.ru|grodno24.com|yagazeta.com|kraj.by|politnavigator.net|kriminal.tv|amazingfacts.ru|chudesa.site|xnewsq.net|astrosfera.ru|usa.one|konkurent.ru
 !
 !--- Hints ------
 !
@@ -10529,19 +10529,19 @@ rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org###main_content_w
 rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org##.ref-topic-guest
 rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org###main-nav > ul.floatR
 rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org##.attach td[colspan="3"] > ul.middot-separated > li:has(> a[href="viewtopic.php?t=6529617"])
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org###logo-td + td
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org###page_header > div#main-nav + div[style] > a[target="_blank"][style]
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org##.t-body-txt-ad
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org##.attach > tbody > tr[class="row3 tCenter"]:last-child
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org###adriver-240x120
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org###bn-bot-wrap
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org###bn-mg-bottom
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org###bn-topic-block
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org###bn-top-block
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org##.bn-topic
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org##div[class^="bn-idx"]
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org##div[id^="topic-bn-"]
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org##img[style^="width: 240px; height:"]
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org###logo-td + td
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org###page_header > div#main-nav + div[style] > a[target="_blank"][style]
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org##.t-body-txt-ad
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org##.attach > tbody > tr[class="row3 tCenter"]:last-child
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org###adriver-240x120
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org###bn-bot-wrap
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org###bn-mg-bottom
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org###bn-topic-block
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org###bn-top-block
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org##.bn-topic
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org##div[class^="bn-idx"]
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org##div[id^="topic-bn-"]
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org##img[style^="width: 240px; height:"]
 ! END: rutracker/pornolab
 !
 ! START: pornolab
