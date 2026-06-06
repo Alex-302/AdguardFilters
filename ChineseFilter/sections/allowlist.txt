@@ -180,7 +180,7 @@ zcool.com.cn#@#.advtop
 @@||adapi.zcool.com.cn/api/adstrategy/realtime/get_ad_info?location_id=$domain=zcool.com.cn
 ! cocomanga.com,cocomanga.com CNAME breakage
 !+ PLATFORM(ext_ublock)
-@@||cdn.cloudflare.net^$stylesheet,script,xmlhttprequest,domain=cocomanga.com|cocomanga.com
+@@||cdn.cloudflare.net^$stylesheet,script,xmlhttprequest,domain=cocomanga.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/90298
 @@||gg.pl/wp-content/*/GG/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/88097
