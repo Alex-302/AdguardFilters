@@ -1044,7 +1044,7 @@ nnmclub.to#$#iframe[width="240"][height="400"] { position: absolute!important; l
 ! ivi-video.com - show skip button
 ivi-video.com#$##ads_skip { display: block!important; }
 ! https://forum.adguard.com/index.php?threads/8545/
-kinovideo.tv,kinovideo.tv#$#.wrap > div[id*="-sidebar"][style^="height: 628px;"] { position: absolute!important; left: -3000px!important; }
+kinovideo.tv#$#.wrap > div[id*="-sidebar"][style^="height: 628px;"] { position: absolute!important; left: -3000px!important; }
 ! motorpage.ru - удаление брендированного фона, отступа сверху
 motorpage.ru#$#body { background: none!important; padding-top: 0!important; }
 ! topserial.online - удаление отступа сверху
@@ -1080,7 +1080,7 @@ gopokemongo.ru,arendator.ru#$#body { overflow: visible!important; }
 ! kirovnet.ru - удаление отступа сверху
 kirovnet.ru#$#.bg_container { padding-top: 10px!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/1863
-vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,animevost.am,agorov.org#$#.banerTop { position: absolute !important; left: -3000px !important; }
+vost.pw,animevost.am,smotret-anime-365.ru,animevost.online,animevost.org,agorov.org#$#.banerTop { position: absolute !important; left: -3000px !important; }
 ! bigcinema.club - удаление брендированного фона
 bigcinema.club#$#body { background: none!important; }
 ! keddr.com - удаление отступа сверху
@@ -1342,9 +1342,9 @@ gtamania.ru$$script[tag-content="/bens/vinos"]
 novosti-n.org$$script[tag-content="setAttribute('type', 'text')"]
 ! rutracker.org - addition for apps only
 !+ NOT_PLATFORM(ext_ff)
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org$$div[class="bn-topic"]
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org$$div[class="bn-topic"]
 !+ NOT_PLATFORM(ext_ff)
-rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.org$$div[class="bn-bottom"]
+rutracker.appspot.com,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.lib,rutracker.net,rutracker.org$$div[class="bn-bottom"]
 ! Yandex.Video
 yandex-video.naydex.net#%#//scriptlet('trusted-replace-xhr-response', '/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/', '\$1<\/VAST>', 'strm.yandex.ru')
 yandex.md,yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru$$div[class="DirectStripe"]
