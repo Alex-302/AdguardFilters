@@ -710,7 +710,7 @@ matome-tarou.ldblog.jp#?#.column-inner-2 > .plugin-memo:has(iframe[src*="_rss.ht
 kijolifehack.com##.free_linkbox
 otoko-honne.com,kijolifehack.com##.osusume_box
 ||kimagure-kijyo.com/js/kimagure_
-kijobibouroku.com,shuraba.net,uwasakijo.net,ikuji-news.com,kichimama.com,kijobibouroku.com,kimagure-kijyo.com##.ifram
+kijobibouroku.com,shuraba.net,uwasakijo.net,ikuji-news.com,kichimama.com,kimagure-kijyo.com##.ifram
 livejupiter2.blog.jp,jishin-yogen.com,shuraba.net,uwasakijo.net,ikuji-news.com,kichimama.com,kijobibouroku.com,kimagure-kijyo.com##.pickup
 nijimoemoe.com##.sine1 ~ div[class^="sine"]
 nijimoemoe.com#$#.raibudoasine { height: auto !important; }
