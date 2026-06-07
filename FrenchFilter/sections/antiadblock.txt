@@ -376,10 +376,10 @@ crunchyscan.fr#%#//scriptlet("abort-current-inline-script", "document.write", "a
 crunchyscan.fr#%#//scriptlet("abort-current-inline-script", "setTimeout", "bloqueur")
 crunchyscan.fr#%#//scriptlet("abort-current-inline-script", "Promise", "alert")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/103164
-chat.babel.com,chat.babel.com#%#//scriptlet('prevent-setInterval', 'window.location')
+chat.babel.com#%#//scriptlet('prevent-setInterval', 'window.location')
 !#if (adguard_app_ios || adguard_ext_android_cb)
-@@||googletagmanager.com/gtag/js$domain=chat.babel.com|chat.babel.com
-@@||adv.123multimedia.com/AdConfig.aspx$domain=chat.babel.com|chat.babel.com
+@@||googletagmanager.com/gtag/js$domain=chat.babel.com
+@@||adv.123multimedia.com/AdConfig.aspx$domain=chat.babel.com
 !#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/101696
 @@||abcbourse.com/scripts2/prebid.js
