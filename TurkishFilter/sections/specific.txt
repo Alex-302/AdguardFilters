@@ -4342,15 +4342,15 @@ turkifsaclub.org#?#main > h3:contains(Sponsor Bannerlar)
 [$domain=/turkifsaclub\d+\.sbs/]##.ads-grid
 [$domain=/turkifsaclub\d+\.sbs/]#?#main > h3:contains(Sponsor Bannerlar)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsaclub131.sbs##.ads-grid
-turkifsaclub131.sbs#?#main > h3:contains(Sponsor Bannerlar)
+turkifsaclub148.sbs##.ads-grid
+turkifsaclub148.sbs#?#main > h3:contains(Sponsor Bannerlar)
 !#endif
 !
 ! Frequently changed domains: yavasgir*.com
 ||yavasgir*.com/*.gif
 [$domain=/yavasgir\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-yavasgir107.com##a[href^="https://cutt.ly/"]
+yavasgir118.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: askimyavas*.com
@@ -4365,16 +4365,16 @@ primeembedpanel.com#%#//scriptlet('prevent-window-open')
 [$domain=/askimyavas\d+\.com/]#%#//scriptlet('remove-node-text', 'script', 'window.open')
 [$domain=/askimyavas\d+\.com/]$$script:contains(window.open)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-askimyavas141.com##a[href^="https://cutt.ly/"]
-askimyavas141.com###ads-inside-main
-askimyavas141.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
+askimyavas154.com##a[href^="https://cutt.ly/"]
+askimyavas154.com###ads-inside-main
+askimyavas154.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
 !#endif
 !
 ! Frequently changed domains: gobtv*.com
 ||gobtv*.com/*.gif
 [$domain=/gobtv\d+\.com/]##a[href^="https://t2m.io/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-gobtv23.com##a[href^="https://t2m.io/"]
+gobtv25.com##a[href^="https://t2m.io/"]
 !#endif
 !
 ! Frequently changed domains: sahatv*.top
@@ -4428,14 +4428,14 @@ xsportv45.xyz,xsportv46.xyz,xsportv47.xyz,xsportv48.xyz,xsportv49.xyz,xsportv50.
 ||vegatv*.shop/*.gif
 [$domain=/vegatv\d+\.shop/]##a[href^="https://vegabetortaklik.com/links/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-vegatv87.shop##a[href^="https://vegabetortaklik.com/links/"]
+vegatv89.shop##a[href^="https://vegabetortaklik.com/links/"]
 !#endif
 !
 ! Frequently changed domains: betmatiktv*.com
 ||betmatiktv*.com/*.gif
 [$domain=/betmatiktv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betmatiktv152.com##a[href^="https://cutt.ly/"]
+betmatiktv154.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: seyirspor*.com
@@ -4503,14 +4503,14 @@ kralsportshd7.com,kralsportshd8.com,kralsportshd9.com,kralsportshd10.com,kralspo
 ||otobettv*.com/banner.gif
 [$domain=/otobettv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-otobettv45.com##a[href^="https://cutt.ly/"]
+otobettv67.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: rotabettv*.com
 [$domain=/rotabettv\d+\.com/]##.nav > li.logomenu ~ li
 [$domain=/rotabettv\d+\.com/]##body > a[href^="https://"][target="_blank"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-rotabettv509.com##body > a[href^="https://"][target="_blank"]
+rotabettv511.com##body > a[href^="https://"][target="_blank"]
 !#endif
 !
 ! Frequently changed domains: betisttv*.live
@@ -4780,9 +4780,9 @@ hdselcuksports368.top#%#//scriptlet('prevent-window-open')
 [$domain=/belestepe\d+\.sbs/]##div[data-isbd-main-container] > section > div.hidden-xs.text-center
 [$domain=/belestepe\d+\.sbs/]#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-belestepe866.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
-belestepe866.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
-||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe866.sbs
+belestepe542.sbs##div[data-isbd-main-container] > section > div.hidden-xs.text-center
+belestepe542.sbs#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
+||video.twimg.com/amplify_video/*/vid/*.mp4$domain=belestepe542.sbs
 !#endif
 !
 ! Frequently changed domains: izlemac*.sbs
