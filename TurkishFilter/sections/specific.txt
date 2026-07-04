@@ -4342,15 +4342,15 @@ turkifsaclub.org#?#main > h3:contains(Sponsor Bannerlar)
 [$domain=/turkifsaclub\d+\.sbs/]##.ads-grid
 [$domain=/turkifsaclub\d+\.sbs/]#?#main > h3:contains(Sponsor Bannerlar)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsaclub151.sbs##.ads-grid
-turkifsaclub151.sbs#?#main > h3:contains(Sponsor Bannerlar)
+turkifsaclub161.sbs##.ads-grid
+turkifsaclub161.sbs#?#main > h3:contains(Sponsor Bannerlar)
 !#endif
 !
 ! Frequently changed domains: yavasgir*.com
 ||yavasgir*.com/*.gif
 [$domain=/yavasgir\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-yavasgir121.com##a[href^="https://cutt.ly/"]
+yavasgir128.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: askimyavas*.com
@@ -4365,16 +4365,16 @@ primeembedpanel.com#%#//scriptlet('prevent-window-open')
 [$domain=/askimyavas\d+\.com/]#%#//scriptlet('remove-node-text', 'script', 'window.open')
 [$domain=/askimyavas\d+\.com/]$$script:contains(window.open)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-askimyavas157.com##a[href^="https://cutt.ly/"]
-askimyavas157.com###ads-inside-main
-askimyavas157.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
+askimyavas163.com##a[href^="https://cutt.ly/"]
+askimyavas163.com###ads-inside-main
+askimyavas163.com#%#//scriptlet('remove-node-text', 'script', 'window.open')
 !#endif
 !
 ! Frequently changed domains: gobtv*.com
 ||gobtv*.com/*.gif
 [$domain=/gobtv\d+\.com/]##a[href^="https://t2m.io/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-gobtv25.com##a[href^="https://t2m.io/"]
+gobtv26.com##a[href^="https://t2m.io/"]
 !#endif
 !
 ! Frequently changed domains: sahatv*.top
@@ -4390,9 +4390,9 @@ sahatv5.top##header > a + ul
 [$domain=/trgooltv\d+\.top/]##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
 [$domain=/trgooltv\d+\.top/]##div[class^="reklam-"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-trgooltv54.top##div[style="margin: 10px; text-align: center;"]
-trgooltv54.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
-trgooltv54.top##div[class^="reklam-"]
+trgooltv68.top##div[style="margin: 10px; text-align: center;"]
+trgooltv68.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
+trgooltv68.top##div[class^="reklam-"]
 !#endif
 !
 ! Frequently changed domains: netsportv*.top
@@ -4472,7 +4472,7 @@ lorabettvhd80.shop#$#body.modal-open { overflow: auto !important; }
 ||acartv*.live/*.gif
 [$domain=/acartv\d+\.live/]##a[href="https://acr.li/tvgiris"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-acartv101.live##a[href="https://acr.li/tvgiris"]
+acartv102.live##a[href="https://acr.li/tvgiris"]
 !#endif
 !
 ! Frequently changed domains: bosssports*.com
@@ -4503,14 +4503,14 @@ kralsportshd7.com,kralsportshd8.com,kralsportshd9.com,kralsportshd10.com,kralspo
 ||otobettv*.com/banner.gif
 [$domain=/otobettv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-otobettv67.com##a[href^="https://cutt.ly/"]
+otobettv68.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: rotabettv*.com
 [$domain=/rotabettv\d+\.com/]##.nav > li.logomenu ~ li
 [$domain=/rotabettv\d+\.com/]##body > a[href^="https://"][target="_blank"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-rotabettv511.com##body > a[href^="https://"][target="_blank"]
+rotabettv512.com##body > a[href^="https://"][target="_blank"]
 !#endif
 !
 ! Frequently changed domains: betisttv*.live
@@ -4518,7 +4518,7 @@ rotabettv511.com##body > a[href^="https://"][target="_blank"]
 [$domain=/betist\d+tv\.live/]##a[href^="https://cutt.ly/"]
 [$domain=/betist\d+tv\.live/]#$#body { background-image: none !important; }
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betist250tv.live#$#body { background-image: none !important; }
+betist252tv.live#$#body { background-image: none !important; }
 !#endif
 !
 ! Frequently changed domains: portobettv*.com
