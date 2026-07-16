@@ -72,7 +72,7 @@ sites:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-04-04 16:35
-    failed_days: 103
+    failed_days: 104
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -89,7 +89,7 @@ sites:
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     failed_since: 2026-04-17 16:54
-    failed_days: 90
+    failed_days: 91
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
@@ -106,10 +106,10 @@ sites:
     failed_days: 22
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
-    last_known_mirror: www.inattvizle481.top
+    last_known_mirror: www.inattvizle482.top
     accept_antibot: true
     geoblock: TR
-    success_since: 2026-07-16 13:47
+    success_since: 2026-07-16 17:03
   Frequently changed domains — Kralsports HD:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
@@ -145,8 +145,8 @@ sites:
     failed_days: 105
     potentially_dead: true
   Frequently changed domains — YavasGir:
-    last_known_mirror: yavasgir132.live
-    success_since: 2026-07-16 13:47
+    last_known_mirror: yavasgir133.live
+    success_since: 2026-07-16 17:03
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv32.com
     success_since: 2026-06-25 10:41
@@ -182,9 +182,9 @@ sites:
     accept_antibot: true
     success_since: 2026-06-25 10:41
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium202.top
+    last_known_mirror: www.taraftarium203.top
     accept_antibot: true
-    success_since: 2026-07-16 13:47
+    success_since: 2026-07-16 17:03
   patronspor04548a2wer45awes.cfd:
     initial_domain: https://t.co/sRxEaOU2pj
     last_known_mirror: raw.githack.com
