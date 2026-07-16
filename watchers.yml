@@ -106,10 +106,10 @@ sites:
     failed_days: 22
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
-    last_known_mirror: www.inattvizle484.top
+    last_known_mirror: www.inattvizle486.top
     accept_antibot: true
     geoblock: TR
-    success_since: 2026-07-16 20:45
+    success_since: 2026-07-16 20:55
   Frequently changed domains — Kralsports HD:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
@@ -182,9 +182,9 @@ sites:
     accept_antibot: true
     success_since: 2026-06-25 10:41
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium205.top
+    last_known_mirror: www.taraftarium206.top
     accept_antibot: true
-    success_since: 2026-07-16 20:45
+    success_since: 2026-07-16 20:55
   patronspor04548a2wer45awes.cfd:
     initial_domain: https://t.co/sRxEaOU2pj
     last_known_mirror: raw.githack.com
