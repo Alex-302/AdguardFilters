@@ -169,7 +169,7 @@ sites:
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     failed_since: 2026-07-20 13:48
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
@@ -215,5 +215,5 @@ sites:
     failed_days: 56
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas169.live
-    success_since: 2026-07-17 17:00
+    last_known_mirror: askimyavas170.live
+    success_since: 2026-07-20 14:03
