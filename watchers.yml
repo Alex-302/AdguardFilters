@@ -70,7 +70,7 @@ sites:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-04-04 16:35
-    failed_days: 107
+    failed_days: 108
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -87,7 +87,7 @@ sites:
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     failed_since: 2026-04-17 16:54
-    failed_days: 94
+    failed_days: 95
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
@@ -143,8 +143,8 @@ sites:
     failed_days: 109
     potentially_dead: true
   Frequently changed domains — YavasGir:
-    last_known_mirror: yavasgir134.live
-    success_since: 2026-07-17 20:43
+    last_known_mirror: yavasgir135.live
+    success_since: 2026-07-20 17:24
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv32.com
     success_since: 2026-06-25 10:41
