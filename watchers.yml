@@ -50,11 +50,11 @@ sites:
     failed_days: 82
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub170.sbs
-    success_since: 2026-07-17 17:00
+    last_known_mirror: turkifsaclub171.sbs
+    success_since: 2026-07-20 13:48
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub170.sbs
-    success_since: 2026-07-17 17:00
+    last_known_mirror: turkifsaclub171.sbs
+    success_since: 2026-07-20 13:48
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv26.com
     success_since: 2026-07-16 13:47
@@ -76,7 +76,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 125
+    failed_days: 126
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv87.shop
@@ -101,7 +101,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 25
+    failed_days: 26
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle490.top
@@ -168,7 +168,9 @@ sites:
     success_since: 2026-07-16 13:47
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
-    success_since: 2026-05-25
+    failed_since: 2026-07-20 13:48
+    failed_days: 0
+    potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
     last_known_mirror: www.papazsports1009.pro
