@@ -25,9 +25,7 @@ sites:
       - Malerei der Gruppe 3erlei
     pattern_changed: true
     non_pattern_mirror: example.de
-    failed_since: 2026-07-19 20:44
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-07-20 02:49
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
     last_known_mirror: www.sporcafe-f73f4b1803.xyz
     accept_antibot: true
@@ -66,7 +64,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 72
+    failed_days: 73
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -163,7 +161,7 @@ sites:
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 123
+    failed_days: 124
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
@@ -197,7 +195,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 145
+    failed_days: 146
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee360.com
