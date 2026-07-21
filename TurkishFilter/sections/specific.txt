@@ -4350,7 +4350,7 @@ turkifsaclub171.sbs#?#main > h3:contains(Sponsor Bannerlar)
 ||yavasgir*.com/*.gif
 [$domain=/yavasgir\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-yavasgir135.live##a[href^="https://cutt.ly/"]
+yavasgir136.live##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: askimyavas*.com
