@@ -78,7 +78,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 127
+    failed_days: 128
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv87.shop
@@ -103,7 +103,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 27
+    failed_days: 28
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle490.top
@@ -215,5 +215,5 @@ sites:
     failed_days: 58
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas170.live
-    success_since: 2026-07-20 14:03
+    last_known_mirror: askimyavas171.live
+    success_since: 2026-07-22 13:21
