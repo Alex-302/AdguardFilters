@@ -44,7 +44,7 @@ sites:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
     failed_since: 2026-07-22 02:31
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
@@ -52,11 +52,11 @@ sites:
     failed_days: 84
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub171.sbs
-    success_since: 2026-07-20 13:48
+    last_known_mirror: turkifsaclub173.sbs
+    success_since: 2026-07-22 10:15
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub171.sbs
-    success_since: 2026-07-20 13:48
+    last_known_mirror: turkifsaclub173.sbs
+    success_since: 2026-07-22 10:15
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv26.com
     success_since: 2026-07-16 13:47
