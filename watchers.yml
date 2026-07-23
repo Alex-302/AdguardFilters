@@ -33,8 +33,8 @@ sites:
     heuristic_history:
       - www.sporcafe-fdbce22650.xyz
     pattern_changed: true
-    non_pattern_mirror: www.sporcafe-e716af4ce9.xyz
-    success_since: 2026-07-17 17:00
+    non_pattern_mirror: www.sporcafe-c3e1f47c7b.xyz
+    success_since: 2026-07-23 13:24
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe615.sbs
     success_since: 2026-07-16 13:47
@@ -50,11 +50,11 @@ sites:
     failed_days: 85
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub174.sbs
-    success_since: 2026-07-23 10:11
+    last_known_mirror: turkifsaclub175.sbs
+    success_since: 2026-07-23 13:24
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub174.sbs
-    success_since: 2026-07-23 10:11
+    last_known_mirror: turkifsaclub175.sbs
+    success_since: 2026-07-23 13:24
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv26.com
     success_since: 2026-07-16 13:47
@@ -76,7 +76,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 128
+    failed_days: 129
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv87.shop
@@ -101,7 +101,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 28
+    failed_days: 29
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle490.top
