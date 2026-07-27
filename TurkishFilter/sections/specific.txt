@@ -4342,8 +4342,8 @@ turkifsaclub.org#?#main > h3:contains(Sponsor Bannerlar)
 [$domain=/turkifsaclub\d+\.sbs/]##.ads-grid
 [$domain=/turkifsaclub\d+\.sbs/]#?#main > h3:contains(Sponsor Bannerlar)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsaclub176.sbs##.ads-grid
-turkifsaclub176.sbs#?#main > h3:contains(Sponsor Bannerlar)
+turkifsaclub177.sbs##.ads-grid
+turkifsaclub177.sbs#?#main > h3:contains(Sponsor Bannerlar)
 !#endif
 !
 ! Frequently changed domains: yavasgir*.com
@@ -4510,7 +4510,7 @@ otobettv71.com##a[href^="https://cutt.ly/"]
 [$domain=/rotabettv\d+\.com/]##.nav > li.logomenu ~ li
 [$domain=/rotabettv\d+\.com/]##body > a[href^="https://"][target="_blank"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-rotabettv512.com##body > a[href^="https://"][target="_blank"]
+rotabettv513.com##body > a[href^="https://"][target="_blank"]
 !#endif
 !
 ! Frequently changed domains: betisttv*.live
