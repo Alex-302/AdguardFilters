@@ -4518,7 +4518,7 @@ rotabettv513.com##body > a[href^="https://"][target="_blank"]
 [$domain=/betist\d+tv\.live/]##a[href^="https://cutt.ly/"]
 [$domain=/betist\d+tv\.live/]#$#body { background-image: none !important; }
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betist254tv.live#$#body { background-image: none !important; }
+betist255tv.live#$#body { background-image: none !important; }
 !#endif
 !
 ! Frequently changed domains: portobettv*.com
