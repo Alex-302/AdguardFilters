@@ -4365,9 +4365,9 @@ primeembedpanel.com#%#//scriptlet('prevent-window-open')
 [$domain=/askimyavas\d+\.com/]#%#//scriptlet('remove-node-text', 'script', 'window.open')
 [$domain=/askimyavas\d+\.com/]$$script:contains(window.open)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-askimyavas173.live##a[href^="https://cutt.ly/"]
-askimyavas173.live###ads-inside-main
-askimyavas173.live#%#//scriptlet('remove-node-text', 'script', 'window.open')
+askimyavas174.live##a[href^="https://cutt.ly/"]
+askimyavas174.live###ads-inside-main
+askimyavas174.live#%#//scriptlet('remove-node-text', 'script', 'window.open')
 !#endif
 !
 ! Frequently changed domains: gobtv*.com
