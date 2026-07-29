@@ -39,11 +39,11 @@ sites:
     last_known_mirror: belestepe615.sbs
     success_since: 2026-07-16 13:47
   Frequently changed domains — dizipal*.com — Dizipal:
-    last_known_mirror: dizipal2089.com
+    last_known_mirror: dizipal2106.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    success_since: 2026-07-23 10:11
+    success_since: 2026-07-29 17:04
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
     failed_since: 2026-04-29 17:27
@@ -70,7 +70,7 @@ sites:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-04-04 16:35
-    failed_days: 116
+    failed_days: 117
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -87,7 +87,7 @@ sites:
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     failed_since: 2026-04-17 16:54
-    failed_days: 103
+    failed_days: 104
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
