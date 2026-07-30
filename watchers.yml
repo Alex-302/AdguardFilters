@@ -79,8 +79,8 @@ sites:
     failed_days: 135
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
-    last_known_mirror: vegatv87.shop
-    success_since: 2026-05-25
+    last_known_mirror: vegatv19.shop
+    success_since: 2026-07-30 10:13
   Frequently changed domains — betmatiktv*.com:
     last_known_mirror: betmatiktv154.com
     success_since: 2026-06-25 10:41

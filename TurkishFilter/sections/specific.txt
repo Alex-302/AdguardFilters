@@ -4428,7 +4428,7 @@ xsportv45.xyz,xsportv46.xyz,xsportv47.xyz,xsportv48.xyz,xsportv49.xyz,xsportv50.
 ||vegatv*.shop/*.gif
 [$domain=/vegatv\d+\.shop/]##a[href^="https://vegabetortaklik.com/links/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-vegatv87.shop##a[href^="https://vegabetortaklik.com/links/"]
+vegatv19.shop##a[href^="https://vegabetortaklik.com/links/"]
 !#endif
 !
 ! Frequently changed domains: betmatiktv*.com
