@@ -120,9 +120,7 @@ sites:
     success_since: 2026-07-16 13:47
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv514.com
-    failed_since: 2026-07-31 13:40
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-07-31 14:02
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist256tv.live
     probe_text:
