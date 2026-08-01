@@ -76,7 +76,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 137
+    failed_days: 138
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv19.shop
@@ -120,6 +120,7 @@ sites:
     success_since: 2026-07-16 13:47
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv514.com
+    success_since: 2026-08-01 13:17
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist256tv.live
     probe_text:
@@ -128,9 +129,7 @@ sites:
     geoblock: TR
     last_failed: 2026-02-20 20:45
     force_search_ahead: true
-    failed_since: 2026-08-01 12:56
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-08-01 13:17
   Frequently changed domains — portobettv*.com:
     last_known_mirror: www.portobettv55.com
     success_since: 2026-05-25
