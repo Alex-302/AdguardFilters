@@ -64,7 +64,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 84
+    failed_days: 85
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -120,9 +120,6 @@ sites:
     success_since: 2026-07-16 13:47
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv514.com
-    failed_since: 2026-07-31 21:02
-    failed_days: 0
-    potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist256tv.live
     probe_text:
@@ -150,8 +147,8 @@ sites:
     failed_days: 9
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
-    last_known_mirror: kodtimetv32.com
-    success_since: 2026-06-25 10:41
+    last_known_mirror: kodtimetv33.com
+    success_since: 2026-08-01 01:53
   amp-6392fa66a0.selcuksportshdamp-aa805a079c.click:
     last_known_mirror: amp-6392fa66a0.selcuksportshdamp-aa805a079c.click
     accept_antibot: true
