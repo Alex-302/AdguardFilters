@@ -101,7 +101,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 39
+    failed_days: 40
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle490.top
@@ -167,7 +167,9 @@ sites:
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
-    success_since: 2026-07-16 13:47
+    failed_since: 2026-08-03 11:20
+    failed_days: 0
+    potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     success_since: 2026-07-22 02:31
