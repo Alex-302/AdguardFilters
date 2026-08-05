@@ -64,7 +64,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 88
+    failed_days: 89
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -76,7 +76,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 141
+    failed_days: 142
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv19.shop
@@ -101,7 +101,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 41
+    failed_days: 42
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle490.top
@@ -140,12 +140,12 @@ sites:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 124
+    failed_days: 125
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 13
+    failed_days: 14
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv33.com
@@ -163,12 +163,12 @@ sites:
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 139
+    failed_days: 140
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 2
+    failed_days: 3
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
@@ -180,9 +180,9 @@ sites:
     force_search_ahead: true
     success_since: 2026-05-25 21:02
   www.selcuksportshd8443661f57.xyz:
-    last_known_mirror: www.selcuksportshd899ff9a3e6.xyz
+    last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
-    success_since: 2026-08-04 17:47
+    success_since: 2026-08-05 13:42
   www.taraftarium91.top:
     last_known_mirror: www.taraftarium210.top
     accept_antibot: true
@@ -199,7 +199,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 161
+    failed_days: 162
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee362.com
