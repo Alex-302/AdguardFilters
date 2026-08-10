@@ -104,10 +104,10 @@ sites:
     failed_days: 47
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
-    last_known_mirror: www.inattvizle491.top
+    last_known_mirror: www.inattvizle492.top
     accept_antibot: true
     geoblock: TR
-    success_since: 2026-08-10 16:43
+    success_since: 2026-08-10 16:53
   Frequently changed domains — Kralsports HD:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
