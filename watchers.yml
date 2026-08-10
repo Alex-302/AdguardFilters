@@ -104,10 +104,10 @@ sites:
     failed_days: 47
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
-    last_known_mirror: www.inattvizle494.top
+    last_known_mirror: www.inattvizle495.top
     accept_antibot: true
     geoblock: TR
-    success_since: 2026-08-10 20:31
+    success_since: 2026-08-10 20:40
   Frequently changed domains — Kralsports HD:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
@@ -140,7 +140,7 @@ sites:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 130
+    failed_days: 131
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
