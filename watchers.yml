@@ -178,7 +178,9 @@ sites:
     last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-10 12:44
+    failed_since: 2026-08-11 13:00
+    failed_days: 0
+    potentially_dead: true
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
