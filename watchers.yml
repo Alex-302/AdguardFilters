@@ -64,7 +64,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 94
+    failed_days: 95
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -104,10 +104,10 @@ sites:
     failed_days: 47
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
-    last_known_mirror: www.inattvizle495.top
+    last_known_mirror: www.inattvizle496.top
     accept_antibot: true
     geoblock: TR
-    success_since: 2026-08-10 20:40
+    success_since: 2026-08-11 00:57
   Frequently changed domains — Kralsports HD:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
