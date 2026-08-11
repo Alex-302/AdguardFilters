@@ -87,7 +87,7 @@ sites:
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     failed_since: 2026-04-17 16:54
-    failed_days: 116
+    failed_days: 117
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
@@ -129,7 +129,9 @@ sites:
     geoblock: TR
     last_failed: 2026-02-20 20:45
     force_search_ahead: true
-    success_since: 2026-08-01 13:17
+    failed_since: 2026-08-11 16:56
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — portobettv*.com:
     last_known_mirror: www.portobettv55.com
     success_since: 2026-05-25
@@ -178,9 +180,7 @@ sites:
     last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    failed_since: 2026-08-11 13:00
-    failed_days: 1
-    potentially_dead: true
+    success_since: 2026-08-11 16:56
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
