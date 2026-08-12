@@ -101,7 +101,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 48
+    failed_days: 49
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -145,7 +145,7 @@ sites:
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 20
+    failed_days: 21
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv33.com
@@ -159,16 +159,18 @@ sites:
     success_since: 2026-05-25
   piabettv14.live:
     last_known_mirror: piabettv21.live
-    success_since: 2026-07-30 06:19
+    failed_since: 2026-08-12 13:05
+    failed_days: 0
+    potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 146
+    failed_days: 147
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 9
+    failed_days: 10
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
@@ -199,7 +201,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 168
+    failed_days: 169
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee362.com
