@@ -64,7 +64,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 95
+    failed_days: 96
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -79,8 +79,8 @@ sites:
     failed_days: 148
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
-    last_known_mirror: vegatv19.shop
-    success_since: 2026-07-30 10:13
+    last_known_mirror: vegatv21.shop
+    success_since: 2026-08-12 01:48
   Frequently changed domains — betmatiktv*.com:
     last_known_mirror: betmatiktv155.com
     success_since: 2026-08-07 00:50
