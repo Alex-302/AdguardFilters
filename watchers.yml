@@ -8,7 +8,7 @@ sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
-    failed_days: 171
+    failed_days: 172
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Fail - example.org:
@@ -16,7 +16,7 @@ sites:
     probe_text:
       - not existing text
     last_failed: 2026-01-25 13:22
-    failed_days: 171
+    failed_days: 172
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Success - example.de:
@@ -33,8 +33,8 @@ sites:
     heuristic_history:
       - www.sporcafe-fdbce22650.xyz
     pattern_changed: true
-    non_pattern_mirror: www.sporcafe-6935f710b1.xyz
-    success_since: 2026-08-11 08:43
+    non_pattern_mirror: www.sporcafe-0c2608ad69.xyz
+    success_since: 2026-08-12 20:41
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe625.sbs
     success_since: 2026-08-08 04:46
@@ -47,7 +47,7 @@ sites:
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
     failed_since: 2026-04-29 17:27
-    failed_days: 105
+    failed_days: 106
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
     last_known_mirror: turkifsaclub185.sbs
@@ -87,12 +87,12 @@ sites:
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     failed_since: 2026-04-17 16:54
-    failed_days: 117
+    failed_days: 118
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
     last_failed: 2026-02-17 20:13
-    failed_days: 171
+    failed_days: 172
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
@@ -112,7 +112,7 @@ sites:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
-    failed_days: 171
+    failed_days: 172
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
@@ -140,7 +140,7 @@ sites:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 132
+    failed_days: 133
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
@@ -206,7 +206,9 @@ sites:
   torrentsee:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
-    success_since: 2026-08-03 06:58
+    failed_since: 2026-08-12 20:41
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     success_since: 2026-05-25
@@ -216,7 +218,7 @@ sites:
       - Redirecting...
     path: e/nemg6vqtnrkf
     failed_since: 2026-05-25 17:42
-    failed_days: 79
+    failed_days: 80
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas180.live
