@@ -64,7 +64,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 96
+    failed_days: 97
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -116,8 +116,8 @@ sites:
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
-    last_known_mirror: otobettv74.com
-    success_since: 2026-08-10 12:44
+    last_known_mirror: otobettv75.com
+    success_since: 2026-08-13 01:05
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv514.com
     success_since: 2026-08-11 05:07
@@ -207,7 +207,7 @@ sites:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
     failed_since: 2026-08-12 20:41
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
