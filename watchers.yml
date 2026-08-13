@@ -160,7 +160,7 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
@@ -206,7 +206,9 @@ sites:
   torrentsee:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
-    success_since: 2026-08-13 09:10
+    failed_since: 2026-08-13 13:06
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     success_since: 2026-05-25
@@ -220,6 +222,4 @@ sites:
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas180.live
-    failed_since: 2026-08-13 12:45
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-08-13 13:06
