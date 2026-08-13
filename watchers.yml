@@ -181,7 +181,7 @@ sites:
     accept_antibot: true
     force_search_ahead: true
     failed_since: 2026-08-13 05:44
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
@@ -208,9 +208,7 @@ sites:
   torrentsee:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
-    failed_since: 2026-08-13 05:44
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-08-13 09:10
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     success_since: 2026-05-25
