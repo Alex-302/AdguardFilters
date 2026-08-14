@@ -101,7 +101,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 50
+    failed_days: 51
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -170,7 +170,7 @@ sites:
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 11
+    failed_days: 12
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
@@ -180,7 +180,9 @@ sites:
     last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-13 12:45
+    failed_since: 2026-08-14 13:02
+    failed_days: 0
+    potentially_dead: true
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
@@ -207,7 +209,7 @@ sites:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
     failed_since: 2026-08-14 09:05
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
