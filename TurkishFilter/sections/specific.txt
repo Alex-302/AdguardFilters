@@ -5422,9 +5422,9 @@ www.inattvizle500.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports1009.pro,www.papazsports1020.pro,www.papazsports1011.pro,www.papazsports1012.pro,www.papazsports1013.pro,www.papazsports1014.pro,www.papazsports1015.pro,www.papazsports1017.pro,www.papazsports1016.pro,www.papazsports1018.pro,www.papazsports1019.pro,www.papazsports1010.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports1009.pro,www.papazsports1020.pro,www.papazsports1011.pro,www.papazsports1012.pro,www.papazsports1013.pro,www.papazsports1014.pro,www.papazsports1015.pro,www.papazsports1017.pro,www.papazsports1016.pro,www.papazsports1018.pro,www.papazsports1019.pro,www.papazsports1010.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports1009.pro,www.papazsports1020.pro,www.papazsports1011.pro,www.papazsports1012.pro,www.papazsports1013.pro,www.papazsports1014.pro,www.papazsports1015.pro,www.papazsports1017.pro,www.papazsports1016.pro,www.papazsports1018.pro,www.papazsports1019.pro,www.papazsports1010.pro##.header-banner
+www.papazsports1020.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports1020.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports1020.pro##.header-banner
 !#endif
 !
 ! START: Yandex
