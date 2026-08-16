@@ -206,9 +206,7 @@ sites:
   torrentsee:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
-    failed_since: 2026-08-16 20:10
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-08-16 20:19
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     success_since: 2026-05-25
