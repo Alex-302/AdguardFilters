@@ -39,11 +39,11 @@ sites:
     last_known_mirror: belestepe625.sbs
     success_since: 2026-08-08 04:46
   Frequently changed domains — dizipal*.com — Dizipal:
-    last_known_mirror: dizipal2111.com
+    last_known_mirror: dizipal2112.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    success_since: 2026-08-14 16:41
+    success_since: 2026-08-16 00:41
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
     failed_since: 2026-04-29 17:27
@@ -64,7 +64,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 99
+    failed_days: 100
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -140,7 +140,7 @@ sites:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 135
+    failed_days: 136
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
@@ -177,10 +177,10 @@ sites:
     success_since: 2026-07-22 02:31
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1020.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-15 20:11
+    success_since: 2026-08-16 00:41
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
