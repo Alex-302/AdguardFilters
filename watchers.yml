@@ -174,7 +174,9 @@ sites:
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
-    success_since: 2026-07-22 02:31
+    failed_since: 2026-08-17 08:41
+    failed_days: 0
+    potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
     last_known_mirror: www.papazsports1009.pro
@@ -206,9 +208,7 @@ sites:
   torrentsee:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
-    failed_since: 2026-08-17 04:40
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-08-17 08:41
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     success_since: 2026-05-25
