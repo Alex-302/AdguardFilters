@@ -76,7 +76,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 154
+    failed_days: 155
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv21.shop
@@ -160,7 +160,7 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 6
+    failed_days: 7
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
@@ -180,9 +180,7 @@ sites:
     last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    failed_since: 2026-08-18 04:33
-    failed_days: 1
-    potentially_dead: true
+    success_since: 2026-08-18 16:29
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
