@@ -1,7 +1,7 @@
 sites:
   ww0.jmanga.cash:
-    last_known_mirror: jmanga.farm
-    success_since: 2026-08-10 12:44
+    last_known_mirror: jmanga.land
+    success_since: 2026-08-18 12:23
   zonatmo.to:
     last_known_mirror: zonatmo.to
     success_since: 2026-05-25
@@ -101,7 +101,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 54
+    failed_days: 55
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -170,7 +170,7 @@ sites:
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 15
+    failed_days: 16
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
@@ -181,7 +181,7 @@ sites:
     accept_antibot: true
     force_search_ahead: true
     failed_since: 2026-08-18 04:33
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
