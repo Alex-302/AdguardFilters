@@ -8,7 +8,7 @@ sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
-    failed_days: 178
+    failed_days: 179
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Fail - example.org:
@@ -16,7 +16,7 @@ sites:
     probe_text:
       - not existing text
     last_failed: 2026-01-25 13:22
-    failed_days: 178
+    failed_days: 179
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Success - example.de:
@@ -47,7 +47,7 @@ sites:
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
     failed_since: 2026-04-29 17:27
-    failed_days: 112
+    failed_days: 113
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
     last_known_mirror: turkifsaclub187.sbs
@@ -70,13 +70,13 @@ sites:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-04-04 16:35
-    failed_days: 137
+    failed_days: 138
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 155
+    failed_days: 156
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv21.shop
@@ -87,21 +87,21 @@ sites:
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     failed_since: 2026-04-17 16:54
-    failed_days: 124
+    failed_days: 125
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
     last_failed: 2026-02-17 20:13
-    failed_days: 178
+    failed_days: 179
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
-    last_known_mirror: acartv104.live
-    success_since: 2026-08-14 16:41
+    last_known_mirror: acartv105.live
+    success_since: 2026-08-19 20:15
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 55
+    failed_days: 56
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -112,7 +112,7 @@ sites:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
-    failed_days: 178
+    failed_days: 179
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — otobettv*.com:
@@ -136,7 +136,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -162,7 +162,7 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 7
+    failed_days: 8
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
@@ -172,7 +172,7 @@ sites:
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 16
+    failed_days: 17
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
@@ -218,7 +218,7 @@ sites:
       - Redirecting...
     path: e/nemg6vqtnrkf
     failed_since: 2026-05-25 17:42
-    failed_days: 86
+    failed_days: 87
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas183.live
