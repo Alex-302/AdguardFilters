@@ -135,7 +135,9 @@ sites:
     success_since: 2026-05-25
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
-    success_since: 2026-06-25 10:41
+    failed_since: 2026-08-19 08:35
+    failed_days: 0
+    potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
@@ -145,7 +147,7 @@ sites:
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 27
+    failed_days: 28
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv33.com
@@ -165,7 +167,7 @@ sites:
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 153
+    failed_days: 154
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
@@ -201,7 +203,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 175
+    failed_days: 176
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee362.com
