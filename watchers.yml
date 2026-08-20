@@ -64,7 +64,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 103
+    failed_days: 104
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -142,7 +142,7 @@ sites:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 139
+    failed_days: 140
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
@@ -179,10 +179,10 @@ sites:
     success_since: 2026-08-18 01:07
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1009.pro
+    last_known_mirror: www.papazsports1011.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-18 16:29
+    success_since: 2026-08-20 00:38
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
