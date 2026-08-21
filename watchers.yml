@@ -5,7 +5,7 @@ sites:
   zonatmo.to:
     last_known_mirror: zonatmo.to
     failed_since: 2026-08-21 08:27
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
@@ -105,7 +105,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 57
+    failed_days: 58
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -140,7 +140,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 2
+    failed_days: 3
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -176,17 +176,17 @@ sites:
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 18
+    failed_days: 19
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     success_since: 2026-08-18 01:07
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1012.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-21 08:27
+    success_since: 2026-08-21 12:25
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
