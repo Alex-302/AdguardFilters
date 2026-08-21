@@ -4,7 +4,9 @@ sites:
     success_since: 2026-08-18 12:23
   zonatmo.to:
     last_known_mirror: zonatmo.to
-    success_since: 2026-05-25
+    failed_since: 2026-08-21 08:27
+    failed_days: 0
+    potentially_dead: true
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
@@ -181,10 +183,10 @@ sites:
     success_since: 2026-08-18 01:07
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1020.pro
+    last_known_mirror: www.papazsports1012.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-21 04:36
+    success_since: 2026-08-21 08:27
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
