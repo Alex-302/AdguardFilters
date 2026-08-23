@@ -224,4 +224,6 @@ sites:
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas183.live
-    success_since: 2026-08-16 20:10
+    failed_since: 2026-08-23 01:13
+    failed_days: 0
+    potentially_dead: true
