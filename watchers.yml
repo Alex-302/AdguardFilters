@@ -149,7 +149,7 @@ sites:
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 32
+    failed_days: 33
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv33.com
@@ -169,7 +169,7 @@ sites:
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 158
+    failed_days: 159
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
@@ -181,10 +181,10 @@ sites:
     success_since: 2026-08-18 01:07
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-24 01:10
+    success_since: 2026-08-24 04:42
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
@@ -205,7 +205,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 180
+    failed_days: 181
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee362.com
