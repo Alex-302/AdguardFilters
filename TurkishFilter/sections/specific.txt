@@ -4510,7 +4510,7 @@ otobettv78.com##a[href^="https://cutt.ly/"]
 [$domain=/rotabettv\d+\.com/]##.nav > li.logomenu ~ li
 [$domain=/rotabettv\d+\.com/]##body > a[href^="https://"][target="_blank"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-rotabettv514.com##body > a[href^="https://"][target="_blank"]
+rotabettv513.com##body > a[href^="https://"][target="_blank"]
 !#endif
 !
 ! Frequently changed domains: betisttv*.live
@@ -5422,9 +5422,9 @@ www.inattvizle500.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports1012.pro,www.papazsports1021.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports1012.pro,www.papazsports1021.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports1012.pro,www.papazsports1021.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro##.header-banner
+www.papazsports1009.pro,www.papazsports1021.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro,www.papazsports1011.pro,www.papazsports1018.pro,www.papazsports1012.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports1009.pro,www.papazsports1021.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro,www.papazsports1011.pro,www.papazsports1018.pro,www.papazsports1012.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports1009.pro,www.papazsports1021.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro,www.papazsports1011.pro,www.papazsports1018.pro,www.papazsports1012.pro##.header-banner
 !#endif
 !
 ! START: Yandex

@@ -105,7 +105,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 62
+    failed_days: 63
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -123,8 +123,8 @@ sites:
     last_known_mirror: otobettv78.com
     success_since: 2026-08-24 20:18
   Frequently changed domains — rotabettv*.com:
-    last_known_mirror: rotabettv514.com
-    success_since: 2026-08-11 05:07
+    last_known_mirror: rotabettv513.com
+    success_since: 2026-08-26 12:29
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist257tv.live
     probe_text:
@@ -176,17 +176,19 @@ sites:
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 23
+    failed_days: 24
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
-    success_since: 2026-08-18 01:07
+    failed_since: 2026-08-26 12:29
+    failed_days: 0
+    potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1012.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-26 08:40
+    success_since: 2026-08-26 12:29
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshd0f9c045ffb.xyz
     accept_antibot: true
