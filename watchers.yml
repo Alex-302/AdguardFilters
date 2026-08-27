@@ -185,10 +185,10 @@ sites:
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1009.pro
+    last_known_mirror: www.papazsports1014.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-26 12:29
+    success_since: 2026-08-27 18:51
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshdbd813bd00f.xyz
     accept_antibot: true
