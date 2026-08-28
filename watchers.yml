@@ -39,11 +39,11 @@ sites:
     last_known_mirror: belestepe645.sbs
     success_since: 2026-08-20 08:25
   Frequently changed domains — dizipal*.com — Dizipal:
-    last_known_mirror: dizipal2120.com
+    last_known_mirror: dizipal2121.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    success_since: 2026-08-28 03:55
+    success_since: 2026-08-28 15:47
     heuristic_history:
       - dizipal2116.com
     pattern_changed: true
@@ -54,11 +54,11 @@ sites:
     failed_days: 121
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub191.sbs
-    success_since: 2026-08-27 18:37
+    last_known_mirror: turkifsaclub192.sbs
+    success_since: 2026-08-28 15:47
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub191.sbs
-    success_since: 2026-08-27 18:37
+    last_known_mirror: turkifsaclub192.sbs
+    success_since: 2026-08-28 15:47
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv26.com
     success_since: 2026-07-16 13:47
@@ -80,7 +80,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 164
+    failed_days: 165
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv21.shop
@@ -105,7 +105,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 64
+    failed_days: 65
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -140,7 +140,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 9
+    failed_days: 10
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -166,7 +166,7 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 16
+    failed_days: 17
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
@@ -176,12 +176,12 @@ sites:
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 25
+    failed_days: 26
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     failed_since: 2026-08-26 12:29
-    failed_days: 2
+    failed_days: 3
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
@@ -227,5 +227,5 @@ sites:
     failed_days: 95
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas183.live
-    success_since: 2026-08-23 04:34
+    last_known_mirror: askimyavas184.live
+    success_since: 2026-08-28 15:47
