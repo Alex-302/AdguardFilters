@@ -105,7 +105,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 65
+    failed_days: 66
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -140,7 +140,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 10
+    failed_days: 11
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -185,10 +185,10 @@ sites:
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1009.pro
+    last_known_mirror: www.papazsports1017.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-28 04:02
+    success_since: 2026-08-29 10:48
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshdbd813bd00f.xyz
     accept_antibot: true
