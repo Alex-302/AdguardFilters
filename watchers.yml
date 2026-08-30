@@ -185,10 +185,10 @@ sites:
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-30 22:14
+    success_since: 2026-08-30 22:24
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshdbd813bd00f.xyz
     accept_antibot: true
@@ -214,9 +214,7 @@ sites:
   torrentsee:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
-    failed_since: 2026-08-30 18:56
-    failed_days: 1
-    potentially_dead: true
+    success_since: 2026-08-30 22:24
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     success_since: 2026-05-25
