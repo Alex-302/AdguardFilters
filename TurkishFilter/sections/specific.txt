@@ -4518,7 +4518,7 @@ rotabettv515.com##body > a[href^="https://"][target="_blank"]
 [$domain=/betist\d+tv\.live/]##a[href^="https://cutt.ly/"]
 [$domain=/betist\d+tv\.live/]#$#body { background-image: none !important; }
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betist258tv.live,betist259tv.live,betist260tv.live,betist261tv.live,betist262tv.live,betist263tv.live,betist264tv.live,betist265tv.live,betist266tv.live,betist267tv.live,betist268tv.live,betist269tv.live,betist270tv.live,betist271tv.live,betist272tv.live,betist273tv.live,betist274tv.live,betist275tv.live,betist276tv.live,betist277tv.live,betist278tv.live,betist279tv.live,betist280tv.live#$#body { background-image: none !important; }
+betist259tv.live,betist260tv.live,betist261tv.live,betist262tv.live,betist263tv.live,betist264tv.live,betist265tv.live,betist266tv.live,betist267tv.live,betist268tv.live,betist269tv.live,betist270tv.live,betist271tv.live,betist272tv.live,betist273tv.live,betist274tv.live,betist275tv.live,betist276tv.live,betist277tv.live,betist278tv.live,betist279tv.live,betist280tv.live#$#body { background-image: none !important; }
 !#endif
 !
 ! Frequently changed domains: portobettv*.com
