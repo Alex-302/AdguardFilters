@@ -39,11 +39,11 @@ sites:
     last_known_mirror: belestepe559.sbs
     success_since: 2026-08-29 15:56
   Frequently changed domains — dizipal*.com — Dizipal:
-    last_known_mirror: dizipal2122.com
+    last_known_mirror: dizipal2123.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    success_since: 2026-09-01 09:00
+    success_since: 2026-09-01 16:05
     heuristic_history:
       - dizipal2116.com
     pattern_changed: true
