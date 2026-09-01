@@ -39,11 +39,11 @@ sites:
     last_known_mirror: belestepe559.sbs
     success_since: 2026-08-29 15:56
   Frequently changed domains — dizipal*.com — Dizipal:
-    last_known_mirror: dizipal2121.com
+    last_known_mirror: dizipal2122.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    success_since: 2026-08-28 15:47
+    success_since: 2026-09-01 09:00
     heuristic_history:
       - dizipal2116.com
     pattern_changed: true
@@ -140,7 +140,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 13
+    failed_days: 14
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
