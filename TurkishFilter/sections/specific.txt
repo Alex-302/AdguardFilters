@@ -4496,7 +4496,7 @@ bosssports612.com##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
 ||kralsportshd*.com/player.jpg
 [$domain=/kralsportshd\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-kralsportshd7.com,kralsportshd8.com,kralsportshd9.com,kralsportshd10.com,kralsportshd11.com,kralsportshd12.com,kralsportshd13.com,kralsportshd14.com,kralsportshd15.com,kralsportshd16.com,kralsportshd17.com,kralsportshd18.com,kralsportshd19.com,kralsportshd20.com,kralsportshd21.com,kralsportshd22.com,kralsportshd23.com,kralsportshd24.com,kralsportshd25.com,kralsportshd26.com##a[href^="https://cutt.ly/"]
+kralsportshd7.com,kralsportshd10.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: otobettv*.com
@@ -5422,9 +5422,9 @@ www.inattvizle500.top##.under-vid-banner
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! papazsports*.pro
-www.papazsports1009.pro,www.papazsports1021.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro,www.papazsports1016.pro,www.papazsports1011.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
-www.papazsports1009.pro,www.papazsports1021.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro,www.papazsports1016.pro,www.papazsports1011.pro#%#//scriptlet('set-constant', 'puShown', 'true')
-www.papazsports1009.pro,www.papazsports1021.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro,www.papazsports1016.pro,www.papazsports1011.pro##.header-banner
+www.papazsports1010.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro#%#//scriptlet('adjust-setInterval', 'reklam_', '*', '0.001')
+www.papazsports1010.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro#%#//scriptlet('set-constant', 'puShown', 'true')
+www.papazsports1010.pro,www.papazsports1022.pro,www.papazsports1023.pro,www.papazsports1024.pro,www.papazsports1025.pro,www.papazsports1026.pro,www.papazsports1027.pro,www.papazsports1028.pro,www.papazsports1029.pro,www.papazsports1030.pro##.header-banner
 !#endif
 !
 ! START: Yandex
