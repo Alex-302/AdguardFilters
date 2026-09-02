@@ -116,6 +116,7 @@ sites:
     force_search_ahead: true
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
+    success_since: 2026-09-02 08:24
   Frequently changed domains — otobettv*.com:
     last_known_mirror: otobettv80.com
     success_since: 2026-08-27 18:37
@@ -182,10 +183,10 @@ sites:
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-09-02 08:14
+    success_since: 2026-09-02 08:24
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshdbd813bd00f.xyz
     accept_antibot: true
