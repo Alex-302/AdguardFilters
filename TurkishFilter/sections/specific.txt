@@ -4496,7 +4496,7 @@ bosssports612.com##ul > li > a:not([href^="https://bosssports"][href$=".com/"])
 ||kralsportshd*.com/player.jpg
 [$domain=/kralsportshd\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-kralsportshd7.com,kralsportshd10.com##a[href^="https://cutt.ly/"]
+kralsportshd7.com,kralsportshd10.com,kralsportshd8.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: otobettv*.com
