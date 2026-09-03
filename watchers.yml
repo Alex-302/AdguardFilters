@@ -36,8 +36,8 @@ sites:
     non_pattern_mirror: www.sporcafe-0c2608ad69.xyz
     success_since: 2026-08-14 05:37
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe559.sbs
-    success_since: 2026-08-29 15:56
+    last_known_mirror: belestepe549.sbs
+    success_since: 2026-09-03 02:02
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal2123.com
     probe_text:
@@ -68,7 +68,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 117
+    failed_days: 118
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -118,8 +118,8 @@ sites:
     last_failed: 2026-01-25 13:22
     success_since: 2026-09-02 08:24
   Frequently changed domains — otobettv*.com:
-    last_known_mirror: otobettv80.com
-    success_since: 2026-08-27 18:37
+    last_known_mirror: otobettv81.com
+    success_since: 2026-09-03 02:02
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv515.com
     success_since: 2026-08-27 18:37
@@ -144,7 +144,7 @@ sites:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 153
+    failed_days: 154
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
