@@ -39,11 +39,11 @@ sites:
     last_known_mirror: belestepe549.sbs
     success_since: 2026-09-03 02:02
   Frequently changed domains — dizipal*.com — Dizipal:
-    last_known_mirror: dizipal2123.com
+    last_known_mirror: dizipal2124.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    success_since: 2026-09-01 16:05
+    success_since: 2026-09-04 15:26
     heuristic_history:
       - dizipal2116.com
     pattern_changed: true
@@ -80,7 +80,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 171
+    failed_days: 172
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv59.shop
@@ -105,7 +105,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 71
+    failed_days: 72
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -138,7 +138,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 16
+    failed_days: 17
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -149,7 +149,7 @@ sites:
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 43
+    failed_days: 44
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv33.com
@@ -164,22 +164,22 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 23
+    failed_days: 24
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 169
+    failed_days: 170
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 32
+    failed_days: 33
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     failed_since: 2026-08-26 12:29
-    failed_days: 9
+    failed_days: 10
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
@@ -207,7 +207,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 191
+    failed_days: 192
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee362.com
