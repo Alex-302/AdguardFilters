@@ -8,7 +8,7 @@ sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
-    failed_days: 194
+    failed_days: 195
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Fail - example.org:
@@ -16,7 +16,7 @@ sites:
     probe_text:
       - not existing text
     last_failed: 2026-01-25 13:22
-    failed_days: 194
+    failed_days: 195
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Success - example.de:
@@ -39,11 +39,11 @@ sites:
     last_known_mirror: belestepe549.sbs
     success_since: 2026-09-03 02:02
   Frequently changed domains — dizipal*.com — Dizipal:
-    last_known_mirror: dizipal2124.com
+    last_known_mirror: dizipal2125.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    success_since: 2026-09-04 15:26
+    success_since: 2026-09-04 18:42
     heuristic_history:
       - dizipal2116.com
     pattern_changed: true
@@ -51,7 +51,7 @@ sites:
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
     failed_since: 2026-04-29 17:27
-    failed_days: 128
+    failed_days: 129
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
     last_known_mirror: turkifsaclub194.sbs
@@ -74,7 +74,7 @@ sites:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-04-04 16:35
-    failed_days: 153
+    failed_days: 154
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -83,25 +83,25 @@ sites:
     failed_days: 172
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
-    last_known_mirror: vegatv59.shop
-    success_since: 2026-09-04 01:58
+    last_known_mirror: vegatv69.shop
+    success_since: 2026-09-04 18:42
   Frequently changed domains — betmatiktv*.com:
     last_known_mirror: betmatiktv155.com
     success_since: 2026-08-07 00:50
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     failed_since: 2026-04-17 16:54
-    failed_days: 140
+    failed_days: 141
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
     last_failed: 2026-02-17 20:13
-    failed_days: 194
+    failed_days: 195
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
-    last_known_mirror: acartv105.live
-    success_since: 2026-08-19 20:15
+    last_known_mirror: acartv106.live
+    success_since: 2026-09-04 18:42
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
@@ -222,7 +222,7 @@ sites:
       - Redirecting...
     path: e/nemg6vqtnrkf
     failed_since: 2026-05-25 17:42
-    failed_days: 102
+    failed_days: 103
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas186.live
