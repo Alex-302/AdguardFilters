@@ -39,11 +39,11 @@ sites:
     last_known_mirror: belestepe549.sbs
     success_since: 2026-09-03 02:02
   Frequently changed domains — dizipal*.com — Dizipal:
-    last_known_mirror: dizipal2125.com
+    last_known_mirror: dizipal2126.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
-    success_since: 2026-09-04 18:42
+    success_since: 2026-09-05 11:30
     heuristic_history:
       - dizipal2116.com
     pattern_changed: true
@@ -105,7 +105,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 72
+    failed_days: 73
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -138,7 +138,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 17
+    failed_days: 18
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -174,7 +174,7 @@ sites:
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 33
+    failed_days: 34
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
