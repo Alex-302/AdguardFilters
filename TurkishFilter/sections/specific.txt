@@ -4503,7 +4503,7 @@ kralsportshd7.com,kralsportshd10.com,kralsportshd8.com##a[href^="https://cutt.ly
 ||otobettv*.com/banner.gif
 [$domain=/otobettv\d+\.com/]##a[href^="https://cutt.ly/"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-otobettv81.com##a[href^="https://cutt.ly/"]
+otobettv82.com##a[href^="https://cutt.ly/"]
 !#endif
 !
 ! Frequently changed domains: rotabettv*.com
