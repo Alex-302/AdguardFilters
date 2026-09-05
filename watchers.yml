@@ -1,7 +1,7 @@
 sites:
   ww0.jmanga.cash:
-    last_known_mirror: jmanga.world
-    success_since: 2026-08-29 02:43
+    last_known_mirror: jmanga.email
+    success_since: 2026-09-05 01:59
   zonatmo.to:
     last_known_mirror: zonatmo.to
     success_since: 2026-08-25 20:17
@@ -183,10 +183,10 @@ sites:
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1009.pro
+    last_known_mirror: www.papazsports1010.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-09-04 01:58
+    success_since: 2026-09-05 01:59
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshdbd813bd00f.xyz
     accept_antibot: true
@@ -226,6 +226,3 @@ sites:
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas186.live
-    failed_since: 2026-09-04 22:07
-    failed_days: 0
-    potentially_dead: true
