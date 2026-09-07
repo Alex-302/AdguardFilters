@@ -74,13 +74,13 @@ sites:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-04-04 16:35
-    failed_days: 156
+    failed_days: 157
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 174
+    failed_days: 175
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv69.shop
@@ -105,7 +105,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 74
+    failed_days: 75
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -164,7 +164,7 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 26
+    failed_days: 27
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
@@ -174,19 +174,19 @@ sites:
   sultansportv562.com:
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 11:20
-    failed_days: 35
+    failed_days: 36
     potentially_dead: true
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     failed_since: 2026-08-26 12:29
-    failed_days: 12
+    failed_days: 13
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1011.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-09-07 08:44
+    success_since: 2026-09-07 16:51
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshdbd813bd00f.xyz
     accept_antibot: true
@@ -213,7 +213,7 @@ sites:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
     failed_since: 2026-09-06 14:57
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
