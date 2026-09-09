@@ -48,7 +48,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: resmi.dizipal2117.com
     failed_since: 2026-09-09 03:11
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
@@ -140,7 +140,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 21
+    failed_days: 22
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -185,10 +185,10 @@ sites:
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1010.pro
+    last_known_mirror: www.papazsports1009.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-09-08 22:10
+    success_since: 2026-09-09 08:38
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshdbd813bd00f.xyz
     accept_antibot: true
