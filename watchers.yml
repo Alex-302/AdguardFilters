@@ -140,7 +140,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 22
+    failed_days: 23
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -185,10 +185,10 @@ sites:
     potentially_dead: true
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1009.pro
+    last_known_mirror: www.papazsports1011.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-09-09 08:38
+    success_since: 2026-09-10 08:39
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshdbd813bd00f.xyz
     accept_antibot: true
@@ -228,6 +228,4 @@ sites:
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas187.live
-    failed_since: 2026-09-10 03:11
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-09-10 08:39
