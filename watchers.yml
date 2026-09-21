@@ -124,9 +124,7 @@ sites:
     success_since: 2026-09-17 15:52
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv515.com
-    failed_since: 2026-09-21 03:25
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-09-21 09:37
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist259tv.live
     probe_text:
@@ -142,7 +140,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 33
+    failed_days: 34
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
