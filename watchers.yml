@@ -56,11 +56,11 @@ sites:
     failed_days: 145
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub202.sbs
-    success_since: 2026-09-18 15:26
+    last_known_mirror: turkifsaclub203.sbs
+    success_since: 2026-09-21 17:24
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub202.sbs
-    success_since: 2026-09-18 15:26
+    last_known_mirror: turkifsaclub203.sbs
+    success_since: 2026-09-21 17:24
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv26.com
     success_since: 2026-07-16 13:47
@@ -76,13 +76,13 @@ sites:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-04-04 16:35
-    failed_days: 170
+    failed_days: 171
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 188
+    failed_days: 189
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv89.shop
@@ -93,7 +93,7 @@ sites:
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     failed_since: 2026-04-17 16:54
-    failed_days: 157
+    failed_days: 158
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
@@ -107,7 +107,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 88
+    failed_days: 89
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -126,14 +126,14 @@ sites:
     last_known_mirror: rotabettv515.com
     success_since: 2026-09-21 09:37
   Frequently changed domains — betist*tv.live:
-    last_known_mirror: betist259tv.live
+    last_known_mirror: betist260tv.live
     probe_text:
       - const BASE_URL  = "https://betist
     accept_antibot: true
     geoblock: TR
     last_failed: 2026-02-20 20:45
     force_search_ahead: true
-    success_since: 2026-09-01 22:11
+    success_since: 2026-09-21 17:24
   Frequently changed domains — portobettv*.com:
     last_known_mirror: www.portobettv55.com
     success_since: 2026-05-25
@@ -166,7 +166,7 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 40
+    failed_days: 41
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
@@ -224,5 +224,5 @@ sites:
     failed_days: 119
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas189.live
-    success_since: 2026-09-17 09:00
+    last_known_mirror: askimyavas190.live
+    success_since: 2026-09-21 17:24

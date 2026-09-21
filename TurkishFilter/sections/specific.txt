@@ -4342,8 +4342,8 @@ turkifsaclub.org#?#main > h3:contains(Sponsor Bannerlar)
 [$domain=/turkifsaclub\d+\.sbs/]##.ads-grid
 [$domain=/turkifsaclub\d+\.sbs/]#?#main > h3:contains(Sponsor Bannerlar)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsaclub202.sbs##.ads-grid
-turkifsaclub202.sbs#?#main > h3:contains(Sponsor Bannerlar)
+turkifsaclub203.sbs##.ads-grid
+turkifsaclub203.sbs#?#main > h3:contains(Sponsor Bannerlar)
 !#endif
 !
 ! Frequently changed domains: yavasgir*.com
@@ -4365,9 +4365,9 @@ primeembedpanel.com#%#//scriptlet('prevent-window-open')
 [$domain=/askimyavas\d+\.com/]#%#//scriptlet('remove-node-text', 'script', 'window.open')
 [$domain=/askimyavas\d+\.com/]$$script:contains(window.open)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-askimyavas189.live##a[href^="https://cutt.ly/"]
-askimyavas189.live###ads-inside-main
-askimyavas189.live#%#//scriptlet('remove-node-text', 'script', 'window.open')
+askimyavas190.live##a[href^="https://cutt.ly/"]
+askimyavas190.live###ads-inside-main
+askimyavas190.live#%#//scriptlet('remove-node-text', 'script', 'window.open')
 !#endif
 !
 ! Frequently changed domains: gobtv*.com
@@ -4518,7 +4518,7 @@ rotabettv515.com##body > a[href^="https://"][target="_blank"]
 [$domain=/betist\d+tv\.live/]##a[href^="https://cutt.ly/"]
 [$domain=/betist\d+tv\.live/]#$#body { background-image: none !important; }
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betist259tv.live,betist260tv.live,betist261tv.live,betist262tv.live,betist263tv.live,betist264tv.live,betist265tv.live,betist266tv.live,betist267tv.live,betist268tv.live,betist269tv.live,betist270tv.live,betist271tv.live,betist272tv.live,betist273tv.live,betist274tv.live,betist275tv.live,betist276tv.live,betist277tv.live,betist278tv.live,betist279tv.live,betist280tv.live#$#body { background-image: none !important; }
+betist260tv.live,betist261tv.live,betist262tv.live,betist263tv.live,betist264tv.live,betist265tv.live,betist266tv.live,betist267tv.live,betist268tv.live,betist269tv.live,betist270tv.live,betist271tv.live,betist272tv.live,betist273tv.live,betist274tv.live,betist275tv.live,betist276tv.live,betist277tv.live,betist278tv.live,betist279tv.live,betist280tv.live#$#body { background-image: none !important; }
 !#endif
 !
 ! Frequently changed domains: portobettv*.com
