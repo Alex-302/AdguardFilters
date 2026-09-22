@@ -8,7 +8,7 @@ sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
-    failed_days: 211
+    failed_days: 212
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Fail - example.org:
@@ -16,7 +16,7 @@ sites:
     probe_text:
       - not existing text
     last_failed: 2026-01-25 13:22
-    failed_days: 211
+    failed_days: 212
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Success - example.de:
@@ -36,8 +36,8 @@ sites:
     non_pattern_mirror: www.sporcafe-0c2608ad69.xyz
     success_since: 2026-08-14 05:37
   Frequently changed domains — belestepe*.sbs — Belestepe:
-    last_known_mirror: belestepe549.sbs
-    success_since: 2026-09-03 02:02
+    last_known_mirror: belestepe635.sbs
+    success_since: 2026-09-22 08:53
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal2127.com
     probe_text:
@@ -48,12 +48,12 @@ sites:
     pattern_changed: true
     non_pattern_mirror: resmi.dizipal2117.com
     failed_since: 2026-09-09 03:11
-    failed_days: 13
+    failed_days: 14
     potentially_dead: true
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
     failed_since: 2026-04-29 17:27
-    failed_days: 145
+    failed_days: 146
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
     last_known_mirror: turkifsaclub203.sbs
@@ -70,7 +70,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 136
+    failed_days: 137
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -98,7 +98,7 @@ sites:
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
     last_failed: 2026-02-17 20:13
-    failed_days: 211
+    failed_days: 212
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
@@ -123,8 +123,8 @@ sites:
     last_known_mirror: otobettv84.com
     success_since: 2026-09-17 15:52
   Frequently changed domains — rotabettv*.com:
-    last_known_mirror: rotabettv515.com
-    success_since: 2026-09-21 09:37
+    last_known_mirror: rotabettv516.com
+    success_since: 2026-09-22 08:53
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist260tv.live
     probe_text:
@@ -140,18 +140,18 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 34
+    failed_days: 35
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 172
+    failed_days: 173
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 61
+    failed_days: 62
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv33.com
@@ -171,11 +171,11 @@ sites:
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 187
+    failed_days: 188
     potentially_dead: true
   sultansportv562.com:
-    last_known_mirror: golvar549.sbs
-    success_since: 2026-09-19 15:24
+    last_known_mirror: golvar559.sbs
+    success_since: 2026-09-22 08:53
   taraftarium24.xyz:
     last_known_mirror: taraftarium24.xyz
     success_since: 2026-09-18 22:18
@@ -206,7 +206,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 209
+    failed_days: 210
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee362.com
@@ -221,7 +221,7 @@ sites:
       - Redirecting...
     path: e/nemg6vqtnrkf
     failed_since: 2026-05-25 17:42
-    failed_days: 119
+    failed_days: 120
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas190.live
