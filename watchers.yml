@@ -1,9 +1,7 @@
 sites:
   ww0.jmanga.cash:
     last_known_mirror: jmanga.actor
-    failed_since: 2026-09-23 15:46
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-09-23 19:20
   zonatmo.to:
     last_known_mirror: zonatmo.to
     failed_since: 2026-09-23 08:56
@@ -12,7 +10,7 @@ sites:
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
-    failed_days: 213
+    failed_days: 214
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Fail - example.org:
@@ -20,7 +18,7 @@ sites:
     probe_text:
       - not existing text
     last_failed: 2026-01-25 13:22
-    failed_days: 213
+    failed_days: 214
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Test Probe Success - example.de:
@@ -59,7 +57,7 @@ sites:
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
     failed_since: 2026-04-29 17:27
-    failed_days: 147
+    failed_days: 148
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
     last_known_mirror: turkifsaclub205.sbs
@@ -82,7 +80,7 @@ sites:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-04-04 16:35
-    failed_days: 172
+    failed_days: 173
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -99,12 +97,12 @@ sites:
   Frequently changed domains — seyirspor*.com:
     last_known_mirror: seyirspor17.com
     failed_since: 2026-04-17 16:54
-    failed_days: 159
+    failed_days: 160
     potentially_dead: true
   Frequently changed domains — lorabettvhd*.shop:
     last_known_mirror: lorabettvhd80.shop
     last_failed: 2026-02-17 20:13
-    failed_days: 213
+    failed_days: 214
     potentially_dead: true
     failed_since: 2026-02-22 17:31
   Frequently changed domains — acartv*.live:
@@ -136,14 +134,14 @@ sites:
     failed_days: 1
     potentially_dead: true
   Frequently changed domains — betist*tv.live:
-    last_known_mirror: betist260tv.live
+    last_known_mirror: betist261tv.live
     probe_text:
       - const BASE_URL  = "https://betist
     accept_antibot: true
     geoblock: TR
     last_failed: 2026-02-20 20:45
     force_search_ahead: true
-    success_since: 2026-09-21 17:24
+    success_since: 2026-09-23 19:20
   Frequently changed domains — portobettv*.com:
     last_known_mirror: www.portobettv55.com
     success_since: 2026-05-25
@@ -231,7 +229,7 @@ sites:
       - Redirecting...
     path: e/nemg6vqtnrkf
     failed_since: 2026-05-25 17:42
-    failed_days: 121
+    failed_days: 122
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
     last_known_mirror: askimyavas191.live
