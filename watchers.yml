@@ -5,7 +5,7 @@ sites:
   zonatmo.to:
     last_known_mirror: zonatmo.to
     failed_since: 2026-09-23 08:56
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
@@ -40,7 +40,7 @@ sites:
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe635.sbs
     failed_since: 2026-09-23 08:56
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal2127.com
@@ -52,7 +52,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: resmi.dizipal2117.com
     failed_since: 2026-09-09 03:11
-    failed_days: 15
+    failed_days: 16
     potentially_dead: true
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
@@ -66,15 +66,15 @@ sites:
     last_known_mirror: turkifsaclub205.sbs
     success_since: 2026-09-23 15:46
   Frequently changed domains — gobtv*.com:
-    last_known_mirror: gobtv26.com
-    success_since: 2026-07-16 13:47
+    last_known_mirror: gobtv27.com
+    success_since: 2026-09-24 16:08
   Frequently changed domains — trgooltv*.top:
     last_known_mirror: trgooltv69.top
     success_since: 2026-07-22 02:31
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 138
+    failed_days: 139
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -86,7 +86,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 191
+    failed_days: 192
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv89.shop
@@ -111,7 +111,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 91
+    failed_days: 92
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -123,7 +123,7 @@ sites:
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-09-23 08:56
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
   Frequently changed domains — otobettv*.com:
     last_known_mirror: otobettv84.com
@@ -131,7 +131,7 @@ sites:
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv516.com
     failed_since: 2026-09-23 08:56
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist261tv.live
@@ -148,18 +148,18 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 36
+    failed_days: 37
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 174
+    failed_days: 175
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 63
+    failed_days: 64
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv33.com
@@ -174,12 +174,12 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 43
+    failed_days: 44
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 189
+    failed_days: 190
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: golvar566.sbs
@@ -214,12 +214,14 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 211
+    failed_days: 212
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee362.com
     accept_antibot: true
-    success_since: 2026-09-18 22:18
+    failed_since: 2026-09-24 16:08
+    failed_days: 0
+    potentially_dead: true
   gptgirlfriend.com:
     last_known_mirror: www.gptgirlfriend.online
     success_since: 2026-05-25
