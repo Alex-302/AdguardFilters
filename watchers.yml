@@ -60,11 +60,11 @@ sites:
     failed_days: 149
     potentially_dead: true
   Frequently changed domains — turkifsaclub*.sbs:
-    last_known_mirror: turkifsaclub206.sbs
-    success_since: 2026-09-24 16:32
+    last_known_mirror: turkifsaclub207.sbs
+    success_since: 2026-09-25 16:08
   turkifsaclub-12.sbs:
-    last_known_mirror: turkifsaclub206.sbs
-    success_since: 2026-09-24 16:32
+    last_known_mirror: turkifsaclub207.sbs
+    success_since: 2026-09-25 16:08
   Frequently changed domains — gobtv*.com:
     last_known_mirror: gobtv27.com
     success_since: 2026-09-24 16:08
@@ -86,7 +86,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 192
+    failed_days: 193
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv89.shop
@@ -111,7 +111,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 92
+    failed_days: 93
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -174,7 +174,7 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 44
+    failed_days: 45
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
@@ -232,5 +232,5 @@ sites:
     failed_days: 123
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas192.live
-    success_since: 2026-09-24 16:32
+    last_known_mirror: askimyavas193.live
+    success_since: 2026-09-25 16:08
