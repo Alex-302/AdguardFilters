@@ -4390,9 +4390,9 @@ sahatv5.top##header > a + ul
 [$domain=/trgooltv\d+\.top/]##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
 [$domain=/trgooltv\d+\.top/]##div[class^="reklam-"]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-trgooltv69.top##div[style="margin: 10px; text-align: center;"]
-trgooltv69.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
-trgooltv69.top##div[class^="reklam-"]
+trgooltv73.top##div[style="margin: 10px; text-align: center;"]
+trgooltv73.top##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
+trgooltv73.top##div[class^="reklam-"]
 !#endif
 !
 ! Frequently changed domains: netsportv*.top
