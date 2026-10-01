@@ -126,8 +126,8 @@ sites:
     failed_days: 8
     potentially_dead: true
   Frequently changed domains — otobettv*.com:
-    last_known_mirror: otobettv85.com
-    success_since: 2026-09-29 00:03
+    last_known_mirror: otobettv86.com
+    success_since: 2026-10-01 03:05
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv516.com
     failed_since: 2026-09-23 08:56
@@ -159,7 +159,7 @@ sites:
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 70
+    failed_days: 71
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv33.com
@@ -179,7 +179,7 @@ sites:
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 196
+    failed_days: 197
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: golvar566.sbs
@@ -214,7 +214,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 218
+    failed_days: 219
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee365.com
