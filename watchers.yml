@@ -4,9 +4,7 @@ sites:
     success_since: 2026-10-04 19:12
   zonatmo.to:
     last_known_mirror: zonatmo.to
-    failed_since: 2026-09-23 08:56
-    failed_days: 12
-    potentially_dead: true
+    success_since: 2026-10-04 22:45
   Dead site test - deadexample24.com:
     initial_domain: deadexample24.com
     last_failed: 2026-01-01 16:45
@@ -74,7 +72,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 149
+    failed_days: 150
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -154,7 +152,7 @@ sites:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 185
+    failed_days: 186
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
