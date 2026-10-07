@@ -72,7 +72,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 152
+    failed_days: 153
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -132,14 +132,14 @@ sites:
     failed_days: 15
     potentially_dead: true
   Frequently changed domains — betist*tv.live:
-    last_known_mirror: betist265tv.live
+    last_known_mirror: betist266tv.live
     probe_text:
       - const BASE_URL  = "https://betist
     accept_antibot: true
     geoblock: TR
     last_failed: 2026-02-20 20:45
     force_search_ahead: true
-    success_since: 2026-10-03 15:25
+    success_since: 2026-10-07 23:56
   Frequently changed domains — portobettv*.com:
     last_known_mirror: www.portobettv55.com
     success_since: 2026-05-25
