@@ -38,7 +38,7 @@ sites:
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe635.sbs
     failed_since: 2026-09-23 08:56
-    failed_days: 16
+    failed_days: 17
     potentially_dead: true
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal2127.com
@@ -50,7 +50,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: resmi.dizipal2117.com
     failed_since: 2026-09-09 03:11
-    failed_days: 30
+    failed_days: 31
     potentially_dead: true
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
@@ -72,7 +72,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 153
+    failed_days: 154
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -109,7 +109,7 @@ sites:
   Frequently changed domains — bosssports*.com:
     last_known_mirror: bosssports612.com
     failed_since: 2026-06-25 10:41
-    failed_days: 106
+    failed_days: 107
     potentially_dead: true
   Frequently changed domains — inattvizle*.top:
     last_known_mirror: www.inattvizle500.top
@@ -121,7 +121,7 @@ sites:
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-09-23 08:56
-    failed_days: 16
+    failed_days: 17
     potentially_dead: true
   Frequently changed domains — otobettv*.com:
     last_known_mirror: otobettv87.com
@@ -129,7 +129,7 @@ sites:
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv516.com
     failed_since: 2026-09-23 08:56
-    failed_days: 16
+    failed_days: 17
     potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist266tv.live
@@ -146,7 +146,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 51
+    failed_days: 52
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -157,7 +157,7 @@ sites:
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 78
+    failed_days: 79
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv33.com
@@ -177,7 +177,7 @@ sites:
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 204
+    failed_days: 205
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: golvar566.sbs
@@ -212,7 +212,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 226
+    failed_days: 227
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee365.com
@@ -230,5 +230,5 @@ sites:
     failed_days: 137
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas197.live
-    success_since: 2026-10-05 04:10
+    last_known_mirror: askimyavas198.live
+    success_since: 2026-10-09 11:01
