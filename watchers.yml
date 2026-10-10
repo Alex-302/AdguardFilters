@@ -38,7 +38,7 @@ sites:
   Frequently changed domains — belestepe*.sbs — Belestepe:
     last_known_mirror: belestepe635.sbs
     failed_since: 2026-09-23 08:56
-    failed_days: 17
+    failed_days: 18
     potentially_dead: true
   Frequently changed domains — dizipal*.com — Dizipal:
     last_known_mirror: dizipal2127.com
@@ -121,7 +121,7 @@ sites:
     last_known_mirror: kralsportshd7.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-09-23 08:56
-    failed_days: 17
+    failed_days: 18
     potentially_dead: true
   Frequently changed domains — otobettv*.com:
     last_known_mirror: otobettv88.com
@@ -129,7 +129,7 @@ sites:
   Frequently changed domains — rotabettv*.com:
     last_known_mirror: rotabettv516.com
     failed_since: 2026-09-23 08:56
-    failed_days: 17
+    failed_days: 18
     potentially_dead: true
   Frequently changed domains — betist*tv.live:
     last_known_mirror: betist266tv.live
@@ -146,7 +146,7 @@ sites:
   Frequently changed domains — betivotv*.com:
     last_known_mirror: betivotv157.com
     failed_since: 2026-08-19 08:35
-    failed_days: 52
+    failed_days: 53
     potentially_dead: true
   Frequently changed domains — Saha TV:
     initial_domain: sahatv2.top
@@ -196,9 +196,9 @@ sites:
     accept_antibot: true
     success_since: 2026-10-09 17:43
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium214.top
+    last_known_mirror: www.taraftarium216.top
     accept_antibot: true
-    success_since: 2026-10-10 04:26
+    success_since: 2026-10-10 10:15
   patronspor04548a2wer45awes.cfd:
     initial_domain: https://t.co/sRxEaOU2pj
     last_known_mirror: raw.githack.com
