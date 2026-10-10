@@ -41,7 +41,7 @@ sites:
     failed_days: 18
     potentially_dead: true
   Frequently changed domains — dizipal*.com — Dizipal:
-    last_known_mirror: dizipal2127.com
+    last_known_mirror: dizipal2138.com
     probe_text:
       - h1>Dizipal</h1>
     last_failed: 2026-02-12 04:28
@@ -49,9 +49,7 @@ sites:
       - dizipal2116.com
     pattern_changed: true
     non_pattern_mirror: resmi.dizipal2117.com
-    failed_since: 2026-09-09 03:11
-    failed_days: 32
-    potentially_dead: true
+    success_since: 2026-10-10 23:15
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
     failed_since: 2026-04-29 17:27
@@ -187,10 +185,10 @@ sites:
     success_since: 2026-09-18 22:18
   www.papazsports924.pro wwwwww:
     initial_domain: www.papazsports930.pro
-    last_known_mirror: www.papazsports1027.pro
+    last_known_mirror: www.papazsports1028.pro
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-10-08 21:03
+    success_since: 2026-10-10 23:15
   www.selcuksportshd8443661f57.xyz:
     last_known_mirror: www.selcuksportshdfe44b96fcb.xyz
     accept_antibot: true
