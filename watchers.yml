@@ -78,7 +78,7 @@ sites:
     last_known_mirror: zeustv243.com
     last_failed: 2026-01-25 13:22
     failed_since: 2026-04-04 16:35
-    failed_days: 189
+    failed_days: 190
     potentially_dead: true
   Frequently changed domains — xsportv*.xyz:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
@@ -196,9 +196,9 @@ sites:
     accept_antibot: true
     success_since: 2026-10-09 17:43
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium217.top
+    last_known_mirror: www.taraftarium218.top
     accept_antibot: true
-    success_since: 2026-10-10 14:14
+    success_since: 2026-10-10 16:35
   patronspor04548a2wer45awes.cfd:
     initial_domain: https://t.co/sRxEaOU2pj
     last_known_mirror: raw.githack.com
