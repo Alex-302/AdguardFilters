@@ -72,7 +72,7 @@ sites:
   Frequently changed domains — netsportv*.top:
     last_known_mirror: netsportv263.top
     failed_since: 2026-05-08 21:04
-    failed_days: 155
+    failed_days: 156
     potentially_dead: true
   Frequently changed domains — zeustv*.com:
     last_known_mirror: zeustv243.com
@@ -152,7 +152,7 @@ sites:
     initial_domain: sahatv2.top
     last_known_mirror: sahatv5.top
     failed_since: 2026-04-02 20:34
-    failed_days: 191
+    failed_days: 192
     potentially_dead: true
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
@@ -196,9 +196,9 @@ sites:
     accept_antibot: true
     success_since: 2026-10-09 17:43
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium219.top
+    last_known_mirror: www.taraftarium220.top
     accept_antibot: true
-    success_since: 2026-10-10 19:47
+    success_since: 2026-10-10 23:06
   patronspor04548a2wer45awes.cfd:
     initial_domain: https://t.co/sRxEaOU2pj
     last_known_mirror: raw.githack.com
