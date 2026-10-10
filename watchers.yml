@@ -50,7 +50,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: resmi.dizipal2117.com
     failed_since: 2026-09-09 03:11
-    failed_days: 31
+    failed_days: 32
     potentially_dead: true
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
@@ -157,7 +157,7 @@ sites:
   Frequently changed domains — YavasGir:
     last_known_mirror: yavasgir136.live
     failed_since: 2026-07-23 02:36
-    failed_days: 79
+    failed_days: 80
     potentially_dead: true
   Frequently changed domains — kodtimetv*.com:
     last_known_mirror: kodtimetv34.com
@@ -177,7 +177,7 @@ sites:
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
     failed_since: 2026-03-19 02:08
-    failed_days: 205
+    failed_days: 206
     potentially_dead: true
   sultansportv562.com:
     last_known_mirror: golvar566.sbs
@@ -196,9 +196,9 @@ sites:
     accept_antibot: true
     success_since: 2026-10-09 17:43
   www.taraftarium91.top:
-    last_known_mirror: www.taraftarium212.top
+    last_known_mirror: www.taraftarium213.top
     accept_antibot: true
-    success_since: 2026-10-09 23:42
+    success_since: 2026-10-10 03:19
   patronspor04548a2wer45awes.cfd:
     initial_domain: https://t.co/sRxEaOU2pj
     last_known_mirror: raw.githack.com
@@ -212,7 +212,7 @@ sites:
     probe_text:
       - banner-container
     failed_since: 2026-02-25 02:04
-    failed_days: 227
+    failed_days: 228
     potentially_dead: true
   torrentsee:
     last_known_mirror: torrentsee365.com
