@@ -4342,8 +4342,8 @@ turkifsaclub.org#?#main > h3:contains(Sponsor Bannerlar)
 [$domain=/turkifsaclub\d+\.sbs/]##.ads-grid
 [$domain=/turkifsaclub\d+\.sbs/]#?#main > h3:contains(Sponsor Bannerlar)
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsaclub215.sbs##.ads-grid
-turkifsaclub215.sbs#?#main > h3:contains(Sponsor Bannerlar)
+turkifsaclub216.sbs##.ads-grid
+turkifsaclub216.sbs#?#main > h3:contains(Sponsor Bannerlar)
 !#endif
 !
 ! Frequently changed domains: yavasgir*.com
@@ -4518,7 +4518,7 @@ rotabettv516.com##body > a[href^="https://"][target="_blank"]
 [$domain=/betist\d+tv\.live/]##a[href^="https://cutt.ly/"]
 [$domain=/betist\d+tv\.live/]#$#body { background-image: none !important; }
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-betist266tv.live,betist267tv.live,betist268tv.live,betist269tv.live,betist270tv.live,betist271tv.live,betist272tv.live,betist273tv.live,betist274tv.live,betist275tv.live,betist276tv.live,betist277tv.live,betist278tv.live,betist279tv.live,betist280tv.live#$#body { background-image: none !important; }
+betist267tv.live,betist268tv.live,betist269tv.live,betist270tv.live,betist271tv.live,betist272tv.live,betist273tv.live,betist274tv.live,betist275tv.live,betist276tv.live,betist277tv.live,betist278tv.live,betist279tv.live,betist280tv.live#$#body { background-image: none !important; }
 !#endif
 !
 ! Frequently changed domains: portobettv*.com
