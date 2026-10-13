@@ -25,9 +25,7 @@ sites:
       - Malerei der Gruppe 3erlei
     pattern_changed: true
     non_pattern_mirror: example.de
-    failed_since: 2026-10-13 11:26
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-10-13 15:24
   Frequently changed domains — sporcafe*.xyz — Spor Cafe:
     last_known_mirror: www.sporcafe-0c2608ad69.xyz
     accept_antibot: true
@@ -52,7 +50,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: resmi.dizipal2117.com
     failed_since: 2026-10-13 11:26
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Frequently changed domains — zeusdizi*.com:
     last_known_mirror: zeusdizi22.com
@@ -86,7 +84,7 @@ sites:
     last_known_mirror: www.xsportv-21ee22f79d.xyz
     last_failed: 2026-02-14 16:55
     failed_since: 2026-03-17 13:11
-    failed_days: 210
+    failed_days: 211
     potentially_dead: true
   Frequently changed domains — vegatv*.shop:
     last_known_mirror: vegatv99.shop
@@ -174,7 +172,7 @@ sites:
   piabettv14.live:
     last_known_mirror: piabettv21.live
     failed_since: 2026-08-12 13:05
-    failed_days: 62
+    failed_days: 63
     potentially_dead: true
   restmacizle23.cfd:
     last_known_mirror: restmacizle60.cfd
@@ -232,5 +230,5 @@ sites:
     failed_days: 141
     potentially_dead: true
   Frequently changed domains — askimyavas*.com:
-    last_known_mirror: askimyavas199.live
-    success_since: 2026-10-12 17:24
+    last_known_mirror: askimyavas200.live
+    success_since: 2026-10-13 15:24
